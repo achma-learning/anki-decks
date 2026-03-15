@@ -1,1 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anki Decks Store</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #0f0f0f;
+      color: #e0e0e0;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: #1a1a2e;
+      border-bottom: 1px solid #2a2a4a;
+      padding: 0 24px;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+    }
+
+    .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, #6c63ff, #3ecf8e);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+    }
+
+    .logo-text {
+      font-size: 20px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .logo-text span {
+      color: #6c63ff;
+    }
+
+    header p {
+      color: #888;
+      font-size: 14px;
+      margin-left: auto;
+    }
+
+    /* ── Main ── */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      text-align: center;
+      padding: 48px 24px 56px;
+    }
+
+    .hero h1 {
+      font-size: clamp(28px, 5vw, 48px);
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.2;
+    }
+
+    .hero h1 span {
+      background: linear-gradient(135deg, #6c63ff, #3ecf8e);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero p {
+      margin-top: 16px;
+      font-size: 18px;
+      color: #aaa;
+      max-width: 520px;
+      margin-inline: auto;
+    }
+
+    /* ── Section ── */
+    .section-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .section-title::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: #2a2a3a;
+    }
+
+    section { margin-bottom: 56px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: #1c1c2e;
+      border: 1px solid #2a2a4a;
+      border-radius: 16px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 32px rgba(108, 99, 255, 0.2);
+    }
+
+    .card-banner {
+      height: 100px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 48px;
+    }
+
+    .card-body {
+      padding: 18px 20px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .card-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .card-desc {
+      font-size: 13px;
+      color: #999;
+      line-height: 1.55;
+      flex: 1;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 4px;
+    }
+
+    .badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 9px;
+      border-radius: 20px;
+      background: #2a2a4a;
+      color: #9090d0;
+    }
+
+    .badge.green  { background: #1a3a2a; color: #3ecf8e; }
+    .badge.purple { background: #2a1a4a; color: #a990ff; }
+    .badge.blue   { background: #1a2a4a; color: #60b0ff; }
+    .badge.orange { background: #3a2a1a; color: #ffaa60; }
+
+    .card-footer {
+      padding: 14px 20px;
+      border-top: 1px solid #2a2a3a;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: opacity 0.2s;
+      cursor: pointer;
+    }
+
+    .btn:hover { opacity: 0.85; }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #6c63ff, #5a54d4);
+      color: #fff;
+    }
+
+    .btn-secondary {
+      background: #2a2a4a;
+      color: #a0a0d0;
+    }
+
+    .btn-green {
+      background: linear-gradient(135deg, #3ecf8e, #30a870);
+      color: #fff;
+    }
+
+    /* ── Resources list ── */
+    .resource-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .resource-item {
+      background: #1c1c2e;
+      border: 1px solid #2a2a4a;
+      border-radius: 12px;
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+
+    .resource-item:hover { background: #222240; }
+
+    .resource-icon {
+      font-size: 28px;
+      width: 48px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #2a2a4a;
+      border-radius: 10px;
+      flex-shrink: 0;
+    }
+
+    .resource-info h3 { font-size: 15px; font-weight: 600; color: #fff; }
+    .resource-info p  { font-size: 13px; color: #888; margin-top: 3px; }
+
+    .resource-arrow {
+      margin-left: auto;
+      color: #555;
+      font-size: 18px;
+    }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 32px 24px;
+      color: #555;
+      font-size: 13px;
+      border-top: 1px solid #1a1a2a;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <a href="#" class="logo">
+    <div class="logo-icon">🃏</div>
+    <span class="logo-text">Anki<span>Store</span></span>
+  </a>
+  <p>Community Decks</p>
+</header>
+
+<main>
+
+  <!-- Hero -->
+  <div class="hero">
+    <h1>The best <span>Anki decks</span>,<br>all in one place.</h1>
+    <p>Curated, high-quality flashcard decks for geography, medicine, and more.</p>
+  </div>
+
+  <!-- Geography -->
+  <section>
+    <h2 class="section-title">🌍 Geography</h2>
+    <div class="cards">
+
+      <div class="card">
+        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a5a, #0f2a4a);">🗺️</div>
+        <div class="card-body">
+          <div class="card-title">Ultimate Geography</div>
+          <div class="card-desc">
+            The most comprehensive geography deck on AnkiWeb. Covers flags, maps, capitals,
+            and regional info for every country — with beautiful flag images.
+          </div>
+          <div class="card-meta">
+            <span class="badge blue">Flags</span>
+            <span class="badge blue">Capitals</span>
+            <span class="badge blue">Maps</span>
+            <span class="badge green">Open Source</span>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-primary" href="https://ankiweb.net/shared/info/2109889812" target="_blank" rel="noopener">
+            ⬇ Download
+          </a>
+          <a class="btn btn-secondary" href="https://github.com/anki-geo/ultimate-geography" target="_blank" rel="noopener">
+            GitHub
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- French Medical (Externat / ECNI) -->
+  <section>
+    <h2 class="section-title">🩺 Médecine — Externat / ECNI</h2>
+    <div class="cards">
+
+      <div class="card">
+        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a2a, #0f2a1a);">📚</div>
+        <div class="card-body">
+          <div class="card-title">Anki Externat — Pack Complet</div>
+          <div class="card-desc">
+            Decks communautaires couvrant les grandes matières de l'externat médical français.
+            Fiches de sémiologie, pharmacologie, et plus.
+          </div>
+          <div class="card-meta">
+            <span class="badge green">Sémiologie</span>
+            <span class="badge green">Pharmaco</span>
+            <span class="badge green">ECNI</span>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-green" href="https://buymeacoffee.com/ankiexternat" target="_blank" rel="noopener">
+            ☕ Support &amp; Download
+          </a>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-banner" style="background: linear-gradient(135deg, #3a1a3a, #2a0f2a);">🧬</div>
+        <div class="card-body">
+          <div class="card-title">Deck ECNI — Sémiologie</div>
+          <div class="card-desc">
+            Deck de sémiologie médicale structuré pour les étudiants en médecine.
+            Idéal pour la préparation aux ECNi / iECN.
+          </div>
+          <div class="card-meta">
+            <span class="badge purple">Sémiologie</span>
+            <span class="badge purple">ECNi</span>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-primary" href="https://ankiweb.net/shared/info/111233667" target="_blank" rel="noopener">
+            ⬇ Deck 1
+          </a>
+          <a class="btn btn-secondary" href="https://ankiweb.net/shared/info/1585739367" target="_blank" rel="noopener">
+            Deck 2
+          </a>
+          <a class="btn btn-secondary" href="https://ankiweb.net/shared/info/1150437141" target="_blank" rel="noopener">
+            Deck 3
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Drive Resources -->
+  <section>
+    <h2 class="section-title">☁️ Drive Resources</h2>
+    <div class="resource-list">
+
+      <a class="resource-item" href="https://drive.google.com/drive/folders/1w4zsESQDYmgPE0kY7Yteuv-buEG6IuSF" target="_blank" rel="noopener">
+        <div class="resource-icon">📂</div>
+        <div class="resource-info">
+          <h3>Decks Publics</h3>
+          <p>Collection de decks Anki en accès libre sur Google Drive</p>
+        </div>
+        <span class="resource-arrow">›</span>
+      </a>
+
+      <a class="resource-item" href="https://drive.google.com/drive/folders/1cVhlHK7zCT5fL7uhbUP-qeVF5Lryvplq" target="_blank" rel="noopener">
+        <div class="resource-icon">🩺</div>
+        <div class="resource-info">
+          <h3>Sémiologie — Drive</h3>
+          <p>Decks de sémiologie médicale (Google Drive)</p>
+        </div>
+        <span class="resource-arrow">›</span>
+      </a>
+
+      <a class="resource-item" href="https://drive.google.com/drive/folders/1YCzTSCZtS5e7IoIEAAo9ryfu3agY7Kkd" target="_blank" rel="noopener">
+        <div class="resource-icon">🎁</div>
+        <div class="resource-info">
+          <h3>Decks Donateurs</h3>
+          <p>Accès aux decks exclusifs pour les donateurs</p>
+        </div>
+        <span class="resource-arrow">›</span>
+      </a>
+
+      <a class="resource-item" href="https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/" target="_blank" rel="noopener">
+        <div class="resource-icon">👥</div>
+        <div class="resource-info">
+          <h3>Groupe Facebook — Anki ECNI</h3>
+          <p>Communauté d'étudiants partageant des ressources Anki pour les ECNi</p>
+        </div>
+        <span class="resource-arrow">›</span>
+      </a>
+
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p>AnkiStore — Community curated decks. Not affiliated with Ankiweb or Anki.</p>
+</footer>
+
+</body>
+</html>
