@@ -1,0 +1,8 @@
+how about building an AI agent that fetch moroccan generique medicament (https://ammps.sante.gov.ma/callpages/RMMG) and build a anki deck and auto update it every 3 months
+build a anki deck (.apkg) based on analysis of this website : https://ammps.sante.gov.ma/callpages/RMMG
+
+this anki deck is oriented for doctors
+
+don't include in deck theses : 
++ EPI
++ EAN13
