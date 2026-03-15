@@ -1,1 +1,2 @@
-upload a backup version on anki decks to drive (google/mega/...) "https://drive.google.com/drive/folders/1scjw743SavC33uBjWVy0qzqNN7pKRl3x?usp=sharing" , and add the link of backup to index.html 
+upload if possible mutltiples backup versions about anki decks to drive google/mega/ github if <25mb / ...) "https://drive.google.com/drive/folders/1scjw743SavC33uBjWVy0qzqNN7pKRl3x?usp=sharing" , and add the link of backup to index.html 
+and don't forget to update anki-url.txt "https://github.com/achma-learning/anki-decks/blob/main/anki-url.txt"
