@@ -1,3 +1,7 @@
+next task :
+add a translating of region name into arabic, and location of each region on morocco map
+---
+old - this task was completed
 create a anki deck with moroccan car plate :
 on front show number, and in answer show Region 
 Regional codes
