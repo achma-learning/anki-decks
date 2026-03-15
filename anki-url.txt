@@ -15,7 +15,6 @@ https://ankiweb.net/shared/info/111233667
 https://ankiweb.net/shared/info/1585739367
 https://ankiweb.net/shared/info/1150437141
 ---
-
 Medical decks by Aymane Tfl
 Constantes biologiques usuelles : https://drive.google.com/file/d/1UmuATdFKoeBLdIgz0-lvIJWmhQG7rq8v/view?usp=drive_link
 
@@ -34,8 +33,21 @@ Physiologie : https://drive.google.com/file/d/1YOJKwcLPGbJKqhveZvNvaeAEvvurQHht/
 Le seul deck d'ECG que vous aurez besoin : https://drive.google.com/file/d/17_tq3NWvlAutZSP-SHTJGJmSrxbrBiER/view?usp=drive_link
 Les seuls cas cliniuqes d'ECG dont vous aurez besoin : https://drive.google.com/file/d/1H00vciuMSxo-VoT5mn1N1mN-tFzWkiAV/view?usp=drive_link
 
+https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/?_rdc=1&_rdr
+// end by Aymane Tfl
+---
 https://drive.google.com/drive/folders/1M9hg4EMRoFRQ4wh_E2xIOu_bKmg7ze59
 https://drive.google.com/drive/folders/1xGRecpkZXORThxg6dbOypTghwBK4CfQL
 
 https://taalimma-my.sharepoint.com/my?id=%2Fpersonal%2Fk138142046%5Ftaalim%5Fma%2FDocuments%2Fanki%2F1%2E%20French%2Fliste%20question&viewid=fb11ea89%2D3a75%2D4a07%2D836f%2Dfd4b747204d7
 
+---
+The anking
+https://linktr.ee/ankingmed
+USMLE Lab Values : https://app.ankihub.net/decks/ead74597-bdde-4655-8201-e9fe0eeb528e
+Dermki : https://app.ankihub.net/decks/271bd550-5bfd-44a1-bfbd-df1878c33b5f
+Dermki Notion website : https://ankingmed.notion.site/?pvs=143
+Brand Names : https://app.ankihub.net/decks/c517d221-5cf4-42fa-b9d3-0c261db54dfb
+// end of anking
+---
+how about building an AI agent that fetch moroccan generique medicament (https://ammps.sante.gov.ma/callpages/RMMG) and build a anki deck and auto update it every 3 months
