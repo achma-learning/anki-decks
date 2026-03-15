@@ -1,5 +1,5 @@
 next task :
-add a translating of region name into arabic, and location of each region on morocco map
+add a translating of region name into arabic, and location of each region on morocco map, use google maps or a template and import it to google earth
 ---
 old - this task was completed
 create a anki deck with moroccan car plate :
