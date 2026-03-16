@@ -1,37 +1,35 @@
+Pour télécharger Anki : https://apps.ankiweb.net/
+Anki x ECNi drive : https://drive.google.com/drive/folders/1M9hg4EMRoFRQ4wh_E2xIOu_bKmg7ze59
+Anki x EDN facebook group : 
+https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/
+---
 https://ankiweb.net/shared/info/2109889812 | source (https://github.com/anki-geo/ultimate-geography)
 moroccan plate car : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/plaques_marocaines.apkg
 not now / ignore : grade poste mil
-
 ---
 kit soins intensif : https://drive.google.com/drive/u/0/folders/1JkvC6-tekBHI6AT5hCvitRM6VU6aB4o9
 kit soints intensif backup : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/Kit%20d'autoformation%20en%20soins%20intensifs.apkg
 kit soins intensif website : https://sites.google.com/view/kit-e-learning-soins-intensifs/accueil
 ---
-Anki x EDN facebook group : 
-https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/
----
-ANKIMED facebook group : https://web.facebook.com/groups/1259604734553642
-ANKIMED deck : https://drive.google.com/drive/folders/1qDLpSTmLTB8ZBNhoME8Jr0DoESOR6FaO
-
+// ANKIMED start
+ANKIMED (R2C) deck : https://drive.google.com/drive/folders/1qDLpSTmLTB8ZBNhoME8Jr0DoESOR6FaO
 Lien du drive Paquet Descartes (pré-R2C) : https://drive.google.com/drive/folders/1xGRecpkZXORThxg6dbOypTghwBK4CfQL
-Pour télécharger Anki : https://apps.ankiweb.net/
+ANKIMED facebook group : https://web.facebook.com/groups/1259604734553642
 Pour faire un don : https://www.buymeacoffee.com/AnkiR2C
----
-Lien des decks :
-https://ankiweb.net/shared/info/111233667
-https://ankiweb.net/shared/info/1585739367
-https://ankiweb.net/shared/info/1150437141
+// ANKIMED end
 ---
 Medical decks by Aymane Tfl
 Constantes biologiques usuelles : https://drive.google.com/file/d/1UmuATdFKoeBLdIgz0-lvIJWmhQG7rq8v/view?usp=drive_link
   Constantes biologiques usuelles (backup) : https://drive.google.com/file/d/1erLnPnYXY9tiScKMBTrlFUj35vEhHWAr/view?usp=drive_link
 
 Anettermie (anatomie) : https://drive.google.com/file/d/1Kt4_BWcsBkN1_0zvG2n_AGaU5Q_yGm6T/view?usp=drive_link
+  Anettermie (ankiweb) https://ankiweb.net/shared/info/111233667
   Anettermie (backup) : https://drive.google.com/file/d/11DQGp2hBQTwjpkAzb6wHpN2QkpuriY6g/view?usp=drive_link
 Atlats photographique (anatomie Dissection) : https://drive.google.com/file/d/12gzEWgbrP1sU2cmP9q-bWAagCwx8KocZ/view?usp=drive_link
   Atals photographique (backup) : https://drive.google.com/file/d/10i48g4GLvgZJQhyQrVIQZYRZZwidrZB5/view?usp=drive_link
 
 Ausculatation cardiaque : https://drive.google.com/file/d/1i1YpYe5KHdgQkI6DyJAD-xM6m1eKWKWn/view?usp=drive_link
+  Ausculation cardiaque (ankiweb) : https://ankiweb.net/shared/info/1150437141
   Ausculation cardiaque (backup) : https://drive.google.com/file/d/1w8W5N7n6PPVhkrBFZKbq1vpXhiYAKHeN/view?usp=drive_link
 Ausculatation pulmonaire : https://drive.google.com/file/d/1KF0uvLiI9aaGbrNnODHuGVzMNVusC-WY/view?usp=drive_link
   Auscultation pulmonaire (bakcup) : https://drive.google.com/file/d/1b2Un46WUZFS3wZm1gQdztWSuumah1CUD/view?usp=drive_link
@@ -71,10 +69,8 @@ v1 (317 cards) : https://github.com/achma-learning/anki-decks/raw/refs/heads/mai
 #1 Suffix et prefix
 v0 : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco/pharmaco-suffix-v0.apkg
 v1 : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco-suffix/pharmaco-dci-suffixes-v1.apkg
+// end of pharmaco
 ---
-https://drive.google.com/drive/folders/1M9hg4EMRoFRQ4wh_E2xIOu_bKmg7ze59
-https://drive.google.com/drive/folders/1xGRecpkZXORThxg6dbOypTghwBK4CfQL
-
 https://taalimma-my.sharepoint.com/my?id=%2Fpersonal%2Fk138142046%5Ftaalim%5Fma%2FDocuments%2Fanki%2F1%2E%20French%2Fliste%20question&viewid=fb11ea89%2D3a75%2D4a07%2D836f%2Dfd4b747204d7
 ---
 The anking
