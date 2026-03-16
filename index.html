@@ -169,7 +169,6 @@
       gap: 20px;
     }
 
-    /* smaller compact cards for large deck lists */
     .cards-compact {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -249,6 +248,7 @@
     .badge.orange { background: #3a2a1a; color: #ffaa60; }
     .badge.red    { background: #3a1a1a; color: #ff8080; }
     .badge.teal   { background: #1a3a3a; color: #40d0d0; }
+    .badge.yellow { background: #3a3a1a; color: #d0d040; }
 
     .card-footer {
       padding: 12px 18px;
@@ -274,12 +274,13 @@
 
     .btn:hover { opacity: 0.82; }
 
-    .btn-primary  { background: linear-gradient(135deg, #6c63ff, #5a54d4); color: #fff; }
-    .btn-green    { background: linear-gradient(135deg, #3ecf8e, #30a870); color: #fff; }
-    .btn-orange   { background: linear-gradient(135deg, #ff8c42, #e67a30); color: #fff; }
-    .btn-red      { background: linear-gradient(135deg, #ff5f7e, #d94a68); color: #fff; }
-    .btn-teal     { background: linear-gradient(135deg, #20c0c0, #189898); color: #fff; }
+    .btn-primary   { background: linear-gradient(135deg, #6c63ff, #5a54d4); color: #fff; }
+    .btn-green     { background: linear-gradient(135deg, #3ecf8e, #30a870); color: #fff; }
+    .btn-orange    { background: linear-gradient(135deg, #ff8c42, #e67a30); color: #fff; }
+    .btn-red       { background: linear-gradient(135deg, #ff5f7e, #d94a68); color: #fff; }
+    .btn-teal      { background: linear-gradient(135deg, #20c0c0, #189898); color: #fff; }
     .btn-secondary { background: #2a2a4a; color: #a0a0d0; }
+    .btn-backup    { background: #1a1a2a; color: #666; font-size: 11px; padding: 5px 10px; }
 
     /* ── Resource list ── */
     .resource-list {
@@ -340,9 +341,7 @@
       flex-wrap: wrap;
     }
 
-    .anking-logo {
-      font-size: 48px;
-    }
+    .anking-logo { font-size: 48px; }
 
     .anking-info h3 { font-size: 20px; font-weight: 700; color: #fff; }
     .anking-info p  { font-size: 14px; color: #888; margin-top: 4px; }
@@ -371,7 +370,9 @@
   </a>
   <nav>
     <a href="#geography">Geography</a>
+    <a href="#soins-intensifs">Soins Intensifs</a>
     <a href="#med-fr">Médecine FR</a>
+    <a href="#pharmaco">Pharmaco</a>
     <a href="#aymane">Aymane Tfl</a>
     <a href="#anking">AnKing</a>
     <a href="#community">Communauté</a>
@@ -391,10 +392,10 @@
   </div>
 
   <!-- ══════════════════════════════════════
-       GEOGRAPHY
+       GEOGRAPHY & MISC
   ══════════════════════════════════════ -->
   <section id="geography">
-    <h2 class="section-title">🌍 Geography</h2>
+    <h2 class="section-title">🌍 Geography &amp; Divers</h2>
     <div class="cards">
 
       <div class="card">
@@ -415,6 +416,54 @@
         <div class="card-footer">
           <a class="btn btn-primary" href="https://ankiweb.net/shared/info/2109889812" target="_blank" rel="noopener">⬇ Download</a>
           <a class="btn btn-secondary" href="https://github.com/anki-geo/ultimate-geography" target="_blank" rel="noopener">GitHub</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a2a, #0d281a);">🚗</div>
+        <div class="card-body">
+          <div class="card-title">Plaques Marocaines</div>
+          <div class="card-desc">
+            Apprenez à reconnaître les plaques d'immatriculation marocaines —
+            régions, préfectures et codes associés.
+          </div>
+          <div class="card-meta">
+            <span class="badge green">Maroc</span>
+            <span class="badge green">Plaques</span>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-green" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/plaques_marocaines.apkg" target="_blank" rel="noopener">⬇ Download .apkg</a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════
+       KIT SOINS INTENSIFS
+  ══════════════════════════════════════ -->
+  <section id="soins-intensifs">
+    <h2 class="section-title">🚨 Kit Soins Intensifs</h2>
+    <div class="cards">
+
+      <div class="card">
+        <div class="card-banner" style="background: linear-gradient(135deg, #3a1a1a, #280d0d);">🏥</div>
+        <div class="card-body">
+          <div class="card-title">Kit d'autoformation en Soins Intensifs</div>
+          <div class="card-desc">
+            Kit e-learning complet pour l'autoformation en soins intensifs.
+            Deck Anki accompagné d'un site web pédagogique dédié.
+          </div>
+          <div class="card-meta">
+            <span class="badge red">Soins Intensifs</span>
+            <span class="badge red">E-learning</span>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-red" href="https://drive.google.com/drive/u/0/folders/1JkvC6-tekBHI6AT5hCvitRM6VU6aB4o9" target="_blank" rel="noopener">☁ Drive</a>
+          <a class="btn btn-primary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/Kit%20d'autoformation%20en%20soins%20intensifs.apkg" target="_blank" rel="noopener">⬇ Backup .apkg</a>
+          <a class="btn btn-secondary" href="https://sites.google.com/view/kit-e-learning-soins-intensifs/accueil" target="_blank" rel="noopener">🌐 Site Web</a>
         </div>
       </div>
 
@@ -491,7 +540,7 @@
 
     </div>
 
-    <!-- Anki Externat / Anki R2C -->
+    <!-- Anki Externat -->
     <div class="subsection-label" style="margin-top:36px;">Anki Externat</div>
     <div class="cards">
 
@@ -539,6 +588,54 @@
   </section>
 
   <!-- ══════════════════════════════════════
+       PHARMACOLOGIE
+  ══════════════════════════════════════ -->
+  <section id="pharmaco">
+    <h2 class="section-title">💊 Pharmacologie</h2>
+    <div class="cards">
+
+      <div class="card">
+        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a1a, #0d280d);">💉</div>
+        <div class="card-body">
+          <div class="card-title">RMMG — Noms des Médicaments Génériques</div>
+          <div class="card-desc">
+            Répertoire des Médicaments et Médicaments Génériques du Maroc.
+            Version complète avec 3000+ cartes.
+          </div>
+          <div class="card-meta">
+            <span class="badge green">Maroc</span>
+            <span class="badge green">3000+ cartes</span>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-green" href="https://github.com/achma-learning/anki-decks/blob/main/anki-decks-backups/rmmg/v2-RMMG_Maroc_2026.apkg" target="_blank" rel="noopener">⬇ v2 (3000+)</a>
+          <a class="btn btn-secondary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/rmmg/v1-RMMG_Medicaments_Generiques_Maroc.apkg" target="_blank" rel="noopener">⬇ v1 (317)</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-banner" style="background: linear-gradient(135deg, #2a1a3a, #1a0d28);">🔤</div>
+        <div class="card-body">
+          <div class="card-title">Suffixes &amp; Préfixes DCI</div>
+          <div class="card-desc">
+            Apprenez les suffixes et préfixes des DCI (Dénomination Commune Internationale)
+            pour identifier rapidement les classes pharmacologiques.
+          </div>
+          <div class="card-meta">
+            <span class="badge purple">DCI</span>
+            <span class="badge purple">Suffixes</span>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-primary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco-suffix/pharmaco-dci-suffixes-v1.apkg" target="_blank" rel="noopener">⬇ v1</a>
+          <a class="btn btn-secondary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco/pharmaco-suffix-v0.apkg" target="_blank" rel="noopener">⬇ v0</a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════
        AYMANE TFL DECKS
   ══════════════════════════════════════ -->
   <section id="aymane">
@@ -553,6 +650,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-primary" href="https://drive.google.com/file/d/1UmuATdFKoeBLdIgz0-lvIJWmhQG7rq8v/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/1erLnPnYXY9tiScKMBTrlFUj35vEhHWAr/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -564,6 +662,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-primary" href="https://drive.google.com/file/d/1Kt4_BWcsBkN1_0zvG2n_AGaU5Q_yGm6T/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/11DQGp2hBQTwjpkAzb6wHpN2QkpuriY6g/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -575,6 +674,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-primary" href="https://drive.google.com/file/d/12gzEWgbrP1sU2cmP9q-bWAagCwx8KocZ/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/10i48g4GLvgZJQhyQrVIQZYRZZwidrZB5/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -586,6 +686,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-red" href="https://drive.google.com/file/d/1i1YpYe5KHdgQkI6DyJAD-xM6m1eKWKWn/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/1w8W5N7n6PPVhkrBFZKbq1vpXhiYAKHeN/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -597,6 +698,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-primary" href="https://drive.google.com/file/d/1KF0uvLiI9aaGbrNnODHuGVzMNVusC-WY/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/1b2Un46WUZFS3wZm1gQdztWSuumah1CUD/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -608,6 +710,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-orange" href="https://drive.google.com/file/d/1fQWTO-NV3MYjzRovZjqi3eIV5QWTPrNo/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/1cEMkhF2giERacIH2XmdK41cz3EkNrKj4/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -619,6 +722,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-primary" href="https://drive.google.com/file/d/1HWqSrkhfw51o_G0rw48KxMGbc_mXOQIa/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/1E06EN2V2j_HZYl3GFuhpydq6UEhs5ON0/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -630,6 +734,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-primary" href="https://drive.google.com/file/d/1O4e2w8HQUtxW9odGXNK3RIQ2q9f6gpC3/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/14RgITprVd_b9pbqqIS0CzkxaVlRyrsVE/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -641,6 +746,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-green" href="https://drive.google.com/file/d/1YOJKwcLPGbJKqhveZvNvaeAEvvurQHht/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/1jSShSkxtRQ6IkFzkv31fekrgGgdvfIQZ/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -655,6 +761,7 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-orange" href="https://drive.google.com/file/d/17_tq3NWvlAutZSP-SHTJGJmSrxbrBiER/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/1bzlIIceuF6hZ3XBUVnkmkjPuo0rVgBmZ/view" target="_blank" rel="noopener">Backup</a>
         </div>
       </div>
 
@@ -669,6 +776,33 @@
         </div>
         <div class="card-footer">
           <a class="btn btn-red" href="https://drive.google.com/file/d/1H00vciuMSxo-VoT5mn1N1mN-tFzWkiAV/view" target="_blank" rel="noopener">⬇ Drive</a>
+          <a class="btn btn-backup" href="https://drive.google.com/file/d/1LgFx1No0C2o7YHFLkuI2b5z0oESXZbKd/view" target="_blank" rel="noopener">Backup</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a3030, #0d2020);">📖</div>
+        <div class="card-body">
+          <div class="card-title sm">Sémiologie R2C [Complet]</div>
+          <div class="card-desc sm">Deck complet de sémiologie conforme au référentiel R2C.</div>
+          <div class="card-meta">
+            <span class="badge teal">R2C</span>
+            <span class="badge teal">Complet</span>
+          </div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-teal" href="https://drive.google.com/file/d/1rfzjtX8Aw6uZsZk064aeszlIWMevaocD/view" target="_blank" rel="noopener">⬇ Drive</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-banner sm" style="background: linear-gradient(135deg, #2a2a1a, #1a1a0d);">📕</div>
+        <div class="card-body">
+          <div class="card-title sm">Sémiologie — Book</div>
+          <div class="card-desc sm">Support de sémiologie au format livre/référentiel.</div>
+        </div>
+        <div class="card-footer">
+          <a class="btn btn-orange" href="https://drive.google.com/file/d/1xcO-PMaCbMIMh956nR1REoYlR824q9va/view" target="_blank" rel="noopener">⬇ Drive</a>
         </div>
       </div>
 
