@@ -54,6 +54,7 @@ Les seuls cas cliniuqes d'ECG dont vous aurez besoin : https://drive.google.com/
 https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/?_rdc=1&_rdr
 
 Sémiologie R2C [Complet] : https://drive.google.com/file/d/1rfzjtX8Aw6uZsZk064aeszlIWMevaocD/view?usp=drive_link
+sémiologie book : ????????????????????????????????????????????????????????????
 
 Publique: https://drive.google.com/drive/folders/1w4zsESQDYmgPE0kY7Yteuv-buEG6IuSF
 Donateur: https://drive.google.com/drive/folders/1YCzTSCZtS5e7IoIEAAo9ryfu3agY7Kkd
@@ -69,7 +70,7 @@ v1 (317 cards) : https://github.com/achma-learning/anki-decks/raw/refs/heads/mai
 
 #1 Suffix et prefix
 v0 : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco/pharmaco-suffix-v0.apkg
-v1 : still in work ???
+v1 : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco-suffix/pharmaco-dci-suffixes-v1.apkg
 ---
 https://drive.google.com/drive/folders/1M9hg4EMRoFRQ4wh_E2xIOu_bKmg7ze59
 https://drive.google.com/drive/folders/1xGRecpkZXORThxg6dbOypTghwBK4CfQL
