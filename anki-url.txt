@@ -24,23 +24,36 @@ https://ankiweb.net/shared/info/1150437141
 ---
 Medical decks by Aymane Tfl
 Constantes biologiques usuelles : https://drive.google.com/file/d/1UmuATdFKoeBLdIgz0-lvIJWmhQG7rq8v/view?usp=drive_link
+  Constantes biologiques usuelles (backup) : https://drive.google.com/file/d/1erLnPnYXY9tiScKMBTrlFUj35vEhHWAr/view?usp=drive_link
 
 Anettermie (anatomie) : https://drive.google.com/file/d/1Kt4_BWcsBkN1_0zvG2n_AGaU5Q_yGm6T/view?usp=drive_link
+  Anettermie (backup) : https://drive.google.com/file/d/11DQGp2hBQTwjpkAzb6wHpN2QkpuriY6g/view?usp=drive_link
 Atlats photographique (anatomie Dissection) : https://drive.google.com/file/d/12gzEWgbrP1sU2cmP9q-bWAagCwx8KocZ/view?usp=drive_link
+  Atals photographique (backup) : https://drive.google.com/file/d/10i48g4GLvgZJQhyQrVIQZYRZZwidrZB5/view?usp=drive_link
 
 Ausculatation cardiaque : https://drive.google.com/file/d/1i1YpYe5KHdgQkI6DyJAD-xM6m1eKWKWn/view?usp=drive_link
+  Ausculation cardiaque (backup) : https://drive.google.com/file/d/1w8W5N7n6PPVhkrBFZKbq1vpXhiYAKHeN/view?usp=drive_link
 Ausculatation pulmonaire : https://drive.google.com/file/d/1KF0uvLiI9aaGbrNnODHuGVzMNVusC-WY/view?usp=drive_link
+  Auscultation pulmonaire (bakcup) : https://drive.google.com/file/d/1b2Un46WUZFS3wZm1gQdztWSuumah1CUD/view?usp=drive_link
 
 Histologie : https://drive.google.com/file/d/1fQWTO-NV3MYjzRovZjqi3eIV5QWTPrNo/view?usp=drive_link
+  histologie (backup) : https://drive.google.com/file/d/1cEMkhF2giERacIH2XmdK41cz3EkNrKj4/view?usp=drive_link
 Iconnographie medicale : https://drive.google.com/file/d/1HWqSrkhfw51o_G0rw48KxMGbc_mXOQIa/view?usp=drive_link
+  Iconnographie medicale (bakcup) : https://drive.google.com/file/d/1E06EN2V2j_HZYl3GFuhpydq6UEhs5ON0/view?usp=drive_link
+  
 
 Neurosciences : https://drive.google.com/file/d/1O4e2w8HQUtxW9odGXNK3RIQ2q9f6gpC3/view?usp=drive_link
+  Neurosciences (backup) : https://drive.google.com/file/d/14RgITprVd_b9pbqqIS0CzkxaVlRyrsVE/view?usp=drive_link
 Physiologie : https://drive.google.com/file/d/1YOJKwcLPGbJKqhveZvNvaeAEvvurQHht/view?usp=drive_link
+  Physiologie (bakcup) : https://drive.google.com/file/d/1jSShSkxtRQ6IkFzkv31fekrgGgdvfIQZ/view?usp=drive_link
 
 Le seul deck d'ECG que vous aurez besoin : https://drive.google.com/file/d/17_tq3NWvlAutZSP-SHTJGJmSrxbrBiER/view?usp=drive_link
+ Le seul deck d'ECG que vous aurez besoin (backup) : https://drive.google.com/file/d/1bzlIIceuF6hZ3XBUVnkmkjPuo0rVgBmZ/view?usp=drive_link
 Les seuls cas cliniuqes d'ECG dont vous aurez besoin : https://drive.google.com/file/d/1H00vciuMSxo-VoT5mn1N1mN-tFzWkiAV/view?usp=drive_link
-
+ Les seuls cas cliniuqes d'ECG dont vous aurez besoin (backup) : https://drive.google.com/file/d/1LgFx1No0C2o7YHFLkuI2b5z0oESXZbKd/view?usp=drive_link
 https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/?_rdc=1&_rdr
+
+Sémiologie R2C [Complet] : https://drive.google.com/file/d/1rfzjtX8Aw6uZsZk064aeszlIWMevaocD/view?usp=drive_link
 
 Publique: https://drive.google.com/drive/folders/1w4zsESQDYmgPE0kY7Yteuv-buEG6IuSF
 Donateur: https://drive.google.com/drive/folders/1YCzTSCZtS5e7IoIEAAo9ryfu3agY7Kkd
