@@ -1,5 +1,11 @@
 Pour télécharger Anki : https://apps.ankiweb.net/
+Anki Adds ons : https://drive.google.com/file/d/1JqFcqULGLAJR9PwYmsrg1gnIJKzyqdkO/view?usp=drive_link
++++ Repertoite des deck anki (medical) : https://drive.google.com/file/d/1tbFEyKjk5gU3hYvbsYLa9Lb1kFK2Fvnw/view?usp=drive_link
+  Repertoite des deck anki (medical) (backup) : https://drive.google.com/file/d/1njQMk1sg1IawiGXpTg2Rgs4x0zTZv-Cr/view?usp=drive_link
+
+
 Anki x ECNi drive : https://drive.google.com/drive/folders/1M9hg4EMRoFRQ4wh_E2xIOu_bKmg7ze59
+  Anki x ECNi drive (backup) : https://drive.google.com/drive/folders/12BCy7TWO_tLfUgBwMACuKSR65F9myH1H?usp=drive_link
 Anki x EDN facebook group : 
 https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/
 ---
@@ -38,7 +44,6 @@ Histologie : https://drive.google.com/file/d/1fQWTO-NV3MYjzRovZjqi3eIV5QWTPrNo/v
   histologie (backup) : https://drive.google.com/file/d/1cEMkhF2giERacIH2XmdK41cz3EkNrKj4/view?usp=drive_link
 Iconnographie medicale : https://drive.google.com/file/d/1HWqSrkhfw51o_G0rw48KxMGbc_mXOQIa/view?usp=drive_link
   Iconnographie medicale (bakcup) : https://drive.google.com/file/d/1E06EN2V2j_HZYl3GFuhpydq6UEhs5ON0/view?usp=drive_link
-  
 
 Neurosciences : https://drive.google.com/file/d/1O4e2w8HQUtxW9odGXNK3RIQ2q9f6gpC3/view?usp=drive_link
   Neurosciences (backup) : https://drive.google.com/file/d/14RgITprVd_b9pbqqIS0CzkxaVlRyrsVE/view?usp=drive_link
@@ -71,8 +76,6 @@ v1 (317 cards) : https://github.com/achma-learning/anki-decks/raw/refs/heads/mai
 v0 : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco/pharmaco-suffix-v0.apkg
 v1 : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco-suffix/pharmaco-dci-suffixes-v1.apkg
 // end of pharmaco
----
-https://taalimma-my.sharepoint.com/my?id=%2Fpersonal%2Fk138142046%5Ftaalim%5Fma%2FDocuments%2Fanki%2F1%2E%20French%2Fliste%20question&viewid=fb11ea89%2D3a75%2D4a07%2D836f%2Dfd4b747204d7
 ---
 The anking
 https://linktr.ee/ankingmed
