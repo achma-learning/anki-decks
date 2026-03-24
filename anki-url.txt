@@ -11,6 +11,7 @@ https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/
 ---
 https://ankiweb.net/shared/info/2109889812 | source (https://github.com/anki-geo/ultimate-geography)
 moroccan plate car : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/plaques_marocaines.apkg
+Fetes maroc moroccan holidays : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/Fetes_Maroc_Moroccan_Holidays.apkg
 not now / ignore : grade poste mil
 ---
 kit soins intensif : https://drive.google.com/drive/u/0/folders/1JkvC6-tekBHI6AT5hCvitRM6VU6aB4o9
