@@ -1,0 +1,61 @@
+in this website : https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/index.html
+for question 44 : https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cc44.html , see the number 44 here "cc44.html" , the page is like this :
+"Tuberculose pulmonaire > Tuberculose miliaire > Cas N°44
+Cas clinique N°44
+Patiente âgée de 24 ans, présente depuis 2 mois une toux productive avec des hémoptysies minimes associées à des signes digestifs à type douleurs abdominales, diarrhée et vomissements avec des céphalées et des douleurs rachidiennes cervicales évoluant dans un contexte d’amaigrissement non chiffré.
+
+L’examen clinique trouve une température à 38,2°C avec une raideur méningée et une sensibilité abdominale diffuse.
+
+Questions:
+
+Question 1: Décrivez l’anomalie thoracique.
+
+Question 2: Quelle est votre conduite à tenir?
+
+Question 3: Quel bilan demandez-vous ?
+
+c44 (image)
+Réponse
+Accueil | Contact
+ 
+ 
+© 2012 Faculté de Médecine et de Pharmacie de Marrakech. All Rights Reserved"
+
+in anki in front display this "Cas clinique N°44
+Patiente âgée de 24 ans, présente depuis 2 mois une toux productive avec des hémoptysies minimes associées à des signes digestifs à type douleurs abdominales, diarrhée et vomissements avec des céphalées et des douleurs rachidiennes cervicales évoluant dans un contexte d’amaigrissement non chiffré.
+
+L’examen clinique trouve une température à 38,2°C avec une raideur méningée et une sensibilité abdominale diffuse.
+Questions:
+
+Question 1: Décrivez l’anomalie thoracique.
+
+Question 2: Quelle est votre conduite à tenir?
+
+Question 3: Quel bilan demandez-vous ?
+
+c44 (image html code [<img src="cas_pics/c44.JPG" alt="c44" width="600" height="570">] )"
+---
+answer button in anki show data from this "https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc44.html"
+
+"Tuberculose pulmonaire > Tuberculose miliaire > Cas N°44
+Réponses cas clinique N°44
+1- La radiographie thoracique de face montre de multiples opacités micronodulaires en grains de mil diffuses aux deux champs pulmonaires donnant un aspect de miliaire.
+
+2- On est devant  un tableau urgent de miliaire avec atteinte méningée.
+Donc la conduite à tenir sera de faire une ponction lombaire en urgence après avoir éliminé un processus expansif intracrânien par une tomodensitométrie cérébrale.
+Chez notre patiente la ponction lombaire a été faite montrant une hyperalbuminorachie avec hypoglucorrachie.
+Suspicion de tuberculose miliaire et  méningée. La conduite à tenir ultérieure sera :
+- La recherche d’autres localisations par :
+* Un examen de fond d’œil : à la recherche de tubercule de Bouchut.
+* Un examen cyto-bactériologique des urines avec uroculture : à la recherche de BK.
+* Une biopsie ostéo-médullaire avec myéloculture.
+* Une échographie abdominale : à la recherche d’un épanchement péritonéal et d’adénopathies profondes.
+- La recherche d’un terrain favorisant : infection à VIH, diabète, grossesse.
+
+c44 (image html code [<img src="cas_pics/rc44.JPG" alt="c44" width="600" height="570">] )"
+
+---
+do this for all 64 cas cliniques in this page "https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cc.html"
+
+and cas clinique url is like this "https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cc{number from 1 to 64}.html" , for example cas 55 "https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cc55.html"
+and reponse/answer cas clinique url is like this "https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc{number from 1 to 64}.html" , for example cas 55 "https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/rcc55.html"
