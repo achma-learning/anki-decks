@@ -18,6 +18,9 @@ kit soins intensif : https://drive.google.com/drive/u/0/folders/1JkvC6-tekBHI6AT
 kit soints intensif backup : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/Kit%20d'autoformation%20en%20soins%20intensifs.apkg
 kit soins intensif website : https://sites.google.com/view/kit-e-learning-soins-intensifs/accueil
 ---
+rx_thorax_tuberculose (drive) : https://drive.google.com/file/d/1VbQZSZC1IkJtpMR5pS-U1dWEz3NWeY8Y/view?usp=sharing
+rx_thorax_tuberculose (backup) : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/rx%20thoax-tubercolose/rx_thorax_tuberculose%20(1).apkg
+---
 // ANKIMED start
 ANKIMED (R2C) deck : https://drive.google.com/drive/folders/1qDLpSTmLTB8ZBNhoME8Jr0DoESOR6FaO
 Lien du drive Paquet Descartes (pré-R2C) : https://drive.google.com/drive/folders/1xGRecpkZXORThxg6dbOypTghwBK4CfQL
