@@ -20,6 +20,8 @@ kit soins intensif website : https://sites.google.com/view/kit-e-learning-soins-
 ---
 rx_thorax_tuberculose (drive) : https://drive.google.com/file/d/1VbQZSZC1IkJtpMR5pS-U1dWEz3NWeY8Y/view?usp=sharing
 rx_thorax_tuberculose (backup) : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/rx%20thoax-tubercolose/rx_thorax_tuberculose%20(1).apkg
+rx_thorax_tuberculose original website : https://achma-learning.github.io/fmpm-radio-thorax-old/archives.uness.fr/sites/umvf/media/ressPneumo/M1127/index.html
+rx_thorax_tuberculose backup website : https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/index.html
 ---
 // ANKIMED start
 ANKIMED (R2C) deck : https://drive.google.com/drive/folders/1qDLpSTmLTB8ZBNhoME8Jr0DoESOR6FaO
