@@ -37,8 +37,13 @@ Constantes biologiques usuelles : https://drive.google.com/file/d/1UmuATdFKoeBLd
 Anettermie (anatomie) : https://drive.google.com/file/d/1Kt4_BWcsBkN1_0zvG2n_AGaU5Q_yGm6T/view?usp=drive_link
   Anettermie (ankiweb) https://ankiweb.net/shared/info/111233667
   Anettermie (backup) : https://drive.google.com/file/d/11DQGp2hBQTwjpkAzb6wHpN2QkpuriY6g/view?usp=drive_link
-Atlats photographique (anatomie Dissection) : https://drive.google.com/file/d/12gzEWgbrP1sU2cmP9q-bWAagCwx8KocZ/view?usp=drive_link
-  Atals photographique (backup) : https://drive.google.com/file/d/10i48g4GLvgZJQhyQrVIQZYRZZwidrZB5/view?usp=drive_link
+  Atlas d’anatomie humaine 7th - French: https://archive.org/download/netter-atlas-danatomie-humaine/Netter%20-%20Atlas%20danatomie%20humaine.pdf
+
+Atlas photographique (anatomie Dissection) : https://drive.google.com/file/d/12gzEWgbrP1sU2cmP9q-bWAagCwx8KocZ/view?usp=drive_link
+  Atlas photographique (backup) : https://drive.google.com/file/d/10i48g4GLvgZJQhyQrVIQZYRZZwidrZB5/view?usp=drive_link
+  Viewer anatomy tweaked : https://achma-learning.github.io/anatomy-viewer-clone/index.html
+  Viewer anatomy Original : https://www.caskanatomy.info/browser/
+  
 
 Ausculatation cardiaque : https://drive.google.com/file/d/1i1YpYe5KHdgQkI6DyJAD-xM6m1eKWKWn/view?usp=drive_link
   Ausculation cardiaque (ankiweb) : https://ankiweb.net/shared/info/1150437141
