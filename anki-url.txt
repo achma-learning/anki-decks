@@ -97,9 +97,12 @@ v1 : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco-s
 The anking
 https://linktr.ee/ankingmed
 USMLE Lab Values : https://app.ankihub.net/decks/ead74597-bdde-4655-8201-e9fe0eeb528e
+
 Dermki : https://app.ankihub.net/decks/271bd550-5bfd-44a1-bfbd-df1878c33b5f
 Dermki Notion website : https://ankingmed.notion.site/?pvs=143
+AnKing BLS/ACLS Deck : https://app.ankihub.net/decks/de8fd142-7722-4152-8ad7-46c4d850961f
 Brand Names : https://app.ankihub.net/decks/c517d221-5cf4-42fa-b9d3-0c261db54dfb
+
 // end of anking
 ---
 how about building an AI agent that fetch moroccan generique medicament (https://ammps.sante.gov.ma/callpages/RMMG) and build a anki deck and auto update it every 3 months
