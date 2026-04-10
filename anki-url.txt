@@ -75,8 +75,11 @@ https://buymeacoffee.com/ankiexternat
 ---
 // pharmaco
 #1 Nom des medicament generique :
+## Source : https://ammps.sante.gov.ma/callpages/RMMG
+    note : to copy text from this page, use this bookmarklet "https://pastebin.com/raw/FWwchVCA" , or use this userscript : "https://greasyfork.org/en/scripts/573358"
 v2 (3000+ cards) : https://github.com/achma-learning/anki-decks/blob/main/anki-decks-backups/rmmg/v2-RMMG_Maroc_2026.apkg
 v1 (317 cards) : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/rmmg/v1-RMMG_Medicaments_Generiques_Maroc.apkg
+
 
 #1 Suffix et prefix
 v0 : https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco/pharmaco-suffix-v0.apkg
