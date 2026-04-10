@@ -1,5 +1,8 @@
 Pour télécharger Anki : https://apps.ankiweb.net/
 Anki Adds ons : https://drive.google.com/file/d/1JqFcqULGLAJR9PwYmsrg1gnIJKzyqdkO/view?usp=drive_link
+  # must install anki-addons
+  + Review Heatmap: code [1771074083] , https://ankiweb.net/shared/info/1771074083
+  + AnkiHub: code 1322529746 , https://ankiweb.net/shared/info/1322529746
 +++ Repertoite des deck anki (medical) : https://drive.google.com/file/d/1tbFEyKjk5gU3hYvbsYLa9Lb1kFK2Fvnw/view?usp=drive_link
   Repertoite des deck anki (medical) (backup) : https://drive.google.com/file/d/1njQMk1sg1IawiGXpTg2Rgs4x0zTZv-Cr/view?usp=drive_link
 
