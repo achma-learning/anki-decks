@@ -14,7 +14,10 @@ https://ansm.sante.fr/documents/reference/
 
 ---
 # other database
-
+https://agence-prd.ansm.sante.fr/php/ecodex/index.php
+https://data.ansm.sante.fr/
+https://base-donnees-publique.medicaments.gouv.fr/
+https://ansm.sante.fr/glossaire ; (scrap the general definition in fr)
 http://vidal.fr/
 https://www.dwa.ma/
 https://asafar.net/
