@@ -21,6 +21,7 @@ https://ansm.sante.fr/glossaire ; (scrap the general definition in fr)
 http://vidal.fr/
 https://www.dwa.ma/
 https://asafar.net/
+prix des actes : https://anam.ma/anam/regulation/tarification-nationale-de-reference/
 ---
 later : "https://anam.ma/anam/espace-prestataires-de-soins-trash/"
 ---
