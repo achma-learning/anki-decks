@@ -1,0 +1,1667 @@
+543	1370	Voie orale	ABACAVIR (SULFATE D') équivalant à ABACAVIR 300 mg - ABACAVIR 300 mg - ZIAGEN 300 mg, comprimé pelliculé
+537	1362	Voie orale	ABACAVIR (SULFATE D') équivalant à ABACAVIR 600 mg + LAMIVUDINE 300 mg - ABACAVIR 600 mg + LAMIVUDINE 300 mg - KIVEXA 600 mg/300 mg, comprimé pelliculé
+579	1460	Voie orale	ABACAVIR 300 mg + LAMIVUDINE 150 mg + ZIDOVUDINE 300 mg - TRIZIVIR 300 mg / 150 mg / 300 mg, comprimé pelliculé
+458	1153	Voie orale	ACAMPROSATE CALCIQUE 333 mg - AOTAL 333 mg, comprimé enrobé gastro-résistant
+353	2000	Voie orale	ACARBOSE 100 mg - ACARBOSE BAYER 100 mg, comprimé sécable
+353	861	Voie orale	ACARBOSE 100 mg, - GLUCOR 100 mg, comprimé sécable.
+353	1999	Voie orale	ACARBOSE 50 mg - ACARBOSE BAYER 50 mg, comprimé
+353	862	Voie orale	ACARBOSE 50 mg - GLUCOR 50 mg, comprimé.
+46	80	Voie orale	ACEBUTOLOL (CHLORHYDRATE D') équivalant à ACEBUTOLOL 200 mg - SECTRAL 200 mg, comprimé pelliculé.
+46	81	Voie orale	ACEBUTOLOL (CHLORHYDRATE D') équivalant à ACEBUTOLOL 400 mg - SECTRAL 400 mg, comprimé pelliculé.
+46	1220	Voie orale	ACEBUTOLOL (CHLORHYDRATE D’) équivalant à ACEBUTOLOL 500 mg - SECTRAL LP 500 mg, comprimé pelliculé à libération prolongée
+211	470	Voie orale	ACECLOFENAC 100 mg - CARTREX 100 mg, comprimé pelliculé.
+684	1771	Voie orale	ACETATE D'ABIRATERONE 250 mg - ZYTIGA 250 mg, comprimé
+684	1772	Voie orale	ACETATE D'ABIRATERONE 500 mg - ZYTIGA 500 mg, comprimé
+62	198	Voie orale	ACICLOVIR 200 mg - ZOVIRAX 200 mg, comprimé
+62	429	Voie intraveineuse	ACICLOVIR 250 mg - ZOVIRAX 250 mg, poudre pour solution injectable (IV).
+62	113	Voie cutanée	ACICLOVIR 5 % - ZOVIRAX 5 %, crème - ACTIVIR 5 POUR CENT, crème
+62	430	Voie intraveineuse	ACICLOVIR 500 mg - ZOVIRAX 500 mg, poudre pour solution injectable (IV).
+62	199	Voie orale	ACICLOVIR 800 mg - ZOVIRAX 800 mg, comprimé
+570	1443	Voie orale	ACIDE CARGLUMIQUE 200 mg - CARBAGLU 200 mg, comprimé dispersible
+22	1807	Voie orale	ACIDE FOLIQUE 0,4 mg - SPECIAFOLDINE 0,4 mg, comprimé
+22	40	Voie orale	ACIDE FOLIQUE 5 mg - SPECIAFOLDINE 5 mg, comprimé.
+282	664	Voie cutanée	ACIDE FUSIDIQUE 2 % - FUCIDINE 2 POUR CENT, crème
+483	1221	Voie intraveineuse	ACIDE GADOTÉRIQUE 0,5 mmol/mL - DOTAREM 0,5 mmol/mL, solution injectable
+483	1399	Voie intraveineuse	ACIDE GADOTÉRIQUE 0,5 mmol/mL - DOTAREM 0,5 mmol/mL, solution injectable en seringue pré-remplie
+384	1010	Voie orale	ACIDE RISEDRONIQUE équivalant à RISEDRONATE MONOSODIQUE HEMIPENTAHYDRATE 75 mg  - ACTONEL 75 mg, comprimé pelliculé.
+112	227	Voie orale	ACIDE TIAPROFENIQUE 100 mg - SURGAM 100 mg, comprimé sécable
+112	228	Voie orale	ACIDE TIAPROFENIQUE 200 mg - SURGAM 200 mg, comprimé sécable
+21	1477	Voie intraveineuse	ACIDE TRANEXAMIQUE 0,5 g/5 mL - EXACYL 0,5 g/5 ml I.V., solution injectable
+21	39	Voie orale	ACIDE TRANEXAMIQUE 1g/10 ml - EXACYL 1 g/10 ml, solution buvable.
+21	38	Voie orale	ACIDE TRANEXAMIQUE 500 mg - EXACYL 500 mg, comprimé pelliculé
+438	1709	Voie orale	ACIDE URSODESOXYCHOLIQUE 500 mg - DELURSAN 500 mg, comprimé pelliculé sécable
+438	1082	Voie orale	ACIDE URSODÉSOXYCHOLIQUE 250 mg - DELURSAN 250 mg, comprimé pelliculé
+439	1117	Voie intraveineuse	ACIDE ZOLÉDRONIQUE MONOHYDRATÉ équivalant à ACIDE ZOLÉDRONIQUE 4 mg/100 ml - ZOMETA 4 mg/100 ml, solution pour perfusion
+439	1086	Voie intraveineuse	ACIDE ZOLÉDRONIQUE MONOHYDRATÉ équivalant à ACIDE ZOLÉDRONIQUE 4 mg/5ml - ZOMETA 4 mg/5 ml, solution à diluer pour perfusion
+439	1096	Voie intraveineuse	ACIDE ZOLÉDRONIQUE MONOHYDRATÉ équivalant à ACIDE ZOLÉDRONIQUE 5 mg - ACLASTA 5 mg, solution pour perfusion
+366	903	Voie orale	ACÉTYLCYSTÉINE 200 mg - FLUIMUCIL 200 mg, granulés pour solution buvable en sachet édulcorés au sorbitol et à l'aspartam
+427	1061	Voie orale	ACÉTYLLEUCINE 500 mg - TANGANILPRO 500 mg, comprimé
+387	944	Voie cutanée	ADAPALENE 0,1 % - DIFFERINE 0,1 POUR CENT, crème
+387	945	Voie cutanée	ADAPALENE 0,1 % - DIFFERINE 0,1 POUR CENT, gel
+524	1320	Voie intramusculaire	ADRENALINE (TARTRATE D') équivalant à ADRENALINE 150 microgrammes - ADRENALINE - EPIPEN 0,15 mg/0,3 ml, solution injectable en stylo pré-rempli
+524	1321	Voie intramusculaire	ADRENALINE (TARTRATE D') équivalant à ADRENALINE 300 microgrammes - ADRENALINE - EPIPEN 0,30 mg/0,3 ml, solution injectable en stylo pré-rempli
+500	1289	Voie intraveineuse	ADÉNOSINE 3 mg/1 mL - ADENOSCAN 30 mg/10 mL, solution pour perfusion
+500	1263	Voie intraveineuse	ADÉNOSINE 6 mg/2 mL - KRENOSIN 6 mg/2 ml, solution injectable
+607	1536	Voie orale	AGOMELATINE 25 mg - AGOMELATINE ACIDE CITRIQUE (CO-CRISTAL D') équivalant à AGOMELATINE 25 mg - AGOMELATINE UREE (CO-CRISTAL D') équivalant à AGOMELATINE 25 mg - VALDOXAN 25 mg, comprimé pelliculé
+205	457	Voie orale	ALENDRONATE MONOSODIQUE TRIHYDRATE 70 mg - FOSAMAX 70 mg, comprimé.
+556	1409	Voie orale	ALENDRONATE MONOSODIQUE TRIHYDRATE équivalant à ACIDE ALENDRONIQUE 70 mg + CHOLECALCIFEROL 2800 UI - ALENDRONATE DE SODIUM MONOHYDRATE équivalant à ACIDE ALENDRONIQUE 70 mg + CHOLECALCIFEROL 2800 UI - FOSAVANCE 70 mg/2800 UI, comprimé - ADROVANCE 70 mg/2800 UI, comprimé -
+556	1410	Voie orale	ALENDRONATE MONOSODIQUE TRIHYDRATE équivalant à ACIDE ALENDRONIQUE 70 mg + CHOLECALCIFEROL 5600 UI - ALENDRONATE DE SODIUM MONOHYDRATE équivalant à ACIDE ALENDRONIQUE 70 mg + CHOLECALCIFEROL 5600 UI - FOSAVANCE 70 mg/5600 UI, comprimé -  ADROVANCE 70 mg/5600 UI, comprimé
+162	333	Voie orale	ALENDRONATE MONOSODIQUE équivalant à ACIDE ALENDRONIQUE 10 mg – FOSAMAX 10 mg, comprimé.
+647	1662	Voie intraveineuse	ALFENTANYL (CHLORHYDRATE D') équivalant à ALFENTANYL 0,5 mg/mL - RAPIFEN 1 mg (0,5 mg/ml), solution injectable
+647	1661	Voie intraveineuse	ALFENTANYL (CHLORHYDRATE D') équivalant à ALFENTANYL 0,5 mg/mL - RAPIFEN 5 mg (0,5 mg/ml), solution injectable
+74	422	Voie orale	ALFUZOSINE (CHLORHYDRATE D') 10 mg - XATRAL LP 10 mg, comprimé à libération prolongée.
+176	1132	Voie orale	ALGINATE DE SODIUM 0,5 g +  BICARBONATE DE SODIUM 0,267 g - GAVISCON, suspension buvable en sachet, GAVISCONELL MENTHE SANS SUCRE, suspension buvable en sachet-dose édulcorée à la saccharine sodique
+176	375	Voie orale	ALGINATE DE SODIUM 50 mg/ml + BICARBONATE DE SODIUM 26,70 mg/ml - GAVISCON, suspension buvable en flacon.
+632	1613	Voie orale	ALITRETINOINE 10 mg - TOCTINO 10 mg, capsule molle
+632	1612	Voie orale	ALITRETINOINE 30 mg - TOCTINO 30 mg, capsule molle
+116	235	Voie orale	ALLOPURINOL 100 mg - ZYLORIC 100 mg, comprimé
+116	236	Voie orale	ALLOPURINOL 200 mg - ZYLORIC 200 mg, comprimé
+116	237	Voie orale	ALLOPURINOL 300 mg - ZYLORIC 300 mg, comprimé
+133	271	Voie orale	ALPRAZOLAM 0,25 mg - XANAX 0,25 mg, comprimé sécable.
+133	272	Voie orale	ALPRAZOLAM 0,50 mg - XANAX 0,50 mg, comprimé sécable.
+133	581	Voie orale	ALPRAZOLAM 1 mg - XANAX 1 mg, comprimé sécable.
+304	732	Voie intraveineuse	ALPROSTADIL 0,5 mg/ml - PROSTINE VR 0,5 mg/ml, solution injectable.
+509	1281	Voie orale	ALVÉRINE (CITRATE D') 60 mg  +  SIMÉTICONE 300 mg - METEOSPASMYL, capsule molle
+648	1664	Voie orale	AMBRISENTAN 10 mg - VOLIBRIS 10 mg, comprimé pelliculé
+648	1923	Voie orale	AMBRISENTAN 2,5 mg - VOLIBRIS 2,5 mg, comprimé pelliculé
+648	1663	Voie orale	AMBRISENTAN 5 mg - VOLIBRIS 5 mg, comprimé pelliculé
+152	308	Voie orale	AMBROXOL (CHLORHYDRATE D') 0,6 % - SURBRONC EXPECTORANT AMBROXOL SANS SUCRE, solution buvable édulcorée à l'acésulfame potassique et au sorbitol.
+152	307	Voie orale	AMBROXOL (CHLORHYDRATE D') 30 mg - SURBRONC EXPECTORANT AMBROXOL 30 mg, comprimé sécable.
+702	1815	Voie orale	AMIFAMPRIDINE (PHOSPHATE DE) équivalant à AMIFAMPRIDINE 10 mg - FIRDAPSE 10 mg, comprimé
+33	59	Voie orale	AMILORIDE (CHLORHYDRATE D’) 5 mg + HYDROCHLOROTHIAZIDE 50 mg - MODURETIC, comprimé sécable
+25	43	Voie orale	AMIODARONE (CHLORHYDRATE D’) 200 mg - CORDARONE 200 mg, comprimé sécable
+129	264	Voie orale	AMISULPRIDE 100 mg - SOLIAN 100 mg, comprimé sécable.
+129	1744	Voie orale	AMISULPRIDE 100 mg/ml - SOLIAN 100 mg/ml, solution buvable
+129	265	Voie orale	AMISULPRIDE 200 mg - SOLIAN 200 mg, comprimé sécable.
+129	322	Voie orale	AMISULPRIDE 400 mg - SOLIAN 400 mg, comprimé pelliculé sécable.
+726	1866	Voie orale	AMITRIPTYLINE (CHLORHYDRATE D') équivalant à AMITRIPTYLINE 40 mg/ml - LAROXYL 40 mg/ml, solution buvable
+210	467	Voie orale	AMLODIPINE (BESILATE D') 10 mg - AMLOR 10 mg, gélule.
+210	468	Voie orale	AMLODIPINE (BESILATE D') 5 mg - AMLOR 5 mg, gélule.
+552	1504	Voie orale	AMLODIPINE (BESILATE D') équivalant à AMLODIPINE 10 mg + VALSARTAN 160 mg - DAFIRO 10 mg/160 mg, comprimé pelliculé
+552	1403	Voie orale	AMLODIPINE (BESILATE D') équivalant à AMLODIPINE 10 mg + VALSARTAN 160 mg - EXFORGE 10 mg/160 mg, comprimé pelliculé
+688	1778	Voie orale	AMLODIPINE (BESILATE D') équivalant à AMLODIPINE 5 mg + VALSARTAN 160 mg + HYDROCHLOROTHIAZIDE 12,5 - EXFORGE HCT 5 mg/160 mg/12,5 mg, comprimé pelliculé
+552	1445	Voie orale	AMLODIPINE (BESILATE D') équivalant à AMLODIPINE 5 mg + VALSARTAN 160 mg - DAFIRO 5 mg/160 mg, comprimé pelliculé
+552	1402	Voie orale	AMLODIPINE (BESILATE D') équivalant à AMLODIPINE 5 mg + VALSARTAN 160 mg - EXFORGE 5 mg/160 mg, comprimé pelliculé
+552	1444	Voie orale	AMLODIPINE (BESILATE D') équivalant à AMLODIPINE 5 mg + VALSARTAN 80 mg - DAFIRO 5 mg/80 mg, comprimé pelliculé
+552	1401	Voie orale	AMLODIPINE (BESILATE D') équivalant à AMLODIPINE 5 mg + VALSARTAN 80 mg - EXFORGE 5 mg/80 mg, comprimé pelliculé
+425	1059	Voie orale	AMLODIPINE (BÉSILATE D')  équivalant à AMLODIPINE 10 mg +  ATORVASTATINE CALCIQUE TRIHYDRATÉE équivalant à ATORVASTATINE 10 mg  - CADUET 10 mg/10 mg, comprimé pelliculé
+425	1067	Voie orale	AMLODIPINE (BÉSILATE D')  équivalant à AMLODIPINE 5 mg +  ATORVASTATINE CALCIQUE TRIHYDRATÉE équivalant à ATORVASTATINE 10 mg - CADUET 5 mg/10 mg, comprimé pelliculé
+351	853	Voie cutanée	AMOROLFINE (CHLORHYDRATE D') équivalant à AMOROLFINE 5 g/100 ml - LOCERYL 5 %, vernis à ongles médicamenteux.
+84	324	Voie intraveineuse	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE  + ACIDE CLAVULANIQUE 1 g + 200 mg - LEVMENTIN 1 g/200 mg, poudre pour solution injectable/pour perfusion (IV).
+84	384	Voie intraveineuse	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE  + ACIDE CLAVULANIQUE 2 g + 200 mg ADULTES - LEVMENTIN 2 g/200 mg ADULTES, poudre pour solution pour perfusion
+84	613	Voie intraveineuse	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE  + ACIDE CLAVULANIQUE 500 mg + 100 mg ADULTES - AUGMENTIN 500 mg/100 mg ADULTES, poudre pour solution injectable (I.V.).
+84	407	Voie intraveineuse	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE  + ACIDE CLAVULANIQUE 500 mg + 50 mg  - AUGMENTIN 500 mg/50 mg, poudre pour solution injectable/pour perfusion (I.V.).
+84	408	Voie intraveineuse	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE + ACIDE CLAVULANIQUE 1 g + 100 mg ENFANTS - AUGMENTIN 1 g/100 mg ENFANTS, poudre pour solution injectable (I.V.).
+84	159	Voie orale	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE + ACIDE CLAVULANIQUE 1 g + 125 mg ADULTES (Rapport amoxicilline/acide clavulanique : 8/1) - AUGMENTIN 1 g/125 mg ADULTES, poudre pour suspension buvable en sachet-dose (Rapport amoxicilline/acide clavulanique : 8/1) - CIBLOR 1 g/125 mg ADULTE, poudre pour suspension buvable en sachet-dose (Rapport amoxicilline/acide clavulanique : 8/1).
+84	157	Voie orale	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE + ACIDE CLAVULANIQUE 100 mg + 12,5 mg par ml ENFANTS (Rapport amoxicilline/acide clavulanique : 8/1) - AUGMENTIN 100 mg/12,50 mg par ml ENFANTS, poudre pour suspension buvable en flacon (Rapport amoxicilline/acide clavulanique : 8/1) - CIBLOR 100 mg/12,50 mg par ml ENFANTS, poudre pour suspension buvable en flacon (Rapport amoxicilline/acide clavulanique : 8/1).
+84	156	Voie orale	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE + ACIDE CLAVULANIQUE 100 mg + 12,5 mg par ml NOURRISSONS (Rapport amoxicilline/acide clavulanique : 8/1) - AUGMENTIN 100 mg/12,50 mg par ml NOURRISSONS, poudre pour suspension buvable (Rapport amoxicilline/acide clavulanique : 8/1) - CIBLOR 100 mg/12,50 mg par ml NOURRISSONS, poudre pour suspension buvable (Rapport amoxicilline/acide clavulanique : 8/1).
+84	158	Voie orale	AMOXICILLINE + CLAVULANATE DE POTASSIUM équivalant à AMOXICILLINE + ACIDE CLAVULANIQUE 500 mg +  62,5 mg ADULTES (Rapport amoxicilline/acide clavulanique : 8/1) - AUGMENTIN 500 mg/62,5 mg ADULTES, comprimé pelliculé (rapport amoxicilline/acide clavulanique : 8/1) - CIBLOR 500 mg/62,5 mg ADULTES, comprimé pelliculé (rapport amoxicilline/acide clavulanique : 8/1).
+82	150	Voie orale	AMOXICILLINE 1 g - CLAMOXYL 1 g, comprimé dispersible
+82	149	Voie orale	AMOXICILLINE 1 g - CLAMOXYL 1 g, poudre pour suspension buvable en sachet
+82	145	Voie orale	AMOXICILLINE 125 mg/5 ml - CLAMOXYL 125 mg/5 ml, poudre pour suspension buvable.
+82	146	Voie orale	AMOXICILLINE 250 mg/5 ml - CLAMOXYL 250 mg/5 ml, poudre pour suspension buvable.
+82	148	Voie orale	AMOXICILLINE 500 mg - CLAMOXYL 500 mg, gélule
+82	147	Voie orale	AMOXICILLINE 500 mg/5 ml - CLAMOXYL 500 mg/5 ml, poudre pour suspension buvable.
+517	1304	Voie buccale	AMYLMETACRESOL 0,6 mg + ALCOOL DICHLORO-2,4-BENZYLIQUE 1,2 mg + CHLORHYDRATE DE LIDOCAÏNE 2 mg - STREPSILS LIDOCAINE, pastille
+634	1617	Voie buccale	AMYLMETACRESOL 0,6 mg + ALCOOL DICHLORO-2,4-BENZYLIQUE 1,2 mg - STREPSILS MIEL CITRON, pastille à sucer
+580	1461	Voie orale	ANAGRELIDE (CHLORHYDRATE D') MONOHYDRATE  équivalant à ANAGRELIDE 0,5 mg - XAGRID 0,5 mg, gélule
+279	659	Voie orale	ANASTROZOLE 1 mg - ARIMIDEX 1 mg, comprimé pelliculé.
+665	1712	Voie orale	APIXABAN 2,5 mg - ELIQUIS 2,5 mg, comprimé pelliculé
+665	1713	Voie orale	APIXABAN 5 mg - ELIQUIS 5 mg, comprimé pelliculé
+388	1624	Voie sous cutanée	APOMORPHINE (CHLORHYDRATE D') 5 mg/mL - APOKINON 5 mg/mL, solution pour perfusion
+743	1906	Voie orale	APREMILAST 10 mg, 20 mg, 30 mg - OTEZLA 10 mg, comprimé pelliculé, OTEZLA 20 mg, comprimé pelliculé, OTEZLA 30 mg, comprimé pelliculé
+743	1908	Voie orale	APREMILAST 30 mg - OTEZLA 30 mg, comprimé pelliculé
+589	1484	Voie orale	APREPITANT 125 mg - EMEND 125 mg, gélule
+589	1485	Voie orale	APREPITANT 125 mg et APREPITANT 80 mg- EMEND 125 mg, gélule et EMEND 80 mg, gélule
+589	1486	Voie orale	APREPITANT 80 mg - EMEND 80 mg, gélule
+494	1582	Voie orale	ARIPIPRAZOLE 1 mg pour 1 mL - ABILIFY 1 mg/ml, solution buvable
+494	1247	Voie orale	ARIPIPRAZOLE 10 mg - ABILIFY 10 mg, comprimé
+494	1282	Voie orale	ARIPIPRAZOLE 10 mg - ABILIFY 10 mg, comprimé orodispersible
+494	1248	Voie orale	ARIPIPRAZOLE 15 mg - ABILIFY 15 mg, comprimé
+494	1283	Voie orale	ARIPIPRAZOLE 15 mg - ABILIFY 15 mg, comprimé orodispersible
+494	1285	Voie orale	ARIPIPRAZOLE 30 mg - ABILIFY 30 mg, comprimé
+494	1284	Voie orale	ARIPIPRAZOLE 30 mg - ABILIFY 30 mg, comprimé orodispersible
+494	1989	Voie intramusculaire	ARIPIPRAZOLE 300 mg - ARIPIPRAZOLE MONOHYDRATÉ équivalant à ARIPIPRAZOLE 300 mg - ABILIFY MAINTENA 300 mg, poudre et solvant pour suspension injectable à libération prolongée
+494	1990	Voie intramusculaire	ARIPIPRAZOLE 400 mg ARIPIPRAZOLE MONOHYDRATÉ équivalant à ARIPIPRAZOLE 400 mg - ABILIFY MAINTENA 400 mg, poudre et solvant pour suspension injectable à libération prolongée
+494	1246	Voie orale	ARIPIPRAZOLE 5 mg - ABILIFY 5 mg, comprimé
+773	1987	Voie intramusculaire	ARIPIPRAZOLE MONOHYDRATÉ équivalant à ARIPIPRAZOLE 300 mg - ABILIFY MAINTENA 300 mg, poudre et solvant pour suspension injectable à libération prolongée
+644	1651	Voie intraveineuse	ARSENIC TRIOXIDE 1 mg/mL - TRISENOX 1 mg/mL, solution à diluer pour perfusion
+644	1991	Voie intraveineuse	ARSENIC TRIOXIDE 2mg/mL - TRISENOX 2 mg/mL, solution à diluer pour perfusion
+474	1203	Voie dentaire	ARTICAÏNE (CHLORHYDRATE D') 40 mg/ml +  ADRÉNALINE (TARTRATE D') équivalant à 0,005 mg/ml d'ADRÉNALINE - SEPTANEST 40 mg/ml ADRENALINEE AU 1/200 000, solution injectable à usage dentaire
+474	1202	Voie dentaire	ARTICAÏNE (CHLORHYDRATE D') 40 mg/ml +  ADRÉNALINE (TARTRATE D') équivalant à 0,01 mg/ml d'ADRENALINE  - SEPTANEST 40 mg/ml ADRENALINEE AU 1/100 000, solution injectable à usage dentaire
+532	1343	Voie orale	ATAZANAVIR (SULFATE D') équivalant à ATAZANAVIR 150 mg - REYATAZ 150 mg, gélule
+532	1344	Voie orale	ATAZANAVIR (SULFATE D') équivalant à ATAZANAVIR 200 mg - REYATAZ 200 mg, gélule
+532	1345	Voie orale	ATAZANAVIR (SULFATE D') équivalant à ATAZANAVIR 300 mg - REYATAZ 300 mg, gélule
+45	79	Voie orale	ATENOLOL 100 mg - TENORMINE 100 mg, comprimé enrobé sécable.
+221	1346	Voie orale	ATENOLOL 50 mg + NIFEDIPINE 20 mg - TENORDATE, gélule
+45	78	Voie orale	ATENOLOL 50 mg - TENORMINE 50 mg, comprimé pelliculé sécable.
+373	913	Voie orale	ATORVASTATINE CALCIQUE TRIHYDRATEE équivalant à 10 mg ATORVASTATINE - TAHOR 10 mg, comprimé pelliculé - TAHOR 10 mg, comprimé à croquer
+373	914	Voie orale	ATORVASTATINE CALCIQUE TRIHYDRATEE équivalant à 20 mg ATORVASTATINE  - TAHOR 20 mg, comprimé pelliculé.
+373	915	Voie orale	ATORVASTATINE CALCIQUE TRIHYDRATEE équivalant à 40 mg ATORVASTATINE  - TAHOR 40 mg, comprimé pelliculé.
+373	917	Voie orale	ATORVASTATINE CALCIQUE TRIHYDRATEE équivalant à 80 mg ATORVASTATINE  - TAHOR 80 mg, comprimé pelliculé.
+466	1180	Voie intraveineuse	ATOSIBAN (ACÉTATE D') équivalant à ATOSIBAN 37,5 mg pour 5 ml - TRACTOCILE 37,5 mg/5 ml, solution à diluer pour perfusion
+466	1179	Voie intraveineuse	ATOSIBAN (ACÉTATE D') équivalant à ATOSIBAN 6,75 mg pour 0,9 ml - TRACTOCILE 6,75 mg/0,9 ml, solution injectable
+401	995	Voie orale	ATOVAQUONE 250 mg + PROGUANIL (CHLORHYDRATE DE) 100 mg - MALARONE 250 mg/100 mg, comprimé pelliculé.
+401	1135	Voie orale	ATOVAQUONE 62,5 mg +  PROGUANIL (CHLORHYDRATE DE) 25 mg - MALARONE 62,5 mg/25 mg ENFANTS, comprimé pelliculé
+652	1678	Voie orale	ATOVAQUONE 750 mg/5 mL - WELLVONE 750 mg/5 mL, suspension buvable
+680	1755	Voie intraveineuse / Voie sous-cutanée	ATROPINE (SULFATE D') 1 mg/mL - ATROPINE (SULFATE) AGUETTANT 1 mg/ml, solution injectable
+720	1854	Voie orale	AXITINIB 1 mg - INLYTA 1 mg, comprimé pelliculé
+720	1855	Voie orale	AXITINIB 3 mg - INLYTA 3 mg, comprimé pelliculé
+720	1856	Voie orale	AXITINIB 5 mg - INLYTA 5 mg, comprimé pelliculé
+720	1857	Voie orale	AXITINIB 7 mg - INLYTA 7 mg, comprimé pelliculé
+664	1945	Voie orale	AZACITIDINE 200 mg - ONUREG 200 mg, comprimé pelliculé
+664	1710	Voie sous cutanée	AZACITIDINE 25 mg/mL - VIDAZA 25 mg/mL, poudre pour suspension injectable
+664	1946	Voie orale	AZACITIDINE 300 mg - ONUREG 300 mg, comprimé pelliculé
+104	477	Voie orale	AZATHIOPRINE 50 mg - IMUREL 50 mg, comprimé pelliculé.
+104	203	Voie orale	AZATHIOPRINE 50 mg - IMUREL 50 mg, comprimé sécable
+229	526	Voie orale	AZITHROMYCINE DIHYDRATE équivalant à AZITHROMYCINE 250 mg - ZITHROMAX 250 mg, comprimé pelliculé.
+229	527	Voie orale	AZITHROMYCINE DIHYDRATE équivalant à AZITHROMYCINE 250 mg - ZITHROMAX MONODOSE 250 mg, comprimé pelliculé.
+113	897	Voie intrathécale	BACLOFENE 0,05 mg/ml - LIORESAL 0,05 mg/1 ml, solution injectable par voie intrathécale en ampoule.
+113	231	Voie orale	BACLOFENE 10 mg - LIORESAL 10 mg, comprimé sécable
+113	898	Voie intrathécale	BACLOFENE 10 mg/20 ml - LIORESAL 10 mg/20 ml, solution injectable pour perfusion par voie intrathécale en ampoule.
+113	899	Voie intrathécale	BACLOFENE 10 mg/5 ml - LIORESAL 10 mg/5 ml, solution injectable pour perfusion par voie intrathécale en ampoule.
+534	1357	Voie inhalée	BECLOMETASONE (DIPROPIONATE DE) 400 microgrammes/1 mL - BECLOSPIN 400 microgrammes/1 ml, suspension pour inhalation par nébuliseur
+534	1358	Voie inhalée	BECLOMETASONE (DIPROPIONATE DE) 800 microgrammes/2 mL - BECLOSPIN 800 microgrammes/2 ml, suspension pour inhalation par nébuliseur
+294	706	Voie orale	BENAZEPRIL (CHLORHYDRATE DE) 10 mg + HYDROCHLOROTHIAZIDE 12,5 mg - CIBADREX 10 mg/12,5 mg, comprimé pelliculé sécable - BRIAZIDE 10 mg/12,5 mg, comprimé pelliculé sécable
+230	529	Voie orale	BENAZEPRIL (CHLORHYDRATE DE) 10 mg - CIBACENE 10 mg, comprimé pelliculé - BRIEM 10 mg, comprimé pelliculé
+230	528	Voie orale	BENAZEPRIL (CHLORHYDRATE DE) 5 mg - CIBACENE 5 mg, comprimé pelliculé sécable - BRIEM 5 mg, comprimé pelliculé sécable
+412	1019	Voie intraveineuse	BESILATE DE CISATRACURIUM équivalant à CISATRACURIUM 2 mg/ml - NIMBEX 2 mg/ml, solution injectable/pour perfusion
+412	1020	Voie intraveineuse	BESILATE DE CISATRACURIUM équivalant à CISATRACURIUM 5 mg/ml - NIMBEX 5 mg/ml, solution injectable/pour perfusion
+145	595	Voie orale	BETAHISTINE (DICHLORHYDRATE DE) 24 mg - BETASERC 24 mg, comprimé.
+145	294	Voie orale	BETAHISTINE (DICHLORHYDRATE DE) 8 mg - SERC 8 mg, comprimé.
+523	1319	Voie cutanée	BETAMETHASONE (DIPROPRIONATE DE) équivalant à BETAMETHASONE 0,050 g - DIPROSONE 0,05 POUR CENT, crème
+299	735	Voie orale	BETAMETHASONE 0,05 % - CELESTENE 0,05 POUR CENT, solution buvable en gouttes.
+299	722	Voie orale	BETAMETHASONE 2 mg - CELESTENE 2 mg, comprimé dispersible sécable.
+311	743	Voie orale	BETAÏNE (CITRATE DE) ANHYDRE 2 g - CITRATE DE BETAINE CITRON UPSA 2 g SANS SUCRE, comprimé effervescent édulcoré à la saccharine sodique.
+699	1808	Voie orale	BEXAROTENE 75 mg - TARGRETIN 75 mg, capsule molle
+219	530	Voie orale	BICALUTAMIDE 150 mg - CASODEX 150 mg, comprimé pelliculé.
+219	498	Voie orale	BICALUTAMIDE 50 mg - CASODEX 50 mg, comprimé enrobé.
+686	1775	Voie orale	BILASTINE 20 mg - BILASKA 20 mg, comprimé - INORIAL 20 mg, comprimé
+535	1360	Voie ophtalmique	BIMATOPROST 0,1 mg/mL - LUMIGAN 0,1 mg/ml, collyre en solution
+563	1429	Voie ophtalmique	BIMATOPROST 0,3 mg + TIMOLOL (MALEATE DE) équivalant à TIMOLOL 5 mg - GANFORT 0,3 mg/ml + 5 mg/ml, collyre en solution
+535	1359	Voie ophtalmique	BIMATOPROST 0,3 mg/mL - LUMIGAN 0,3 mg/ml, collyre en solution
+535	1792	Voie ophtalmique	BIMATOPROST 0,3 mg/mL - LUMIGAN 0,3 mg/ml, collyre en solution en récipient unidose
+563	1791	Voie ophtalmique	BIMATOPROST 0,3 mg/mL+ TIMOLOL (MALEATE DE) équivalant à TIMOLOL 5 mg/mL - GANFORT 0,3 mg/ml + 5 mg/ml, collyre en solution en récipient unidose
+553	1521	Voie orale	BISACODYL 5 mg - CONTALAX, comprimé gastro-résistant
+553	1404	Voie orale	BISACODYL 5 mg - DULCOLAX 5 mg, comprimé enrobé gastro-résistant
+264	621	Voie orale	BISOPROLOL (FUMARATE DE) 10 mg + HYDROCHLOROTHIAZIDE 6,25 mg - LODOZ 10 mg/6,25 mg, comprimé pelliculé - WYTENS 10 mg/6,25 mg, comprimé pelliculé
+264	619	Voie orale	BISOPROLOL (FUMARATE DE) 2,5 mg + HYDROCHLOROTHIAZIDE 6,25 mg - LODOZ 2,5 mg/6,25 mg, comprimé pelliculé - WYTENS 2,5 mg/6,25 mg, comprimé pelliculé
+264	620	Voie orale	BISOPROLOL (FUMARATE DE) 5 mg + HYDROCHLOROTHIAZIDE 6,25 mg - LODOZ 5 mg/6,25 mg, comprimé pelliculé - WYTENS 5 mg/6,25 mg, comprimé pelliculé
+47	446	Voie orale	BISOPROLOL (HEMIFUMARATE DE) 1,25 mg - CARDENSIEL 1,25 mg, comprimé pelliculé - CARDIOCOR 1,25 mg, comprimé pelliculé
+47	451	Voie orale	BISOPROLOL (HEMIFUMARATE DE) 10 mg - BISOPROLOL (FUMARATE DE) 10 mg - CARDENSIEL 10 mg, comprimé pelliculé sécable - CARDIOCOR 10 mg, comprimé pelliculé sécable
+47	82	Voie orale	BISOPROLOL (HEMIFUMARATE DE) 10 mg - DETENSIEL 10 mg, comprimé pelliculé sécable - SOPROL 10 mg, comprimé pelliculé sécable.
+47	447	Voie orale	BISOPROLOL (HEMIFUMARATE DE) 2,5 mg - BISOPROLOL (FUMARATE DE) 2,5 mg - CARDENSIEL 2,5 mg, comprimé pelliculé sécable - CARDIOCOR 2,5 mg, comprimé pelliculé sécable
+47	448	Voie orale	BISOPROLOL (HEMIFUMARATE DE) 3,75 mg - CARDENSIEL 3,75 mg, comprimé pelliculé sécable - CARDIOCOR 3,75 mg, comprimé pelliculé sécable
+47	449	Voie orale	BISOPROLOL (HEMIFUMARATE DE) 5 mg - BISOPROLOL (FUMARATE DE) 5 mg -CARDENSIEL 5 mg, comprimé pelliculé sécable - CARDIOCOR 5 mg, comprimé pelliculé sécable
+47	450	Voie orale	BISOPROLOL (HEMIFUMARATE DE) 7,5 mg - CARDENSIEL 7,5 mg, comprimé pelliculé sécable - CARDIOCOR 7,5 mg, comprimé pelliculé sécable
+590	1487	Voie intraveineuse	BIVALIRUDINE (TRIFLUOROACETATE DE) HYDRATE équivalant à BIVALIRUDINE 250 mg - BIVALIRUDINE 250 mg - ANGIOX 250 mg, poudre pour solution à diluer pour solution injectable ou pour perfusion
+759	1943	Voie intraartérielle / Voie sous-cutanée	BLEU PATENTE V SODIQUE 2,5 g pour 100 mL - BLEU PATENTE V SODIQUE GUERBET 2,5 POUR CENT, solution injectable
+343	1478	Voie sous-cutanée / Voie intramusculaire / Voie intraveineuse	BLÉOMYCINE (SULFATE DE) équivalant à BLEOMYCINE 15 mg (correspondant à 15 000 UI) - BLEOMYCINE BELLON 15 mg, poudre pour solution injectable
+286	680	Voie ophtalmique	BORAX 12 mg/mL + ACIDE BORIQUE 18 mg/mL - DACRYOSERUM, solution pour lavage ophtalmique en récipient unidose.
+588	1480	Voie intraveineuse	BORTEZOMIB 1 mg - VELCADE 1 mg, poudre pour solution injectable
+588	1479	Voie intraveineuse	BORTEZOMIB 3,5 mg - VELCADE 3,5 mg, poudre pour solution injectable
+491	1242	Voie orale	BOSENTAN MONOHYDRATÉ équivalant à BOSENTAN 125 mg - TRACLEER 125 mg, comprimé pelliculé
+491	1241	Voie orale	BOSENTAN MONOHYDRATÉ équivalant à BOSENTAN 62,5 mg - TRACLEER 62,5 mg, comprimé pelliculé
+491	1969	Voie orale	BOSENTAN MONOHYDRATÉ équivalent à BOSENTAN 32 mg - TRACLEER 32 mg, comprimé dispersible
+741	1893	Voie orale	BOSUTINIB MONOHYDRATE équivalent à BOSUTINIB 100 mg - BOSUTINIB 100 mg - BOSULIF 100 mg, comprimé pelliculé
+741	1892	Voie orale	BOSUTINIB MONOHYDRATE équivalent à BOSUTINIB 400 mg - BOSUTINIB 400 mg - BOSULIF 400 mg, comprimé pelliculé
+741	1891	Voie orale	BOSUTINIB MONOHYDRATE équivalent à BOSUTINIB 500 mg - BOSUTINIB 500 mg - BOSULIF 500 mg, comprimé pelliculé
+280	660	Voie ophtalmique	BRIMONIDINE (TARTRATE DE)  0,2 % (2mg/ml), ALPHAGAN 0,2 % (2mg/ml), collyre en solution.
+564	1430	Voie ophtalmique	BRIMONIDINE (TARTRATE DE) 2 mg + TIMOLOL (MALEATE DE) équivalant à TIMOLOL 5 mg - COMBIGAN 2 mg/ml + 5 mg/ml, collyre en solution
+660	1698	Voie ophtalmique	BRINZOLAMIDE 10 mg/mL + TIMOLOL (MALEATE DE) équivalant à TIMOLOL 5 mg/mL - AZARGA 10 mg/mL + 5 mg/mL, collyre en suspension
+512	1290	Voie ophtalmique	BRINZOLAMIDE 10 mg/mL - AZOPT 10 mg/ml, collyre en suspension
+762	1949	Voie orale	BRIVARACETAM 10 mg - BRIVIACT 10 mg, comprimé pelliculé
+762	1953	Voie orale	BRIVARACETAM 100 mg - BRIVIACT 100 mg, comprimé pelliculé
+762	1950	Voie orale	BRIVARACETAM 25 mg - BRIVIACT 25 mg, comprimé pelliculé
+762	1951	Voie orale	BRIVARACETAM 50 mg - BRIVIACT 50 mg, comprimé pelliculé
+762	1952	Voie orale	BRIVARACETAM 75 mg - BRIVIACT 75 mg, comprimé pelliculé
+132	270	Voie orale	BROMAZEPAM 6 mg - LEXOMIL 6 mg, comprimé quadrisécable.
+411	1236	Voie intraveineuse	BROMURE DE ROCURONIUM 10 mg/mL - ESMERON 10 mg/ml, solution injectable
+411	1031	Voie intraveineuse	BROMURE DE ROCURONIUM 10 mg/ml - ESMERON 25 mg/2,5 ml, solution injectable (FLACON de 2,5 ml).
+149	300	Voie inhalée	BUDESONIDE 0,50 mg/2 ml - PULMICORT 0,50 mg/2 ml, suspension pour inhalation par nébuliseur en récipient unidose.
+149	301	Voie inhalée	BUDESONIDE 1mg/2 ml - PULMICORT 1mg/2 ml, suspension pour inhalation par nébuliseur en récipient unidose.
+149	1295	Voie nasale	BUDESONIDE 64 microgrammes/dose - RHINOCORT 64 microgrammes/dose, suspension pour pulvérisation nasale
+38	65	Voie orale	BUFLOMEDIL (CHLORHYDRATE DE) 150 mg - FONZYLANE 150 mg, comprimé pelliculé
+261	625	Voie intrarachidienne / Voie péridurale	BUPIVACAÏNE (CHLORHYDRATE DE) 100 mg/20 ml - MARCAINE 0,50 POUR CENT (100 mg/20 ml), solution injectable (FLACON de 20 ml).
+261	612	Voie Intrarachidienne	BUPIVACAÏNE (CHLORHYDRATE DE) 20 mg/4 ml - MARCAINE RACHIANESTHESIE, solution injectable (voie intra-rachidienne).
+261	624	Voie intrarachidienne / Voie péridurale	BUPIVACAÏNE (CHLORHYDRATE DE) 50 mg/20 ml - MARCAINE 0,25 POUR CENT (50 mg/20 ml), solution injectable (FLACON de 20 ml).
+208	463	Voie orale	BUPRENORPHINE (CHLORHYDRATE DE) 0,4 mg - SUBUTEX 0,4 mg, comprimé sublingual.
+208	461	Voie orale	BUPRENORPHINE (CHLORHYDRATE DE) 2 mg - SUBUTEX 2 mg, comprimé sublingual.
+208	462	Voie orale	BUPRENORPHINE (CHLORHYDRATE DE) 8 mg - SUBUTEX 8 mg, comprimé sublingual.
+608	1537	Voie sublinguale	BUPRENORPHINE (CHLORHYDRATE DE) équivalent à BUPRENORPHINE 2 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à NALOXONE 0,5 mg - SUBOXONE 2 mg/0,5 mg, comprimé sublingual
+608	1538	Voie sublinguale	BUPRENORPHINE (CHLORHYDRATE DE) équivalent à BUPRENORPHINE 8 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à NALOXONE 2 mg - SUBOXONE 8 mg/2 mg, comprimé sublingual
+134	273	Voie orale	BUSPIRONE (CHLORHYDRATE DE) 10 mg - BUSPAR 10 mg, comprimé sécable
+510	1286	Voie intraveineuse	BUSULFAN 6 mg/mL - BUSILVEX 6 mg/ml, solution à diluer pour perfusion
+481	1216	Voie intraveineuse	BÉSILATE D'ATRACURIUM 10 mg/ml - TRACRIUM 25 mg/2,5 ml (1 POUR CENT), solution injectable en ampoule
+481	1218	Voie intraveineuse	BÉSILATE D'ATRACURIUM 10 mg/ml - TRACRIUM 250 mg/25 ml, solution injectable
+481	1217	Voie intraveineuse	BÉSILATE D'ATRACURIUM 10 mg/ml - TRACRIUM 50 mg/5 ml (1 POUR CENT), solution injectable en ampoule
+448	1118	Voie orale	BÉTAXOLOL (CHLORHYDRATE DE) 20 mg - KERLONE 20 mg, comprimé pelliculé sécable
+670	1724	Voie intraveineuse	CABAZITAXEL 60 mg - JEVTANA 60 mg, solution à diluer et solvant pour solution pour perfusion
+287	681	Voie orale	CABERGOLINE  0,5 mg, - DOSTINEX 0,5 mg, comprimé.
+671	1725	Voie orale	CALCIFEDIOL (MONOHYDRATE)  équivalant à CALCIFEDIOL 15 mg/100 mL - EDROGYL 15 mg/100 mL, solution buvable en gouttes
+591	1790	Voie cutanée	CALCIPOTRIOL 50 microgrammes/g + BETAMETHASONE (DIPROPIONATE DE) équivalent à BETAMETHASONE 0,5 mg/g - DAIVOBET 50 microgrammes/0,5 mg/g, gel
+591	1488	Voie cutanée	CALCIPOTRIOL MONOHYDRATE équivalant à CALCIPOTRIOL 50 microgrammes/g + DIPROPRIONATE DE BETAMETHASONE équivalant à 0,5 mg/g - DAIVOBET 50 microgrammes/0,5 mg/g, pommade
+78	138	Voie sous-cutanée / Voie intramusculaire / Voie intraveineuse (en perfusion)	CALCITONINE (SALMINE SYNTHETIQUE) 50 UI/1 ml - MIACALCIC 50 UI/1 ml, solution injectable ou pour perfusion.
+389	948	Voie orale	CANDESARTAN CILEXETIL 16 mg + HYDROCHLOROTHIAZIDE 12,5 mg - HYTACAND 16 mg/12,5 mg, comprimé - COKENZEN 16 mg/12,5 mg, comprimé sécable.
+354	865	Voie orale	CANDESARTAN CILEXETIL 16 mg - ATACAND 16 mg, comprimé sécable - KENZEN 16 mg, comprimé sécable.
+354	866	Voie orale	CANDESARTAN CILEXETIL 32 mg - ATACAND 32 mg, comprimé sécable - KENZEN 32 mg, comprimé sécable.
+354	863	Voie orale	CANDESARTAN CILEXETIL 4 mg - ATACAND 4 mg, comprimé sécable - KENZEN 4 mg, comprimé sécable.
+389	947	Voie orale	CANDESARTAN CILEXETIL 8 mg + HYDROCHLOROTHIAZIDE 12,5 mg - HYTACAND 8 mg/12,5 mg, comprimé - COKENZEN 8 mg/12,5 mg, comprimé sécable.
+354	864	Voie orale	CANDESARTAN CILEXETIL 8 mg - ATACAND 8 mg, comprimé sécable - KENZEN 8 mg, comprimé sécable
+389	1625	Voie orale	CANDÉSARTAN CILEXÉTIL 32 mg +  HYDROCHLOROTHIAZIDE 12,5 mg -  HYTACAND 32 mg/12,5 mg, comprimé sécable
+389	1626	Voie orale	CANDÉSARTAN CILEXÉTIL 32 mg +  HYDROCHLOROTHIAZIDE 25 mg - HYTACAND 32 mg/25 mg, comprimé sécable
+53	94	Voie orale	CAPTOPRIL 25 mg - CAPTOLANE 25 mg, comprimé sécable - LOPRIL 25 mg, comprimé sécable.
+57	101	Voie orale	CAPTOPRIL 50 mg + HYDROCHLOROTHIAZIDE 25 mg - ECAZIDE, comprimé sécable - CAPTEA, comprimé sécable.
+53	95	Voie orale	CAPTOPRIL 50 mg - CAPTOLANE 50 mg, comprimé sécable - LOPRIL 50 mg, comprimé sécable.
+444	1094	Voie orale	CAPÉCITABINE 150 mg - XELODA 150 mg, comprimé pelliculé
+444	1095	Voie orale	CAPÉCITABINE 500 mg - XELODA 500 mg, comprimé pelliculé
+122	248	Voie orale	CARBAMAZEPINE 200 mg - TEGRETOL LP 200 mg, comprimé pelliculé sécable à libération prolongée
+122	249	Voie orale	CARBAMAZEPINE 400 mg - TEGRETOL LP 400 mg, comprimé pelliculé sécable à libération prolongée
+151	304	Voie orale	CARBOCISTEINE 2 % - RHINATHIOL EXPECTORANT CARBOCISTEINE 2 % ENFANTS SANS SUCRE, sirop édulcoré à la saccharine sodique et au maltitol liquide.
+151	303	Voie orale	CARBOCISTEINE 2 % - RHINATHIOL EXPECTORANT CARBOCISTEINE 2 % ENFANTS, sirop.
+151	306	Voie orale	CARBOCISTEINE 5 % - MUCOPLEXIL 5 % ADULTES SANS SUCRE, sirop édulcoré à la saccharine sodique.
+151	305	Voie orale	CARBOCISTEINE 5 % - RHINATHIOL EXPECTORANT CARBOCISTEINE 5 % ADULTES, sirop.
+151	1459	Voie orale	CARBOCISTEINE 750 mg  - RHINATHIOL EXPECTORANT CARBOCISTEINE 750 mg/10 ml ADULTES SANS SUCRE, gel oral en sachet édulcoré à la saccharine sodique
+310	742	Voie ophtalmique	CARBOMERE 940  0,2 % - LACRIGEL 0,2 POUR CENT (0,001 g/0,5 g), gel ophtalmique en récipient unidose.
+181	385	Voie intraveineuse (pour perfusion)	CARBOPLATINE 10 mg/ml - PARAPLATINE 10 mg/ml, solution injectable pour perfusion.
+765	1963	Voie intraveineuse	CARBOXYMALTOSE FERRIQUE équivalent à FER 50 mg/mL - FERINJECT 50 mg/mL, dispersion injectable/pour perfusion
+723	1863	Voie intraveineuse	CARMUSTINE 100 mg - BICNU, poudre et solvant pour solution pour perfusion
+158	317	Voie orale	CARVEDILOL 12,5 mg - KREDEX 12,5 mg, comprimé sécable.
+158	327	Voie orale	CARVEDILOL 25 mg - KREDEX 25 mg, comprimé sécable.
+158	1350	Voie orale	CARVEDILOL 3,125 mg - KREDEX 3,125 mg, comprimé sécable
+158	326	Voie orale	CARVEDILOL 6,25 mg - KREDEX 6,25 mg, comprimé sécable.
+550	1381	Voie intraveineuse	CASPOFUNGINE (ACETATE DE) ((CHAMPIGNONS/GLAREA LOZOYENSIS)) équivalant à CAPSOFUNGINE 70 mg - CANCIDAS 70 mg, poudre pour solution à diluer pour perfusion
+550	1380	Voie intraveineuse	CASPOFUNGINE (ACETATE DE) ((CHAMPIGNONS/GLAREA LOZOYENSIS)) équivalant à CASPOFUNGINE 50 mg - CANCIDAS 50 mg, poudre pour solution à diluer pour perfusion
+87	168	Voie orale	CEFACLOR 250 mg/5 ml - ALFATIL 250 mg/5 ml, poudre pour suspension buvable
+88	169	Voie orale	CEFADROXIL 125 mg/5 ml - ORACEFAL 125 mg/5 ml, poudre pour suspension buvable
+88	173	Voie orale	CEFADROXIL 1g - ORACEFAL 1 g, comprimé dispersible
+88	170	Voie orale	CEFADROXIL 250 mg/5 ml - ORACEFAL 250 mg/5 ml, poudre pour suspension buvable
+88	172	Voie orale	CEFADROXIL 500 mg - ORACEFAL 500 mg, gélule
+88	171	Voie orale	CEFADROXIL 500 mg/5 ml - ORACEFAL 500 mg/5 ml, poudre pour suspension buvable
+717	1850	Voie intramusculaire / Voie intraveineuse	CEFAZOLINE SODIQUE équivalant à CEFAZOLINE 2 g - KEFZOL 2 g, poudre pour préparation injectable
+313	749	Voie intramusculaire / Voie intraveineuse	CEFEPIME (DICHLORHYDRATE DE) MONOHYDRATE équivalant à CEFEPIME 0,5 g - AXEPIM 0,5 g, poudre pour solution injectable
+313	748	Voie intramusculaire / Voie intraveineuse	CEFEPIME (DICHLORHYDRATE DE) MONOHYDRATE équivalant à CEFEPIME 1 g - AXEPIM 1 g, poudre pour usage parentéral.
+313	746	Voie intramusculaire / Voie intraveineuse	CEFEPIME (DICHLORHYDRATE DE) MONOHYDRATE équivalant à CEFEPIME 2 g - AXEPIM 2 g, poudre pour solution injectable
+254	587	Voie orale	CEFIXIME TRIHYDRATE équivalant à 200 mg CEFIXIME  - OROKEN 200 mg, comprimé pelliculé.
+254	1804	Voie orale	CEFIXIME TRIHYDRATE équivalent à 100 mg/5 ml CEFIXIME - OROKEN ENFANTS 100 mg/5 ml, poudre pour suspension buvable en flacon
+215	1316	Voie intramusculaire / Voie intraveineuse	CEFOTAXIME SODIQUE équivalant à CEFOTAXIME 2 g - CLAFORAN 2 g, poudre pour solution injectable (I.M./I.V.)
+323	775	Voie intraveineuse	CEFOXITINE SODIQUE équivalant à CEFOXITINE 1 g - MEFOXIN 1 g, poudre pour solution injectable (IV).
+323	776	Voie intraveineuse	CEFOXITINE SODIQUE équivalant à CEFOXITINE 2 g - MEFOXIN 2 g, poudre pour préparation injectable (I.V.).
+231	531	Voie orale	CEFPODOXIME PROXETIL 100 mg - ORELOX 100 mg, comprimé pelliculé.
+231	532	Voie orale	CEFPODOXIME PROXETIL 40 mg/5 ml - ORELOX ENFANTS ET NOURRISSONS 40 mg/5 ml, granulés pour suspension buvable.
+91	179	Voie orale	CEFRADINE 500 mg - KELSEF 500 mg, gélule
+191	415	Voie intramusculaire / Voie intraveineuse	CEFTAZIDIME 1 g - FORTUM 1 g, poudre pour solution injectable (IM, IV) ou pour perfusion.
+191	417	Voie intraveineuse	CEFTAZIDIME 2 g - FORTUM 2 g, poudre pour solution injectable (IV) ou pour perfusion.
+191	431	Voie intramusculaire / Voie intraveineuse	CEFTAZIDIME 250 mg - FORTUM 250 mg ENFANTS ET NOURRISSONS, poudre pour solution injectable (IM, IV).
+191	414	Voie intramusculaire / Voie intraveineuse	CEFTAZIDIME 500 mg - FORTUM 500 mg ENFANTS ET NOURRISSONS, poudre pour solution injectable (IM, IV).
+89	544	Voie sous-cutanée / Voie intramusculaire / Voie intraveineuse	CEFTRIAXONE (SODIQUE) équivalant à CEFTRIAXONE 1 g - ROCEPHINE 1 g, poudre pour solution injectable.
+89	177	Voie intraveineuse	CEFTRIAXONE (SODIQUE) équivalant à CEFTRIAXONE 1 g/10 ml - ROCEPHINE 1 g/10 ml, poudre et solvant pour solution injectable (IV)
+89	175	Voie intramusculaire	CEFTRIAXONE (SODIQUE) équivalant à CEFTRIAXONE 1 g/3,5 ml - ROCEPHINE 1 g/3,5 ml, poudre et solvant  pour solution injectable (IM).
+89	330	Voie intraveineuse	CEFTRIAXONE (SODIQUE) équivalant à CEFTRIAXONE 2 g - ROCEPHINE 2 g, poudre pour solution pour perfusion.
+89	174	Voie intramusculaire	CEFTRIAXONE (SODIQUE) équivalant à CEFTRIAXONE 500 mg/ 2 ml - ROCEPHINE 500 mg/2 ml, poudre et solvant  pour solution injectable (IM).
+89	176	Voie intraveineuse	CEFTRIAXONE (SODIQUE) équivalant à CEFTRIAXONE 500 mg/5 ml - ROCEPHINE 500 mg/5 ml, poudre et solvant pour solution injectable (IV).
+86	163	Voie orale	CEFUROXIME AXETIL équivalant à CEFUROXIME 125 mg - ZINNAT 125 mg, comprimé pelliculé.
+86	164	Voie orale	CEFUROXIME AXETIL équivalant à CEFUROXIME 250 mg - ZINNAT 250 mg, comprimé pelliculé.
+86	165	Voie orale	CEFUROXIME AXETIL équivalant à CEFUROXIME 500 mg - ZINNAT 500 mg, comprimé pelliculé.
+305	734	Voie intraveineuse	CEFUROXIME SODIQUE équivalant à CEFUROXIME 1,5 g - ZINNAT 1,5 g, poudre pour solution pour perfusion.
+305	733	Voie intramusculaire / Voie intraveineuse	CEFUROXIME SODIQUE équivalant à CEFUROXIME 750 mg  - ZINNAT 750 mg, poudre pour solution injectable (I.M., I.V.)
+48	83	Voie orale	CELIPROLOL (CHLORHYDRATE DE) 200 mg - CELECTOL 200 mg, comprimé pelliculé
+153	309	Voie orale	CETIRIZINE (DICHLORHYDRATE DE) 10 mg - ZYRTEC 10 mg, comprimé pelliculé sécable - VIRLIX 10 mg, comprimé pelliculé sécable - REACTINE 10 mg, comprimé pelliculé sécable -  ZYRTECSET 10 mg, comprimé pelliculé sécable.
+153	321	Voie orale	CETIRIZINE (DICHLORHYDRATE DE) 10 mg/ml - ZYRTEC 10 mg/ml, solution buvable en gouttes - VIRLIX 10 mg/ml, solution buvable en gouttes.
+357	876	Voie cutanée	CHLORHEXIDINE (DIGLUCONATE DE) 0,05 % - CHLORHEXIDINE AQUEUSE STERILE GILBERT A 0,05 POUR CENT, solution pour application locale en récipient unidose.
+324	777	Voie buccale	CHLORHEXIDINE (DIGLUCONATE DE) 0,05 ml/ml + CHLOROBUTANOL HEMIHYDRATE 0,05g/ml - ELUDRILPRO, solution pour bain de bouche.
+538	1363	Voie cutanée	CHLORHEXIDINE (DIGLUCONATE DE) 0,250 g pour 100 mL + CHLORURE DE BENZALKONIUM 0,025 g pour 100 mL + ALCOOL BENZYLIQUE 4 mL pour 100 mL - BISEPTINE, solution pour application locale
+519	1307	Voie intraveineuse	CHLORHYDRATE DE BENDAMUSTINE 2,5 mg/mL - LEVACT 2,5 mg/ml, poudre pour solution à diluer pour perfusion
+70	128	Voie orale	CHLORMADINONE (ACETATE DE) 10 mg - LUTERAN 10 mg, comprimé
+70	127	Voie orale	CHLORMADINONE (ACETATE DE) 5 mg - LUTERAN 5 mg, comprimé
+778	2001	Voie intraveineuse	CHLORURE DE CHROME HEXAHYDRATE 5,33 µg + CHLORURE DE CUIVRE DIHYDRATE 102 µg + CHLORURE FERRIQUE HEXAHYDRATE 540 µg + CHLORURE DE MANGANESE TETRAHYDRATE 19,8 µg + IODURE DE POTASSIUM 16,6 µg + FLUORURE DE SODIUM 210 µg + MOLYBDATE DE SODIUM DIHYDRATE 4,85 µg + SELENITE DE SODIUM 17,3 µg + CHLORURE DE ZINC 1050 µg - SUPPLIVEN, solution à diluer pour perfusion
+620	1567	Voie intraveineuse	CHLORURE DE POTASSIUM 0,15 g pour 100 mL  + GLUCOSE (MONOHYDRATE) équivalant à GLUCOSE 5 g pour 100 mL - CHLORURE DE POTASSIUM 0,15 % ET GLUCOSE 5 % VIAFLO, solution pour perfusion
+620	1568	Voie intraveineuse	CHLORURE DE POTASSIUM 0,3 g pour 100 mL  + GLUCOSE (MONOHYDRATE) équivalant à GLUCOSE 5 g pour 100 mL - CHLORURE DE POTASSIUM 0,3 % ET GLUCOSE 5 % VIAFLO, solution pour perfusion
+516	1302	Voie intraveineuse	CHLORURE DE POTASSIUM 0,3 g pour 100 mL + CHLORURE DE SODIUM 0,9 g pour 100 mL - CHLORURE DE POTASSIUM 0,3 % ET CHLORURE DE SODIUM 0,9 % VIAFLO, solution pour perfusion
+482	1219	Voie orale	CHOLÉCALCIFÉROL 100 000 UI - UVEDOSE 100 000 UI, solution buvable en ampoule
+482	1816	Voie orale	CHOLÉCALCIFÉROL 200 000 UI - ZYMAD 200 000 UI, solution buvable en ampoule
+482	1971	Voie orale	CHOLÉCALCIFÉROL 50 000 UI - UVEDOSE 50 000 UI, solution buvable en ampoule
+482	1835	Voie orale	CHOLÉCALCIFÉROL 50 000 UI - ZYMAD 50 000 UI, solution buvable en ampoule
+482	1817	Voie orale	CHOLÉCALCIFÉROL 80 000 UI - ZYMAD 80 000 UI, solution buvable en ampoule
+392	961	Voie orale	CICLETANINE (CHLORHYDRATE DE) 50 mg - TENSTATEN 50 mg, gélule.
+301	725	Voie cutanée	CICLOPIROX 8 % - MYCOSTER 8 POUR CENT, solution filmogène pour application locale en flacon.
+443	1092	Voie cutanée	CICLOPIROX OLAMINE 1% - MYCOSTER 1 pour cent, crème
+443	1317	Voie cutanée	CICLOPIROX OLAMINE 1% - MYCOSTER 1%, solution pour application cutanée
+443	1382	Voie cutanée	CICLOPIROX OLAMINE 1,5 g pour 100 g - SEBIPROX 1,5 %, shampooing
+640	1636	Voie orale	CICLOSPORINE 10 mg - NEORAL 10 mg, capsule molle
+640	1637	Voie orale	CICLOSPORINE 100 mg - NEORAL 100 mg, capsule molle
+640	1638	Voie orale	CICLOSPORINE 25 mg - NEORAL 25 mg, capsule molle
+640	1639	Voie orale	CICLOSPORINE 50 mg - NEORAL 50 mg, capsule molle
+678	1756	Voie intraveineuse	CIDOFOVIR DIHYDRATE équivalent à CIDOFOVIR ANHYDRE 75 mg/mL- VISTIDE 75 mg/mL, solution à diluer pour perfusion
+1	2	Voie orale	CIMETIDINE 200 mg - TAGAMET 200 mg, comprimé effervescent
+1	1	Voie orale	CIMETIDINE 200 mg - TAGAMET 200 mg, comprimé pelliculé
+1	3	Voie orale	CIMETIDINE 400 mg - TAGAMET 400 mg, comprimé pelliculé
+1	4	Voie orale	CIMETIDINE 800 mg - TAGAMET 800 mg, comprimé pelliculé sécable
+548	1383	Voie orale	CINACALCET (CHLORHYDRATE DE) équivalant à CINACALCET 30 mg - MIMPARA 30 mg, comprimé pelliculé
+548	1384	Voie orale	CINACALCET (CHLORHYDRATE DE) équivalant à CINACALCET 60 mg - MIMPARA 60 mg, comprimé pelliculé
+548	1385	Voie orale	CINACALCET (CHLORHYDRATE DE) équivalant à CINACALCET 90 mg - MIMPARA 90 mg, comprimé pelliculé
+60	108	Voie orale	CIPROFIBRATE 100 mg - LIPANOR 100 mg, gélule
+97	485	Voie intraveineuse (pour perfusion)	CIPROFLOXACINE (CHLORHYDRATE DE) équivalant à CIPROFLOXACINE 200 mg/100 ml - CIFLOX 200 mg/100 ml, solution  pour perfusion (IV).
+97	654	Voie intraveineuse (pour perfusion)	CIPROFLOXACINE (CHLORHYDRATE DE) équivalant à CIPROFLOXACINE 200 mg/100 ml - CIFLOX 200 mg/100 ml, solution pour perfusion en poche.
+97	188	Voie orale	CIPROFLOXACINE (CHLORHYDRATE DE) équivalant à CIPROFLOXACINE 250 mg - CIFLOX 250 mg, comprimé pelliculé sécable.
+97	484	Voie intraveineuse (pour perfusion)	CIPROFLOXACINE (CHLORHYDRATE DE) équivalant à CIPROFLOXACINE 400 mg/200 ml - CIFLOX 400 mg/200 ml, solution pour perfusion (IV).
+97	653	Voie intraveineuse (pour perfusion)	CIPROFLOXACINE (CHLORHYDRATE DE) équivalant à CIPROFLOXACINE 400 mg/200 ml - CIFLOX 400 mg/200 ml, solution pour perfusion en poche.
+97	189	Voie orale	CIPROFLOXACINE (CHLORHYDRATE DE) équivalant à CIPROFLOXACINE 500 mg - CIFLOX 500 mg, comprimé pelliculé sécable.
+97	190	Voie orale	CIPROFLOXACINE (CHLORHYDRATE DE) équivalant à CIPROFLOXACINE 750 mg - CIFLOX 750 mg, comprimé pelliculé.
+325	1364	Voie intraveineuse	CISPLATINE 1 mg/1 mL - PLATINOL 1 mg/ml, solution pour perfusion
+325	991	Voie intraveineuse	CISPLATINE 1 mg/ml - CISPLATYL 10 mg/10 ml, solution injectable pour perfusion (I.V.) en flacon (FLACON de 10 ml).
+325	992	Voie intraveineuse	CISPLATINE 1 mg/ml - CISPLATYL 25 mg/25 ml, solution injectable pour perfusion (I.V.) en flacon (FLACON de 25 ml).
+325	993	Voie intraveineuse	CISPLATINE 1 mg/ml - CISPLATYL 50 mg/50 ml, solution injectable pour perfusion (I.V.) en flacon (FLACON de 50 ml).
+139	283	Voie orale	CITALOPRAM (BROMHYDRATE DE) équivalant à CITALOPRAM 20 mg - SEROPRAM 20 mg, comprimé pelliculé sécable.
+168	671	Voie orale	CLARITHROMYCINE 25 mg/ml - ZECLAR 25 mg/ml, granulés pour suspension buvable
+168	346	Voie orale	CLARITHROMYCINE 250 mg - ZECLAR 250 mg, comprimé pelliculé
+168	672	Voie orale	CLARITHROMYCINE 50 mg/ml - ZECLAR 50 mg/ml, granulés pour suspension buvable
+168	888	Voie orale	CLARITHROMYCINE 500 mg - MONOZECLAR  500 mg, comprimé pelliculé à libération modifiée
+168	387	Voie orale	CLARITHROMYCINE 500 mg - ZECLAR 500 mg, comprimé pelliculé
+610	1539	Voie orale	CLINDAMYCINE (CHLORHYDRATE DE) équivalant à CLINDAMYCINE 150 mg - CLINDAMYCINE (CHLORHYDRATE DE) HYDRATE équivalant à CLINDAMYCINE 150 mg - DALACINE 150 mg, gélule
+610	1540	Voie orale	CLINDAMYCINE (CHLORHYDRATE DE) équivalant à CLINDAMYCINE 300 mg - CLINDAMYCINE (CHLORHYDRATE DE) HYDRATE équivalant à CLINDAMYCINE 300 mg - DALACINE 300 mg, gélule
+295	707	Voie intramusculaire / Voie intraveineuse	CLINDAMYCINE (PHOSPHATE DE) équivalant à CLINDAMYCINE 600 mg/4 ml - DALACINE 600 mg, solution injectable.
+295	709	Voie intramusculaire / Voie intraveineuse	CLINDAMYCINE (PHOSPHATE DE) équivalant à CLINDAMYCINE 900 mg/6 ml - DALACINE 900 mg, solution injectable.
+375	920	Voie cutanée	CLOBETASOL (PROPIONATE DE) 0,05 % - DERMOVAL 0,05 POUR CENT, crème.
+375	1726	Voie cutanée	CLOBÉTASOL (PROPIONATE DE) 500 microgrammes/g - CLOBEX 500 microgrammes/g, shampooing
+582	1464	Voie intraveineuse	CLOFARABINE 1 mg/ mL - EVOLTRA 1 mg/ml, solution à diluer pour perfusion
+137	277	Voie orale	CLOMIPRAMINE (CHLORHYDRATE DE) 10 mg - ANAFRANIL 10 mg, comprimé enrobé
+137	278	Voie orale	CLOMIPRAMINE (CHLORHYDRATE DE) 25 mg - ANAFRANIL 25 mg, comprimé enrobé
+137	279	Voie orale	CLOMIPRAMINE (CHLORHYDRATE DE) 75 mg - ANAFRANIL 75 mg, comprimé pelliculé sécable.
+663	1707	Voie orale	CLOPIDOGREL (HYDROGENOSULFATE DE) équivalant à CLOPIDOGREL 75 mg + ACIDE ACETYLSALICYLIQUE 100 mg - DUOPLAVIN 75 mg/100 mg, comprimé pelliculé
+663	1708	Voie orale	CLOPIDOGREL (HYDROGENOSULFATE DE) équivalant à CLOPIDOGREL 75 mg + ACIDE ACETYLSALICYLIQUE 75 mg - DUOPLAVIN 75 mg/75 mg, comprimé pelliculé
+341	1101	Voie orale	CLOPIDOGREL (HYDROGÉNOSULFATE DE) - CLOPIDOGREL (BROMHYDRATE DE) MONOHYDRATE équivalant à CLOPIDOGREL 300 mg - PLAVIX 300 mg, comprimé pelliculé
+341	831	Voie orale	CLOPIDOGREL (HYDROGÉNOSULFATE DE) équivalant à CLOPIDOGREL 75 mg - CLOPIDOGREL (BESILATE DE) équivalant à CLOPIDOGREL 75 mg - CLOPIDOGREL (CHLORHYDRATE DE) équivalant à CLOPIDOGREL 75 mg -PLAVIX 75 mg, comprimé pelliculé.
+676	1749	Voie cutanée	CLOTRIMAZOLE 1,0 g pour 100 g-MYCOHYDRALIN, crème
+453	1695	Voie intraveineuse	CLOXACILLINE SODIQUE équivalant à CLOXACILLINE 1 g - ORBENINE 1 g, poudre pour solution injectable (IV)
+453	1136	Voie orale	CLOXACILLINE SODIQUE équivalant à CLOXACILLINE 500 mg - ORBENINE 500 mg, gélule
+126	258	Voie orale	CLOZAPINE 100 mg - LEPONEX 100 mg, comprimé sécable.
+126	257	Voie orale	CLOZAPINE 25 mg - LEPONEX 25 mg, comprimé sécable.
+574	1511	Voie intrathécale / Voie intraveineuse / Voie intraventriculaire cérébrale	COLISTIMETHATE SODIQUE 1.000.000 U.I. pour un flacon - COLISTIMETHATE SODIQUE AMDIPHARM 1.000.000 U.I., poudre et solvant pour solution injectable
+15	30	Voie orale	CROMOGLICATE DE SODIUM 100 mg/5 ml - NALCRON, solution buvable en ampoule.
+15	518	Voie ophtalmique	CROMOGLICATE DE SODIUM 2 % - OPTICRON UNIDOSE, collyre en récipient unidose.
+15	483	Voie ophtalmique	CROMOGLICATE DE SODIUM 2 g/100 ml - OPTICRON 2 POUR CENT, collyre.
+557	1601	Voie orale	CYAMEMAZINE (TARTRATE DE) équivalant à CYAMEMAZINE 100 mg - TERCIAN 100 mg, comprimé pelliculé sécable
+557	1413	Voie orale	CYAMEMAZINE (TARTRATE DE) équivalant à CYAMEMAZINE 25 mg - TERCIAN 25 mg, comprimé pelliculé sécable
+721	1981	Voie orale	CYAMEMAZINE 40 mg/mL - TARTRATE DE CYAMEMAZINE équivalent à CYAMEMAZINE 40 mg/mL - TERCIAN 40 mg/ml, solution buvable en gouttes
+721	1858	Voie intramusculaire	CYAMEMAZINE 50 mg/5 mL - TERCIAN 50 mg/5 ml, solution injectable en ampoule
+502	1265	Voie intramusculaire / Voie intraveineuse	CYCLOPHOSPHAMIDE équivalant à CYCLOPHOSPHAMIDE ANHYDRE 1000 mg - ENDOXAN 1000 mg, poudre pour solution injectable
+502	1264	Voie intramusculaire / Voie intraveineuse	CYCLOPHOSPHAMIDE équivalant à CYCLOPHOSPHAMIDE ANHYDRE 500 mg - ENDOXAN 500 mg, poudre pour solution injectable
+71	409	Voie orale	CYPROTERONE (ACETATE DE) 100 mg, - ANDROCUR 100 mg, comprimé sécable.
+72	130	Voie orale	CYPROTERONE (ACETATE DE) 2 mg + ETHINYLESTRADIOL 0,035 mg - DIANE 35 microgrammes, comprimé enrobé
+71	129	Voie orale	CYPROTERONE (ACETATE DE) 50 mg - ANDROCUR 50 mg, comprimé sécable.
+599	1510	Voie orale	CYSTINE 500 mg + VITAMINE B6 50 mg - CYSTINE B6 BAILLEUL, comprimé pelliculé
+239	557	Voie intrarachidienne /  Voie intraveineuse / Voie sous-cutanée	CYTARABINE 1 g/20 ml - CYTARABINE EBEWE 1 g/20 ml, solution injectable.
+239	579	Voie intrarachidienne /  Voie intraveineuse / Voie sous-cutanée	CYTARABINE 100 mg/5 ml - CYTARABINE SANDOZ 20 mg/ml, solution injectable (FLACON de 5 ml).
+239	558	Voie intrarachidienne /  Voie intraveineuse / Voie sous-cutanée	CYTARABINE 40 mg/2 ml - CYTARBEL 40 mg/2 ml, solution injectable (FLACON de 2 ml).
+446	1099	Voie orale	CÉLÉCOXIB 100 mg - CELEBREX 100 mg, gélule
+446	1100	Voie orale	CÉLÉCOXIB 200 mg - CELEBREX 200 mg, gélule
+478	1207	Voie orale	D,L-HYDROGENOMALATE D'ALMOTRIPTAN équivalant à ALMOTRIPTAN 12,5 mg - ALMOGRAN 12,5 mg, comprimé pelliculé
+666	1714	Voie orale	DABIGATRAN ETEXILATE (MESILATE DE) équivalant à  DABIGATRAN ETEXILATE 110 mg - PRADAXA 110 mg, gélule
+666	1715	Voie orale	DABIGATRAN ETEXILATE (MESILATE DE) équivalant à  DABIGATRAN ETEXILATE 150 mg - PRADAXA 150 mg, gélule
+666	1716	Voie orale	DABIGATRAN ETEXILATE (MESILATE DE) équivalant à  DABIGATRAN ETEXILATE 75 mg - PRADAXA 75 mg, gélule
+745	1911	Voie intraveineuse	DALBAVANCINE (CHLORHYDRATE DE) équivalent à DALBAVANCINE 500 mg - XYDALBA 500 mg, poudre pour solution à diluer pour perfusion
+766	1964	Voie orale	DAPAGLIFLOZINE (PROPYLENE GLYCOL DE) MONOHYDRATE équivalent à DAPAGLIFLOZINE 5 mg - DAPAGLIFLOZINE PROPANEDIOL MONOHYDRATE équivalent à DAPAGLIFLOZINE 5 mg + METFORMINE (CHLORHYDRATE DE) 1000 mg - XIGDUO 5 mg/1000 mg, comprimé pelliculé
+766	1970	Voie orale	DAPAGLIFLOZINE (PROPYLENE GLYCOL DE) MONOHYDRATE équivalent à DAPAGLIFLOZINE 5mg + METFORMINE (CHLORHYDRATE DE) 850 mg - XIGDUO 5 mg/850 mg, comprimé pelliculé
+728	1869	Voie orale	DAPAGLIFLOZINE (PROPYLENE GLYCOL DE) equivalent à DAPAGLIFLOZINE 10 mg - DAPAGLIFLOZINE 10 mg - FORXIGA 10 mg, comprimé pelliculé
+728	1884	Voie orale	DAPAGLIFLOZINE (PROPYLENE GLYCOL DE) équivalant à DAPAGLIFLOZINE 5 mg - DAPAGLIFOZINE 5 mg - FORXIGA 5 mg, comprimé pelliculé
+571	1447	Voie intraveineuse	DAPTOMYCINE 350 mg - CUBICIN 350 mg, poudre pour solution injectable ou pour perfusion
+571	1448	Voie intraveineuse	DAPTOMYCINE 500 mg - CUBICIN 500 mg, poudre pour solution injectable ou pour perfusion
+549	1388	Voie orale	DARUNAVIR (ETHANOLATE DE) équivalant à DARUNAVIR 150 mg - DARUNAVIR (PROPYLENE GLYCOLATE DE) équivalant à DARUNAVIR 150 mg - DARUNAVIR 150 mg - PREZISTA 150 mg, comprimé pelliculé
+549	1389	Voie orale	DARUNAVIR (ETHANOLATE DE) équivalant à DARUNAVIR 300 mg - DARUNAVIR (PROPYLENE GLYCOLATE DE) équivalant à DARUNAVIR 300 mg - DARUNAVIR 300 mg - PREZISTA 300 mg, comprimé pelliculé
+549	1390	Voie orale	DARUNAVIR (ETHANOLATE DE) équivalant à DARUNAVIR 400 mg - DARUNAVIR (PROPYLENE GLYCOLATE DE) équivalant à DARUNAVIR 400 mg - DARUNAVIR 400 mg - PREZISTA 400 mg, comprimé pelliculé
+549	1391	Voie orale	DARUNAVIR (ETHANOLATE DE) équivalant à DARUNAVIR 600 mg - DARUNAVIR (PROPYLENE GLYCOLATE DE) équivalant à DARUNAVIR 600 mg - DARUNAVIR 600 mg - PREZISTA 600 mg, comprimé pelliculé
+549	1387	Voie orale	DARUNAVIR (ETHANOLATE DE) équivalant à DARUNAVIR 75 mg - DARUNAVIR (PROPYLENE GLYCOLATE DE) équivalant à DARUNAVIR 75 mg - DARUNAVIR 75 mg - PREZISTA 75 mg, comprimé pelliculé
+549	1392	Voie orale	DARUNAVIR (ETHANOLATE DE) équivalant à DARUNAVIR 800 mg - DARUNAVIR (PROPYLENE GLYCOLATE DE) équivalant à DARUNAVIR 800 mg - DARUNAVIR 800 mg - PREZISTA 800 mg, comprimé pelliculé
+623	1583	Voie orale	DASATINIB 100 mg - DASATINIB (MONOHYDRATE) équivalant à DASATINIB 100 mg - SPRYCEL 100 mg, comprimé pelliculé
+623	1584	Voie orale	DASATINIB 140 mg - DASATINIB (MONOHYDRATE) équivalant à DASATINIB 140 mg - SPRYCEL 140 mg, comprimé pelliculé
+623	1585	Voie orale	DASATINIB 20 mg - DASATINIB (MONOHYDRATE) équivalant à DASATINIB 20 mg - SPRYCEL 20 mg, comprimé pelliculé
+623	1586	Voie orale	DASATINIB 50 mg - DASATINIB (MONOHYDRATE) équivalant à DASATINIB 50 mg - SPRYCEL 50 mg, comprimé pelliculé
+623	1587	Voie orale	DASATINIB 70 mg - DASATINIB (MONOHYDRATE) équivalant à DASATINIB 70 mg - SPRYCEL 70 mg, comprimé pelliculé
+623	1670	Voie orale	DASATINIB 80 mg - DASATINIB (MONOHYDRATE) équivalant à DASATINIB 80 mg - SPRYCEL 80 mg, comprimé pelliculé
+611	1541	Voie orale	DEFERASIROX 125 mg - EXJADE 125 mg, comprimé dispersible
+611	1685	Voie orale	DEFERASIROX 180 mg - EXJADE 180 mg, comprimé pelliculé
+611	1542	Voie orale	DEFERASIROX 250 mg - EXJADE 250 mg, comprimé dispersible
+611	1686	Voie orale	DEFERASIROX 360 mg - EXJADE 360 mg, comprimé pelliculé
+611	1543	Voie orale	DEFERASIROX 500 mg - EXJADE 500 mg, comprimé dispersible
+611	1687	Voie orale	DEFERASIROX 90 mg - EXJADE 90 mg, comprimé pelliculé
+612	1544	Voie orale	DEFERIPRONE 1000 mg - FERRIPROX 1000 mg, comprimé pelliculé
+612	1545	Voie orale	DEFERIPRONE 500 mg - FERRIPROX 500 mg, comprimé pelliculé
+744	1910	Voie sous cutanée	DEGARELIX (ACETATE DE) équivalent à DEGARELIX 120 mg - FIRMAGON 120 mg, poudre et solvant pour solution injectable
+744	1909	Voie sous cutanée	DEGARELIX (ACETATE DE) équivalent à DEGARELIX 80 mg - FIRMAGON 80 mg, poudre et solvant pour solution injectable
+631	1611	Voie orale	DEMECLOCYCLINE (CHLORHYDRATE DE) équivalant à DEMECLOCYCLINE 150 mg - ALKONATREM 150 mg, gélule
+540	1365	Voie inhalée	DESFLURANE 100 % - SUPRANE, liquide pour inhalation par vapeur
+420	1038	Voie orale	DESLORATADINE 0,5 mg/ml - AERIUS 0,5 mg/ml, solution buvable.
+420	1037	Voie orale	DESLORATADINE 5 mg - AERIUS 5 mg, comprimé pelliculé -NEOCLARITYN 5 mg, comprimé pelliculé
+662	1706	Voie sublinguale	DESMOPRESSINE 120 microgrammes - MINIRINMELT 120 microgrammes, lyophilisat oral
+662	1705	Voie sublinguale	DESMOPRESSINE 240 microgrammes - MINIRINMELT 240 microgrammes, lyophilisat oral
+662	1704	Voie sublinguale	DESMOPRESSINE 60 microgrammes - MINIRINMELT 60 microgrammes, lyophilisat oral
+419	1036	Voie orale	DESOGESTREL 0,075 mg - CERAZETTE 0,075 mg, comprimé pelliculé.
+67	121	Voie orale	DESOGESTREL 150 microgrammes + ETHINYLESTRADIOL 20 microgrammes - MERCILON, comprimé
+67	1137	Voie orale	DESOGESTREL 150 microgrammes + ETHINYLESTRADIOL 30 microgrammes - VARNOLINE CONTINU, comprimé pelliculé
+67	120	Voie orale	DESOGESTREL 150 microgrammes + ETHINYLESTRADIOL 30 microgrammes - VARNOLINE, comprimé
+583	1569	Voie intraveineuse	DEXMEDETOMIDINE (CHLORHYDRATE DE) équivalant à DEXMEDETOMIDINE 100 microgrammes pour 1 mL - DEXDOR 100 microgrammes/ml, solution à diluer pour perfusion
+464	1176	Voie cutanée	DEXPANTHÉNOL 5% - BEPANTHEN 5 %, pommade
+398	973	Voie intraveineuse	DEXRAZOXANE (CHLORHYDRATE DE) équivalant à 20 mg/ml, de solution reconstituée - CARDIOXANE 500 mg, poudre pour solution pour perfusion.
+473	1201	Voie orale	DEXTROMÉTHORPHANE (BROMHYDRATE DE)  15 mg/5 ml - DRILL TOUX SECHE DEXTROMÉTHORPHANE ADULTES 15 mg/5 ml  SANS SUCRE, sirop édulcoré au maltitol liquide
+473	1520	Voie orale	DEXTROMÉTHORPHANE (BROMHYDRATE DE) 1,5 mg/ml - TUSSIDANE 1,5 mg/ml SANS SUCRE, solution buvable édulcorée au maltitol liquide et à la saccharine sodique
+297	714	Voie orale	DIACEREINE 50 mg - ART 50 mg, gélule - ZONDAR 50 mg, gélule.
+130	268	Voie orale	DIAZEPAM 10 mg -VALIUM ROCHE 10 mg, comprimé sécable.
+130	1349	Voie intramusculaire / Voie intraveineuse / Voie rectale	DIAZEPAM 10 mg/2 mL - VALIUM ROCHE 10 mg/2 ml, solution injectable
+130	266	Voie orale	DIAZEPAM 2 mg - VALIUM ROCHE 2 mg, comprimé sécable
+130	267	Voie orale	DIAZEPAM 5 mg - VALIUM ROCHE 5 mg, comprimé sécable
+649	1665	Voie cutanée	DICLOFENAC (EPOLAMINE DE) équivalant à DICLOFENAC SODIQUE 140 mg - FLECTORTISSUGELEP 1 %, emplâtre médicamenteux
+263	638	Voie cutanée	DICLOFENAC DE DIETHYLAMINE équivalant à DICLOFENAC SODIQUE 1g/100 g - VOLTARENE EMULGEL 1 %, gel en flacon pressurisé.
+263	616	Voie cutanée	DICLOFENAC DE DIETHYLAMINE équivalant à DICLOFENAC SODIQUE 1g/100 g - VOLTARENE EMULGEL 1 %, gel.
+106	206	Voie orale	DICLOFENAC SODIQUE 25 mg - VOLTARENE 25 mg, comprimé enrobé gastro-résistant.
+106	207	Voie orale	DICLOFENAC SODIQUE 50 mg - VOLTARENE 50 mg, comprimé enrobé gastro-résistant
+106	1758	Voie intramusculaire	DICLOFENAC SODIQUE 75 mL/3 mL - VOLTARENE 75 mg/3 ml, solution injectable
+106	1457	Voie orale	DICLOFENAC SODIQUE 75 mg - VOLTARENE LP 75 mg, comprimé enrobé à libération prolongée
+630	1610	Voie orale	DIENOGEST 2 mg - VISANNE 2 mg, comprimé
+729	1871	Voie orale	DIGOXINE 0,125 mg - HEMIGOXINE NATIVELLE 0,125 mg, comprimé
+729	1870	Voie orale	DIGOXINE 0,25 mg - DIGOXINE NATIVELLE 0,25 mg, comprimé
+121	245	Voie orale	DIHYDROERGOTAMINE (MESILATE DE) 2 mg/ml - DIHYDROERGOTAMINE AMDIPHARM 2 mg/ml, solution buvable.
+52	91	Voie orale	DILTIAZEM (CHLORHYDRATE DE ) 90 mg - DIACOR L.P. 90 mg, gélule à libération prolongée.
+52	536	Voie orale	DILTIAZEM (CHLORHYDRATE DE) 120 mg - BI TILDIEM LP 120 mg, comprimé enrobé à libération prolongée.
+52	92	Voie orale	DILTIAZEM (CHLORHYDRATE DE) 120 mg - DIACOR L.P. 120 mg, gélule à libération prolongée.
+52	1111	Voie orale	DILTIAZEM (CHLORHYDRATE DE) 200 mg - MONO TILDIEM LP 200 mg, gélule à libération prolongée
+52	93	Voie orale	DILTIAZEM (CHLORHYDRATE DE) 300 mg - DILRENE L.P. 300 mg, gélule à libération prolongée.
+52	1112	Voie orale	DILTIAZEM (CHLORHYDRATE DE) 300 mg - MONO TILDIEM LP 300 mg, gélule à libération prolongée
+52	90	Voie orale	DILTIAZEM (CHLORHYDRATE DE) 60 mg - TILDIEM 60 mg, comprimé
+52	535	Voie orale	DILTIAZEM (CHLORHYDRATE DE) 90 mg - BI TILDIEM L.P. 90 mg, comprimé enrobé à libération prolongée.
+335	813	Voie orale	DIOSMECTITE 3 g - SMECTA 3 g ORANGE-VANILLE, poudre pour suspension buvable en sachet.
+335	1198	Voie orale	DIOSMECTITE 3 g - SMECTA 3 g, suspension buvable en sachet
+40	69	Voie orale	DIOSMINE 300 mg - DIOVENOR 300 mg, comprimé pelliculé
+40	70	Voie orale	DIOSMINE 600 mg - DIOVENOR 600 mg, comprimé pelliculé
+40	71	Voie orale	DIOSMINE 600 mg - DIOVENOR 600 mg, poudre pour suspension buvable en sachet-dose
+681	1759	Voie orale	DIVALPROATE DE SODIUM équivalant à ACIDE VALPROIQUE 250 mg - DEPAKOTE 250 mg, comprimé gastro-résistant
+681	1760	Voie orale	DIVALPROATE DE SODIUM équivalant à ACIDE VALPROIQUE 500 mg - DEPAKOTE 500 mg, comprimé gastro-résistant
+234	537	Voie intraveineuse (pour perfusion)	DOBUTAMINE (CHLORHYDRATE DE) 250 mg/20 ml - DOBUTREX 250 mg/20 ml, solution injectable pour perfusion.
+376	921	Voie intraveineuse	DOCETAXEL TRIHYDRATE équivalant à 20 mg/0,5 ml DOCETAXEL - TAXOTERE 20 mg/0,5 ml, solution à diluer et solvant pour perfusion.
+376	922	Voie intraveineuse	DOCETAXEL TRIHYDRATE équivalant à 80 mg/2 ml DOCETAXEL  - TAXOTERE 80 mg/2 ml, solution à diluer et solvant pour perfusion.
+376	1078	Voie intraveineuse	DOCETAXEL TRIHYDRATE équivalant à DOCETAXEL 20 mg/1 ml - DOCETAXEL 20 mg/1 ml - TAXOTERE 20 mg/1 ml, solution à diluer  pour perfusion
+376	1335	Voie intraveineuse	DOCÉTAXEL 160 mg/8 ml - TAXOTERE 160 mg/8 ml, solution à diluer pour perfusion
+376	1334	Voie intraveineuse	DOCÉTAXEL 80 mg/4 ml - TAXOTERE 80 mg/4 ml, solution à diluer pour perfusion
+11	23	Voie orale	DOMPERIDONE 10 mg - MOTILIUM 10 mg, comprimé pelliculé - PERIDYS 10 mg, comprimé pelliculé.
+11	617	Voie orale	DOMPERIDONE 10 mg - MOTILYO 10 mg, lyophilisat oral.
+277	656	Voie orale	DONEPEZIL (CHLORHYDRATE DE) 10 mg - ARICEPT 10 mg, comprimé pelliculé - ARICEPT 10 mg, comprimé orodispersible
+277	657	Voie orale	DONEPEZIL (CHLORHYDRATE DE) 5 mg - ARICEPT 5 mg, comprimé pelliculé - ARICEPT 5 mg, comprimé orodispersible
+347	1793	Voie ophtalmique	DORZOLAMIDE (CHLORHYDRATE DE) équivalant à DORZOLAMIDE 20 mg/mL +  TIMOLOL (MALÉATE DE) équivalant à TIMOLOL 5 mg/mL - COSOPT 20 mg/ml + 5 mg/ml, collyre en solution en récipient unidose
+314	1761	Voie ophtalmique	DORZOLAMIDE (CHLORHYDRATE DE) équivalant à DORZOLAMIDE 20 mg/mL - TRUSOPT 20 mg/ml, collyre en solution en récipient unidose
+347	845	Voie ophtalmique	DORZOLAMIDE (CHLORHYDRATE DE) équivalant à DORZOLAMIDE 20 mg/ml + TIMOLOL (MALEATE DE) équivalant à TIMOLOL 5 mg/ml - COSOPT 20 mg/ml + 5 mg/ml, collyre en solution.
+314	750	Voie ophtalmique	DORZOLAMIDE (CHLORHYDRATE DE) équivalant à DORZOLAMIDE 20 mg/ml - TRUSOPT 20 mg/ml, collyre en solution.
+336	814	Voie orale	DOXAZOSINE (MESILATE DE) équivalant à DOXAZOSINE 4 mg - ZOXAN LP 4 mg, comprimé à libération prolongée.
+336	1056	Voie orale	DOXAZOSINE (MESILATE DE) équivalant à DOXAZOSINE 8 mg - ZOXAN LP 8 mg, comprimé à libération prolongée.
+233	534	Voie intraveineuse (pour perfusion)	DOXORUBICINE (CHLORHYDRATE DE)  10 mg/5 ml - ADRIBLASTINE 10 mg/5 ml, solution injectable pour perfusion en flacon ( FLACON de 5 ml).
+233	1633	Voie intraveineuse (pour perfusion)	DOXORUBICINE (CHLORHYDRATE DE)  200 mg/100 ml - ADRIBLASTINE 200 mg/100 ml, solution injectable pour perfusion en flacon ( FLACON de 100 ml).
+233	665	Voie intraveineuse (pour perfusion)	DOXORUBICINE (CHLORHYDRATE DE) 2 mg/ml - ADRIBLASTINE 10 mg, poudre pour solution injectable en flacon (FLACON de 10 mg)
+233	673	Voie intraveineuse (pour perfusion)	DOXORUBICINE (CHLORHYDRATE DE) 2 mg/ml - ADRIBLASTINE 50 mg, poudre pour solution injectable en flacon (FLACON de 50 mg)
+233	540	Voie intraveineuse (pour perfusion)	DOXORUBICINE (CHLORHYDRATE DE) 50 mg/25 ml - ADRIBLASTINE 50 mg/25 ml, solution injectable pour perfusion en flacon (FLACON de 25 ml).
+80	141	Voie orale	DOXYCYCLINE (HYCLATE DE) équivalant à DOXYCYCLINE 100 mg - VIBRAMYCINE 100 mg, gélule..
+79	140	Voie orale	DOXYCYCLINE 100 mg - VIBRAMYCINE N 100 mg, comprimé sécable.
+442	1091	Voie orale	DOXYLAMINE (HYDROGÉNOSUCCINATE DE) 15 mg - DONORMYL 15 mg, comprimé pelliculé sécable
+440	1231	Voie intraveineuse	DROPÉRIDOL 0,5 mg/mL - DROLEPTAN 1,25 mg/2,5 ml, solution injectable
+440	1773	Voie intraveineuse	DROPÉRIDOL 2, mg/ml - XOMOLIX 2,5 mg/ml, solution injectable
+440	1087	Voie intraveineuse	DROPÉRIDOL 2,5 mg/1 ml - DROLEPTAN 2,5 mg/1 ml, solution injectable (IV)
+440	1088	Voie intraveineuse	DROPÉRIDOL 5 mg/2 ml - DROLEPTAN 5 mg/2 ml, solution injectable (I.M.)
+503	1266	Voie orale	DULOXÉTINE (CHLORHYDRATE DE) équivalant à DULOXÉTINE 30 mg - CYMBALTA 30 mg, gélule gastro-résistante
+503	1267	Voie orale	DULOXÉTINE (CHLORHYDRATE DE) équivalant à DULOXÉTINE 60 mg - CYMBALTA 60 mg, gélule gastro-résistante
+650	1666	Voie orale	DUTASTERIDE 0,5 mg + TAMSULOSINE (CHLORHYDRATE DE) 0,4 mg - COMBODART 0,5 mg/0,4 mg, gélule
+520	1308	Voie orale	DUTASTERIDE 0,5 mg - AVODART 0,5 mg, capsule molle
+760	1947	Voie orale	DYDROGESTERONE 10 mg - DUPHASTON 10 mg, comprimé pelliculé
+432	1068	Voie orale	EBASTINE 10 mg - KESTINLYO 10 mg, lyophilisat oral
+61	109	Voie cutanée	ECONAZOLE (NITRATE D') 1 % - PEVARYL 1 POUR CENT, crème.
+61	111	Voie cutanée	ECONAZOLE (NITRATE D') 1 % - PEVARYL 1 POUR CENT, poudre pour application locale en flacon poudreur.
+61	112	Voie cutanée	ECONAZOLE (NITRATE D') 1 % - PEVARYL 1 POUR CENT, solution pour application locale en flacon pulvérisateur.
+61	110	Voie cutanée	ECONAZOLE (NITRATE D') 1 % - PEVARYL 1 POUR CENT, émulsion fluide pour application locale.
+61	331	Voie vaginale	ECONAZOLE (NITRATE D') 150 mg – GYNO PEVARYL LP 150 mg, ovule à libération prolongée.
+558	1414	Voie orale	EFAVIRENZ 600 mg + EMTRICITABINE 200 mg + TENOFOVIR DISOPROXIL (FUMARATE DE) équivalant à TENOFOVIR DISOPROXIL 245 mg  - EFAVIRENZ 600 mg + EMTRICITABINE 200 mg + TENOFOVIR DISOPROXIL (PHOSPHATE DE) équivalant à TENOFOVIR DISOPROXIL 245 mg - EFAVIRENZ 600 mg + EMTRICITABINE 2
+740	1944	Voie orale	ELTROMBOPAG OLAMINE équivalent à ELTROMBOPAG 12,5 mg - REVOLADE 12,5 mg, comprimé pelliculé
+740	1894	Voie orale	ELTROMBOPAG OLAMINE équivalent à ELTROMBOPAG 25 mg - REVOLADE 25 mg, comprimé pelliculé
+740	1895	Voie orale	ELTROMBOPAG OLAMINE équivalent à ELTROMBOPAG 50 mg - REVOLADE 50 mg, comprimé pelliculé
+740	1896	Voie orale	ELTROMBOPAG OLAMINE équivalent à ELTROMBOPAG 75 mg - REVOLADE 75 mg, comprimé pelliculé
+777	1998	Voie orale	EMTRICITABINE 200 mg + RILPIVIRINE (CHLORHYDRATE DE) équivalent à RILPIVIRINE 25 mg + TENOFOVIR ALAFENAMIDE (FUMARATE DE) équivalent à TENOFOVIR ALAFENAMIDE 25 mg - ODEFSEY 200 mg/25 mg/25 mg, comprimé pelliculé
+772	1983	Voie orale	EMTRICITABINE 200 mg + TENOFOVIR ALAFENAMIDE (FUMARATE DE) équivalent à TENOFOVIR ALAFENAMIDE 10 mg - DESCOVY 200 mg/10 mg, comprime pelliculé
+772	1984	Voie orale	EMTRICITABINE 200 mg + TENOFOVIR ALAFENAMIDE (FUMARATE DE) équivalent à TENOFOVIR ALAFENAMIDE 25 mg - DESCOVY 200 mg/25 mg, comprime pelliculé
+541	1371	Voie orale	EMTRICITABINE 200 mg + TENOFOVIR DISOPROXIL (FUMARATE DE) équivalant à TENOFOVIR DISOPROXIL 245 mg - EMTRICITABINE 200 mg + TENOFOVIR DISOPROXIL (SUCCINATE DE) équivalant à TENOFOVIR DISOPROXIL 245 mg - EMTRICITABINE 200 mg + TENOFOVIR DISOPROXIL (PHOSPHATE DE) équivalant à TENOFOVIR DISOPROXIL 245 mg - EMTRICITABINE 200 mg + TENOFOVIR DISOPROXIL 245 mg - TRUVADA 200 mg/245 mg, comprimé pelliculé
+530	1423	Voie orale	ENALAPRIL (MALEATE D')  20 mg + LERCANIDIPINE (CHLORHYDRATE DE) 10 mg - LERCAPRESS 20 mg/10 mg, comprimé pelliculé
+530	1340	Voie orale	ENALAPRIL (MALEATE D') 10 mg + LERCANIDIPINE (CHLORHYDRATE DE) 10 mg - ZANEXTRA 10 mg/10 mg, comprimé pelliculé
+160	323	Voie orale	ENALAPRIL (MALEATE D') 20 mg + HYDROCHLOROTHIAZIDE 12,5 mg - CO RENITEC 20 mg/12,5 mg, comprimé.
+530	1341	Voie orale	ENALAPRIL (MALEATE D') 20 mg + LERCANIDIPINE (CHLORHYDRATE DE) 10 mg - ZANEXTRA 20 mg/10 mg, comprimé pelliculé
+530	1627	Voie orale	ENALAPRIL (MALEATE D') 20 mg + LERCANIDIPINE (CHLORHYDRATE DE) 20 mg - LERCAPRESS 20 mg/20 mg, comprimé pelliculé
+530	1342	Voie orale	ENALAPRIL (MALEATE D') 20 mg + LERCANIDIPINE (CHLORHYDRATE DE) 20 mg - ZANEXTRA 20 mg/20 mg, comprimé pelliculé
+54	97	Voie orale	ENALAPRIL (MALEATE D') 20 mg - RENITEC 20 mg, comprimé.
+54	96	Voie orale	ENALAPRIL (MALEATE D') 5 mg - RENITEC 5 mg, comprimé.
+54	1138	Voie orale	ENALAPRIL (MALEATE D’) 2,5 mg - RENITEC 2,5 mg, comprimé sécable
+391	955	Voie orale	ENTACAPONE 200 mg - COMTAN 200 mg, comprimé pelliculé - COMTESS 200 mg, comprimé pelliculé.
+559	1415	Voie orale	ENTECAVIR 0,5 mg - BARACLUDE 0,5 mg, comprimé pelliculé
+559	1416	Voie orale	ENTECAVIR 1 mg - BARACLUDE 1 mg, comprimé pelliculé
+731	1912	Voie orale	ENZALUTAMIDE 40 mg - XTANDI 40 mg, capsule molle
+731	1874	Voie orale	ENZALUTAMIDE 40 mg - XTANDI 40 mg, comprimé pelliculé
+731	1875	Voie orale	ENZALUTAMIDE 80 mg - XTANDI 80 mg, comprimé pelliculé
+197	519	Voie intraveineuse (pour perfusion)	EPIRUBICINE (CHLORHYDRATE D') 10 mg /5ml - FARMORUBICINE 10 mg/5 ml, solution pour perfusion (FLACON de 5 ml).
+197	880	Voie intraveineuse (pour perfusion)	EPIRUBICINE (CHLORHYDRATE D') 150 mg/75 ml - FARMORUBICINE 150 mg/75 ml, solution pour perfusion (FLACON de 75 ml).
+197	599	Voie intraveineuse (pour perfusion)	EPIRUBICINE (CHLORHYDRATE D') 20 mg/10 ml - FARMORUBICINE 20 mg/10 ml, solution pour perfusion (FLACON de 10 ml).
+197	432	Voie intraveineuse (pour perfusion)	EPIRUBICINE (CHLORHYDRATE D') 200 mg/100 ml - FARMORUBICINE 200 mg/100 ml, solution pour perfusion (FLACON de 100 ml).
+197	520	Voie intraveineuse (pour perfusion)	EPIRUBICINE (CHLORHYDRATE D') 50 mg/25 ml - FARMORUBICINE 50 mg/25 ml, solution pour perfusion (FLACON de 25 ml).
+390	949	Voie intraveineuse	EPOPROSTENOL SODIQUE équivalant à EPOPROSTENOL 0,5 mg - FLOLAN 0,5 mg, poudre et solvant pour solution pour perfusion.
+390	950	Voie intraveineuse	EPOPROSTENOL SODIQUE équivalant à EPOPROSTENOL 1,5 mg - FLOLAN 1,5 mg, poudre et solvant pour solution pour perfusion.
+584	1466	Voie intraveineuse	EPTIFIBATIDE 0,75 mg/mL - INTEGRILIN 0,75 mg/ml, solution pour perfusion
+584	1467	Voie intraveineuse	EPTIFIBATIDE 2 mg/mL - INTEGRILIN 2 mg/ml, solution injectable
+734	1883	Voie intraveineuse	ERIBULINE (MESILATE D') équivalan à ERIBULINE 0,44 mg/mL - HALAVEN 0,44 mg/ml, solution injectable
+592	1490	Voie orale	ERLOTINIB (CHLORHYDRATE D') équivalant à ERLOTINIB 100 mg - TARCEVA 100 mg, comprimé pelliculé
+592	1491	Voie orale	ERLOTINIB (CHLORHYDRATE D') équivalant à ERLOTINIB 150 mg - TARCEVA 150 mg, comprimé pelliculé
+592	1489	Voie orale	ERLOTINIB (CHLORHYDRATE D') équivalant à ERLOTINIB 25 mg - TARCEVA 25 mg, comprimé pelliculé
+566	1434	Voie intraveineuse	ERTAPENEM SODIQUE équivalant à ERTAPENEM 1 g - INVANZ 1 g, poudre pour solution à diluer pour perfusion
+93	181	Voie orale	ERYTHROMYCINE (ETHYLSUCCINATE) équivalant à ERYTHROMYCINE 250 mg - ERYTHROCINE 250 mg, poudre orale en sachet.
+539	1367	Voie intraveineuse	ERYTHROMYCINE (LACTOBIONATE D') équivalant à ERYTHROMYCINE 1 g - ERYTHROCINE 1 g I.V., lyophilisat pour préparation injectable
+539	1366	Voie intraveineuse	ERYTHROMYCINE (LACTOBIONATE D') équivalant à ERYTHROMYCINE 500 mg - ERYTHROCINE 0,5 g, lyophilisat pour usage parentéral (IV)
+94	184	Voie orale	ERYTHROMYCINE PROPIONATE équivalant à ERYTHROMYCINE 500 mg - PROPIOCINE 500 mg, comprimé.
+447	1103	Voie orale	ESCITALOPRAM (OXALATE D') équivalant à ESCITALOPRAM 10 mg - SEROPLEX 10 mg, comprimé pelliculé sécable
+447	1104	Voie orale	ESCITALOPRAM (OXALATE D') équivalant à ESCITALOPRAM 15 mg - SEROPLEX 15 mg, comprimé pelliculé sécable
+447	1105	Voie orale	ESCITALOPRAM (OXALATE D') équivalant à ESCITALOPRAM 20 mg - SEROPLEX 20 mg, comprimé pelliculé sécable
+447	1182	Voie orale	ESCITALOPRAM (OXALATE D') équivalant à ESCITALOPRAM 20 mg/ml - SEROPLEX 20 mg/ml, solution buvable en gouttes
+447	1106	Voie orale	ESCITALOPRAM (OXALATE D') équivalant à ESCITALOPRAM 5 mg - SEROPLEX 5 mg, comprimé pelliculé
+667	1718	Voie intramusculaire / Voie intraveineuse	ESKETAMINE (CHLORHYDRATE DE) équivalant à ESKETAMINE 25 mg/mL - ESKETAMINE PFIZER 25 mg/mL, solution injectable
+667	1717	Voie intramusculaire / Voie intraveineuse	ESKETAMINE (CHLORHYDRATE DE) équivalant à ESKETAMINE 5 mg/mL - ESKETAMINE PFIZER 5 mg/mL, solution injectable
+657	1825	Voie orale	ESLICARBAZEPINE (ACETATE D') 200 mg - ZEBINIX 200 mg, comprimé
+657	1696	Voie orale	ESLICARBAZEPINE (ACETATE D') 800 mg - ZEBINIX 800 mg, comprimé
+258	597	Voie intraveineuse	ESMOLOL (CHLORHYDRATE D') 100 mg/10 ml - BREVIBLOC 100 mg/10 ml, solution injectable en flacon (Flacon de 10 mL).
+258	1799	Voie intraveineuse	ESMOLOL (CHLORHYDRATE D') 10mg/mL - BREVIBLOC 10 mg/ml, solution pour perfusion
+396	968	Voie orale	ESOMEPRAZOLE MAGNESIUM TRIHYDRATE équivalent à ESOMEPRAZOLE 20 mg  - ESOMEPRAZOLE SODIQUE  équivalent à ESOMEPRAZOLE 20 mg- INEXIUM 20 mg, comprimé gastro-résistant.
+396	969	Voie orale	ESOMEPRAZOLE MAGNESIUM TRIHYDRATE équivalent à ESOMEPRAZOLE 40 mg - ESOMEPRAZOLE SODIQUE équivalent à ESOMEPRAZOLE 40 mg - INEXIUM 40 mg, comprimé gastro-résistant.
+396	1873	Voie orale	ESOMEPRAZOLE MAGNÉSIUM DIHYDRATÉ équivalent à ESOMEPRAZOLE 10 mg - INEXIUM 10 mg, granulés gastro-résistants pour suspension buvable en sachet
+668	1720	Voie orale	ESTRADIOL HEMIHYDRATE 1 mg + DROSPIRENONE 2 mg - ANGELIQ 1mg/2 mg, comprimé pelliculé
+163	1741	Voie vaginale	ESTRADIOL HEMIHYDRATE équivalant à ESTRADIOL 10 microgrammes - VAGIFEM 10 microgrammes, comprimé vaginal
+163	337	Voie orale	ESTRADIOL HEMIHYDRATE équivalant à ESTRADIOL ANHYDRE 1 mg - ESTROFEM 1 mg, comprimé pelliculé.
+163	338	Voie orale	ESTRADIOL HEMIHYDRATE équivalant à ESTRADIOL ANHYDRE 2 mg - ESTROFEM 2 mg, comprimé pelliculé.
+403	998	Voie orale	ETHINYLESTRADIOL 0,03 mg + DROSPIRENONE 3 mg - JASMINE 0,03 mg/3 mg, comprimé pelliculé
+629	1844	Voie orale	ETHINYLESTRADIOL 0,035 mg + NORGESTIMATE 0,180 mg - TRIAFEMI, comprimé
+629	1609	Voie orale	ETHINYLESTRADIOL 0,035 mg + NORGESTIMATE 0,25 mg - CILEST, comprimé
+402	997	Voie orale	ETHINYLESTRADIOL BETADEX-CLATHRATE équivalant à ETHINYLESTRADIOL 0,02 mg + DROSPIRENONE 3 mg - JASMINELLE 0,02 mg/3 mg, comprimé pelliculé.
+402	996	Voie orale	ETHINYLESTRADIOL BETADEX-CLATHRATE équivalant à ETHINYLESTRADIOL 0,02 mg + DROSPIRENONE 3 mg - JASMINELLECONTINU 0,02 mg/3 mg, comprimé pelliculé
+639	1634	Voie orale	ETIFOXINE (CHLORHYDRATE D') 50 mg - STRESAM, gélule
+177	1482	Voie intraveineuse	ETOPOSIDE 20 mg/mL- VEPESIDE 100 mg/5 ml, solution pour perfusion
+585	1564	Voie orale	EVEROLIMUS 0,25 mg - CERTICAN 0,25 mg, comprimé
+585	1565	Voie orale	EVEROLIMUS 0,5 mg - CERTICAN 0,5 mg, comprimé
+585	1566	Voie orale	EVEROLIMUS 0,75 mg - CERTICAN 0,75 mg, comprimé
+585	1468	Voie orale	EVEROLIMUS 10 mg - AFINITOR 10 mg, comprimé
+585	1469	Voie orale	EVEROLIMUS 2,5 mg - AFINITOR 2,5 mg, comprimé
+585	1470	Voie orale	EVEROLIMUS 5 mg- AFINITOR 5 mg, comprimé
+377	923	Voie orale	EXEMESTANE 25 mg - AROMASINE 25 mg, comprimé enrobé.
+737	1887	Voie orale	EZETIMIBE 10 mg + ATORVASTATINE CALCIQUE TRIHYDRATEE équivalent à ATORVASTATINE 10 mg - LIPTRUZET 10 mg/10 mg, comprimé pelliculé
+737	1888	Voie orale	EZETIMIBE 10 mg + ATORVASTATINE CALCIQUE TRIHYDRATEE équivalent à ATORVASTATINE 20 mg - LIPTRUZET 10 mg/20 mg, comprimé pelliculé
+737	1889	Voie orale	EZETIMIBE 10 mg + ATORVASTATINE CALCIQUE TRIHYDRATEE équivalent à ATORVASTATINE 40 mg - LIPTRUZET 10 mg/40 mg, comprimé pelliculé
+737	1890	Voie orale	EZETIMIBE 10 mg + ATORVASTATINE CALCIQUE TRIHYDRATEE équivalent à ATORVASTATINE 80 mg - LIPTRUZET 10 mg/80 mg, comprimé pelliculé
+560	1570	Voie orale	EZETIMIBE 10 mg + SIMVASTATINE 10 mg - INEGY 10 mg/10 mg, comprimé
+560	1417	Voie orale	EZETIMIBE 10 mg + SIMVASTATINE 20 mg - INEGY 10 mg/20 mg, comprimé
+560	1418	Voie orale	EZETIMIBE 10 mg + SIMVASTATINE 40 mg - INEGY 10 mg/40 mg, comprimé
+528	1332	Voie orale	EZETIMIBE 10 mg - EZETROL 10 mg, comprimé
+3	12	Voie orale	FAMOTIDINE 20 mg - PEPDINE 20 mg, comprimé pelliculé
+3	13	Voie orale	FAMOTIDINE 40 mg - PEPDINE 40 mg, comprimé pelliculé
+690	1782	Voie orale	FAMPRIDINE 10 mg - FAMPYRA 10 mg, comprimé à libération prolongée
+561	1420	Voie orale	FEBUXOSTAT 120 mg - ADENURIC 120 mg, comprimé pelliculé
+561	1419	Voie orale	FEBUXOSTAT 80 mg - ADENURIC 80 mg, comprimé pelliculé
+240	559	Voie orale	FELODIPINE 5 mg - FLODIL L.P. 5 mg, comprimé enrobé à libération prolongée.
+59	104	Voie orale	FENOFIBRATE 100 mg - FENOX 100 mg, gélule
+59	779	Voie orale	FENOFIBRATE 145 mg - LIPANTHYL 145 mg, comprimé pelliculé.
+59	389	Voie orale	FENOFIBRATE 160 mg - LIPANTHYL 160 mg, comprimé pelliculé.
+59	107	Voie orale	FENOFIBRATE 200 mg - LIPANTHYL 200 micronisé, gélule
+59	105	Voie orale	FENOFIBRATE 300 mg - FENOX 300 mg, gélule
+59	106	Voie orale	FENOFIBRATE 67 mg - LIPANTHYL 67 micronisé, gélule
+410	1671	Voie gingivale	FENTANYL (CITRATE DE) équivalant à FENTANYL 100 microgrammes - EFFENTORA 100 microgrammes, comprimés buccogingivaux
+410	1727	Voie sublinguale	FENTANYL (CITRATE DE) équivalant à FENTANYL 100 microgrammes- ABSTRAL 100 microgrammes, comprimé sublingual
+410	1015	Voie intraveineuse / Voie péridurale	FENTANYL (CITRATE DE) équivalant à FENTANYL 100 microgrammes/2 ml - FENTANYL PIRAMAL 100 microgrammes/2 ml, solution injectable en ampoule (AMPOULE DE 2 ml).
+410	1728	Voie sublinguale	FENTANYL (CITRATE DE) équivalant à FENTANYL 200 microgrammes - ABSTRAL 200 microgrammes, comprimé sublingual
+410	1672	Voie gingivale	FENTANYL (CITRATE DE) équivalant à FENTANYL 200 microgrammes - EFFENTORA 200 microgrammes, comprimés buccogingivaux
+410	1729	Voie sublinguale	FENTANYL (CITRATE DE) équivalant à FENTANYL 300 microgrammes- ABSTRAL 300 microgrammes, comprimé sublingual
+410	1730	Voie sublinguale	FENTANYL (CITRATE DE) équivalant à FENTANYL 400 microgrammes - ABSTRAL 400 microgrammes, comprimé sublingual
+410	1673	Voie gingivale	FENTANYL (CITRATE DE) équivalant à FENTANYL 400 microgrammes - EFFENTORA 400 microgrammes, comprimés buccogingivaux
+410	1016	Voie intraveineuse / Voie péridurale	FENTANYL (CITRATE DE) équivalant à FENTANYL 500 microgrammes/10 ml - FENTANYL PIRAMAL 500 microgrammes/10 ml, solution injectable en ampoule (AMPOULE DE 10 ml).
+410	1731	Voie sublinguale	FENTANYL (CITRATE DE) équivalant à FENTANYL 600 microgrammes - ABSTRAL 600 microgrammes, comprimé sublingual
+410	1674	Voie gingivale	FENTANYL (CITRATE DE) équivalant à FENTANYL 600 microgrammes - EFFENTORA 600 microgrammes, comprimés buccogingivaux
+410	1732	Voie sublinguale	FENTANYL (CITRATE DE) équivalant à FENTANYL 800 microgrammes - ABSTRAL 800 microgrammes, comprimé sublingual
+410	1675	Voie gingivale	FENTANYL (CITRATE DE) équivalant à FENTANYL 800 microgrammes - EFFENTORA 800 microgrammes, comprimés buccogingivaux
+298	719	Voie transdermique	FENTANYL 100 microgrammes/heure - DUROGESIC 100 microgrammes/heure, dispositif transdermique.
+298	715	Voie transdermique	FENTANYL 12 microgrammes/heure - DUROGESIC 12 microgrammes/heure, dispositif transdermique.
+298	716	Voie transdermique	FENTANYL 25 microgrammes/heure - DUROGESIC 25 microgrammes/heure, dispositif transdermique.
+298	717	Voie transdermique	FENTANYL 50 microgrammes/heure - DUROGESIC 50 microgrammes/heure, dispositif transdermique.
+298	718	Voie transdermique	FENTANYL 75 microgrammes/heure - DUROGESIC 75 microgrammes/heure, dispositif transdermique.
+572	1449	Voie cutanée	FENTICONAZOLE (NITRATE DE) 2% - LOMEXIN 2 POUR CENT, crème
+572	1676	Voie vaginale	FENTICONAZOLE (NITRATE DE) 600 mg - LOMEXIN 600 mg, capsule molle vaginale
+687	1776	Voie orale	FESOTERODINE (FUMARATE DE) 4 mg - TOVIAZ 4 mg, comprimé à libération prolongée
+687	1777	Voie orale	FESOTERODINE (FUMARATE DE) 8 mg - TOVIAZ 8 mg, comprimé à libération prolongée
+237	552	Voie orale	FEXOFENADINE (CHLORHYDRATE DE) 120 mg - ALLERVI  120 mg, comprimé pelliculé.
+237	551	Voie orale	FEXOFENADINE (CHLORHYDRATE DE) 180 mg - TELFAST 180 mg, comprimé pelliculé.
+216	780	Voie orale	FINASTERIDE 1 mg - PROPECIA 1 mg, comprimé pelliculé.
+216	490	Voie orale	FINASTERIDE 5 mg - CHIBRO-PROSCAR 5 mg, comprimé pelliculé.
+672	1733	Voie orale	FINGOLIMOD (CHLORHYDRATE) équivalant à FINGOLIMOD 0,5 mg - GILENYA 0,5 mg, gélule
+672	1745	Voie orale	FINGOLIMOD (CHLORHYDRATE) équivalent à FINGOLIMOD 0,25 mg - GILENYA 0,25 mg, gélule
+24	42	Voie orale	FLECAINIDE (ACETATE DE) 100 mg - FLECAINE 100 mg, comprimé sécable
+24	1148	Voie orale	FLECAINIDE (ACETATE DE) 100 mg - FLECAÏNE L.P. 100 mg, gélule à libération prolongée
+24	1149	Voie orale	FLECAINIDE (ACETATE DE) 150 mg - FLECAÏNE L.P. 150 mg, gélule à libération prolongée
+24	1150	Voie orale	FLECAINIDE (ACETATE DE) 200 mg - FLECAÏNE L.P. 200 mg, gélule à libération prolongée
+24	1571	Voie orale	FLECAINIDE (ACETATE DE) 50 mg - FLECAINE 50 mg, comprimé sécable
+24	1147	Voie orale	FLECAINIDE (ACETATE DE) 50 mg - FLECAÏNE L.P. 50 mg, gélule à libération prolongée
+101	550	Voie orale	FLUCONAZOLE 10 mg/ml - TRIFLUCAN 10 mg/ml, poudre pour suspension buvable.
+101	196	Voie orale	FLUCONAZOLE 100 mg - TRIFLUCAN 100 mg, gélule
+101	194	Voie orale	FLUCONAZOLE 150 mg - FLUCONAZOLE PFIZER 150 mg, gélule.
+101	371	Voie intraveineuse (pour perfusion)	FLUCONAZOLE 2 mg/ml - TRIFLUCAN 2 mg/ml, solution pour perfusion.
+101	197	Voie orale	FLUCONAZOLE 200 mg - TRIFLUCAN 200 mg, gélule
+101	195	Voie orale	FLUCONAZOLE 50 mg - TRIFLUCAN 50 mg, gélule
+250	575	Voie intraveineuse (pour perfusion)	FLUDARABINE (PHOSPHATE DE) 50 mg - FLUDARA 50 mg, poudre pour solution injectable ou perfusion.
+742	1904	Voie orale	FLUDROCORTISONE (ACETATE DE) équivalant à FLUDROCORTISONE 50 microgrammes - FLUCORTAC 50 microgrammes, comprimé sécable
+198	481	Voie intraveineuse	FLUMAZENIL 0,5 mg/5 ml - ANEXATE 0,5 mg/5 ml, solution injectable (I.V.) (AMPOULE de 5 ml).
+198	433	Voie intraveineuse	FLUMAZENIL 1 mg/10 ml - ANEXATE 1 mg/10 ml, solution injectable IV (AMPOULE de 10 ml).
+355	867	Voie ophtalmique	FLUOROMETHOLONE 0,1 g/100 ml - FLUCON, collyre.
+188	829	Voie intraveineuse	FLUOROURACILE 50 mg/ml  - FLUOROURACILE MEDA PHARMA 500 mg/10 ml,  solution pour perfusion (FLACON de 10 ml)
+188	410	Voie intraveineuse	FLUOROURACILE 50 mg/ml - FLUORO-URACILE MEDA PHARMA 250 mg/5 ml, solution injectable en flacon (FLACON de 5 ml).
+188	830	Voie intraveineuse	FLUOROURACILE 50 mg/ml - FLUOROURACILE MEDA PHARMA 50 mg/ml, solution injectable en flacon
+138	281	Voie orale	FLUOXETINE (CHLORHYDRATE DE) équivalant à FLUOXETINE 20 mg - PROZAC 20 mg, comprimé dispersible sécable.
+138	280	Voie orale	FLUOXETINE (CHLORHYDRATE DE) équivalant à FLUOXETINE 20 mg - PROZAC 20 mg, gélule.
+138	282	Voie orale	FLUOXETINE (CHLORHYDRATE DE) équivalant à FLUOXETINE 20 mg/5 ml - PROZAC 20 mg/5 ml, solution buvable en flacon.
+424	1992	Voie orale	FLURBIPROFÈNE 100 mg - ANTADYS 100 mg, comprimé pelliculé
+424	1742	Voie buccale	FLURBIPROFÈNE 8,75 mg - STREFEN 8,75 mg ORANGE SANS SUCRE, pastille édulcorée à l'acésulfame potassique
+424	1512	Voie orale	FLURBIPROFÈNE 8,75 mg - STREFEN 8,75 mg, pastille
+103	202	Voie orale	FLUTAMIDE 250 mg - EULEXINE 250 mg, comprimé
+615	1555	Voie inhalée	FLUTICASONE (PROPIONATE DE) 125 microgrammes/dose + SALMETEROL (XINAFOATE DE) équivalent à SALMETEROL 25 microgrammes/dose - SERETIDE 125 microgrammes/25 microgrammes/dose, suspension pour inhalation en flacon pressurisé avec valve doseuse
+615	1556	Voie inhalée	FLUTICASONE (PROPIONATE DE) 250 microgrammes/dose + SALMETEROL (XINAFOATE DE) équivalent à SALMETEROL 25 microgrammes/dose - SERETIDE 250 microgrammes/25 microgrammes/dose, suspension pour inhalation en flacon pressurisé avec valve doseuse
+272	642	Voie orale	FLUVASTATINE SODIQUE équivalant à FLUVASTATINE 20 mg - LESCOL 20 mg, gélule - FRACTAL 20 mg, gélule.
+272	641	Voie orale	FLUVASTATINE SODIQUE équivalant à FLUVASTATINE 40 mg - LESCOL 40 mg, gélule - FRACTAL 40 mg, gélule.
+272	713	Voie orale	FLUVASTATINE SODIQUE équivalant à FLUVASTATINE 80 mg - LESCOL L.P. 80 mg, comprimé pelliculé à libération prolongée - FRACTAL L.P. 80 mg, comprimé pelliculé à libération prolongée.
+141	286	Voie orale	FLUVOXAMINE (MALEATE DE) 100 mg - FLOXYFRAL 100 mg, comprimé pelliculé sécable.
+141	285	Voie orale	FLUVOXAMINE (MALEATE DE) 50 mg - FLOXYFRAL 50 mg, comprimé pelliculé sécable.
+361	1513	Voie intraveineuse	FOLINATE DE CALCIUM 100 mg - NOVAFOLINE 100 mg/10 ml, solution injectable (IV) en flacon (FLACON de 10 ml)
+361	1514	Voie intraveineuse	FOLINATE DE CALCIUM 200 mg - NOVAFOLINE 200 mg/20 ml, solution injectable (IV) en flacon (FLACON de 20 ml).
+361	1515	Voie intraveineuse	FOLINATE DE CALCIUM 350 mg - NOVAFOLINE 350 mg/35 ml, solution injectable (IV) en flacon (FLACON de 35 ml)
+551	1841	Voie sous cutanée	FONDAPARINUX SODIQUE 1,5 mg/0,3 mL - ARIXTRA 1,5 mg/0,3 ml, solution injectable en seringue pré-remplie
+551	1396	Voie sous cutanée	FONDAPARINUX SODIQUE 10 mg/0,8 mL- ARIXTRA 10 mg/0,8 ml, solution injectable en seringue pré-remplie
+551	1393	Voie intraveineuse / Voie sous-cutanée	FONDAPARINUX SODIQUE 2,5 mg/0,5 mL - ARIXTRA 2,5 mg/0,5 ml, solution injectable en seringue pré-remplie
+551	1394	Voie sous cutanée	FONDAPARINUX SODIQUE 5 mg/0,4 mL - ARIXTRA 5 mg/0,4 ml, solution injectable en seringue pré-remplie
+551	1395	Voie sous cutanée	FONDAPARINUX SODIQUE 7,5 mg/0,6 mL - ARIXTRA 7,5 mg/0,6 ml, solution injectable en seringue pré-remplie
+514	1294	Voie inhalée	FORMOTEROL (FUMARATE DE) DIHYDRATE 12 microgrammes - FORADIL 12 microgrammes, poudre pour inhalation en gélule
+575	1719	Voie intraveineuse (pour perfusion)	FOSCARNET SODIQUE HEXAHYDRATE 6 g/250mL (24 mg/mL) - FOSCAVIR 6 g/250 mL, solution pour perfusion
+326	1677	Voie intraveineuse	FOSFOMYCINE SODIQUE équivalant à FOSFOMYCINE 4 g - FOSFOCINE 4 g IV, poudre pour solution pour perfusion
+326	782	Voie orale	FOSFOMYCINE TROMETAMOL équivalant à FOSFOMYCINE 3 g - MONURIL 3 g, granulés pour solution buvable en sachet. - URIDOZ 3 g, granulé pour solution buvable en sachet.
+209	482	Voie orale	FOSINOPRIL 10 mg - FOZITEC 10 mg, comprimé sécable.
+209	466	Voie orale	FOSINOPRIL 20 mg - FOZITEC 20 mg, comprimé.
+252	582	Voie orale	FOSINOPRIL SODIQUE 20 mg + HYDROCHLOROTHIAZIDE 12,5 mg - FOZIRETIC 20 mg/12,5 mg, comprimé sécable.
+719	1852	Voie intramusculaire / Voie intraveineuse	FOSPHENYTOINE SODIQUE 75 mg/ml - PRODILANTIN 75 mg/ml, solution à diluer pour perfusion/solution injectable
+511	1287	Voie orale	FROVATRIPTAN (SUCCINATE DE) MONOHYDRATÉ équivalant à FROVATRIPTAN 2,5 mg - ISIMIG 2,5 mg, comprimé pelliculé - TIGREAT 2,5 mg, comprimé pelliculé
+567	1435	Voie intramusculaire	FULVESTRANT 250 mg - FASLODEX 250 mg, solution injectable
+710	1830	Voie orale	FUMARATE DE DIMETHYLE 120 mg - TECFIDERA 120 mg, gélule gastro-résistante
+710	1831	Voie orale	FUMARATE DE DIMETHYLE 240 mg - TECFIDERA 240 mg, gélule gastro-résistante
+31	55	Voie orale	FUROSEMIDE 20 mg - LASILIX FAIBLE 20 mg, comprimé.
+31	602	Voie intramusculaire / Voie intraveineuse	FUROSEMIDE 20 mg/2 ml - LASILIX 20 mg/2 ml, solution injectable en ampoule.
+31	1014	Voie intraveineuse	FUROSEMIDE 250 mg/25 ml - LASILIX SPECIAL 250 mg/25 ml, solution injectable en ampoule.
+31	56	Voie orale	FUROSEMIDE 40 mg - LASILIX 40 mg, comprimé sécable
+31	1021	Voie orale	FUROSEMIDE 500 mg - LASILIX SPECIAL 500 mg, comprimé sécable.
+164	364	Voie orale	GABAPENTINE 100 mg – NEURONTIN 100 mg, gélule.
+164	365	Voie orale	GABAPENTINE 300 mg – NEURONTIN 300 mg, gélule.
+164	340	Voie orale	GABAPENTINE 400 mg - NEURONTIN 400 mg, gélule.
+164	366	Voie orale	GABAPENTINE 600 mg – NEURONTIN 600 mg, comprimé pelliculé.
+164	367	Voie orale	GABAPENTINE 800 mg – NEURONTIN 800 mg, comprimé pelliculé.
+727	1868	Voie intraveineuse	GADOBUTROL 1,0 mmol/mL - GADOVIST 1,0 mmol/mL, solution injectable
+727	1867	Voie intraveineuse	GADOBUTROL 1,0 mmol/mL - GADOVIST 1,0 mmol/mL, solution injectable en seringue préremplie
+421	1040	Voie orale	GALANTAMINE (BROMHYDRATE DE) équivalant à GALANTAMINE L.P. 16 mg - REMINYL L.P. 16 mg, gélule à libération prolongée.
+421	1041	Voie orale	GALANTAMINE (BROMHYDRATE DE) équivalant à GALANTAMINE L.P. 24 mg - REMINYL L.P. 24 mg, gélule à libération prolongée.
+421	1039	Voie orale	GALANTAMINE (BROMHYDRATE DE) équivalant à GALANTAMINE L.P. 8 mg - REMINYL L.P. 8 mg, gélule à libération prolongée.
+544	1369	Voie intraveineuse	GANCICLOVIR SODIQUE 500 mg - CYMEVAN 500 mg, poudre pour solution à diluer pour perfusion
+531	1337	Voie sous cutanée	GANIRELIX (ACETATE DE) équivalant à GANIRELIX 0,25 mg/0,5 mL - ORGALUTRAN 0,25 mg/0,5 ml, solution injectable
+613	1546	Voie orale	GEFITINIB 250 mg - IRESSA 250 mg, comprimé pelliculé
+271	639	Voie intraveineuse (pour perfusion)	GEMCITABINE (CHLORHYDRATE DE) équivalant à GEMCITABINE 1000 mg - GEMZAR 1000 mg, poudre pour solution pour perfusion (FLACON de 1000 mg).
+271	640	Voie intraveineuse (pour perfusion)	GEMCITABINE (CHLORHYDRATE DE) équivalant à GEMCITABINE 200 mg - GEMZAR 200 mg, poudre pour solution pour perfusion (FLACON de 200 mg).
+207	747	Voie orale	GESTODENE  0,06 mg +  ETHINYLESTRADIOL 0,015 mg - MELODIA 60 microgrammes/15 microgrammes, comprimé pelliculé - MINESSE 60 microgrammes/15 microgrammes, comprimé pelliculé
+207	464	Voie orale	GESTODENE / ETHINYLESTRADIOL 0,05 mg / 0,03 mg - 0,07 mg / 0,04 mg - 0,1 mg / 0,03 mg - TRI MINULET, comprimé enrobé - PHAEVA, comprimé enrobé.
+207	491	Voie orale	GESTODENE 0,075 mg + ETHINYLESTRADIOL 0,020 mg - MELIANE, comprimé enrobé - HARMONET, comprimé enrobé.
+207	489	Voie orale	GESTODENE 0,075 mg + ETHINYLESTRADIOL 0,030 mg - MINULET, comprimé enrobé -  MONEVA, comprimé enrobé.
+193	419	Voie orale	GLIBENCLAMIDE 2,5 mg - HEMI-DAONIL 2,5 mg, comprimé sécable.
+193	420	Voie orale	GLIBENCLAMIDE 5 mg - DAONIL 5 mg, comprimé sécable.
+18	690	Voie orale	GLICLAZIDE 30 mg - DIAMICRON 30 mg, comprimé à libération modifiée.
+18	1022	Voie orale	GLICLAZIDE 60 mg - DIAMICRON 60 mg, comprimé sécable à libération modifiée.
+18	35	Voie orale	GLICLAZIDE 80 mg - DIAMICRON 80 mg, comprimé sécable
+199	434	Voie orale	GLIMEPIRIDE 1 mg - AMAREL 1 mg, comprimé.
+199	435	Voie orale	GLIMEPIRIDE 2 mg - AMAREL 2 mg, comprimé.
+199	436	Voie orale	GLIMEPIRIDE 3 mg - AMAREL 3 mg, comprimé.
+199	437	Voie orale	GLIMEPIRIDE 4 mg - AMAREL 4 mg, comprimé.
+17	34	Voie orale	GLIPIZIDE 5 mg - GLIBENESE 5 mg, comprimé sécable - MINIDIAB 5 mg, comprimé sécable
+350	852	Voie cutanée	GLYCÉROL 15 %  +  VASELINE 8 %  +  PARAFFINE LIQUIDE 2 % - EXEDIEM, crème.
+253	584	Voie intraveineuse	GRANISETRON (CHLORHYDRATE DE) équivalant à GRANISETRON 3 mg/3 ml - KYTRIL 3 mg/3 ml, solution injectable.
+768	1968	Voie intramusculaire	HALOPERIDOL (DECANOATE D') équivalent à HALOPERIDOL 50 mg/mL - HALDOL DECANOAS 50 mg/ml, solution injectable
+327	783	Voie cutanée	HEXAMIDINE (DIISETIONATE D') 1 mg/ml - HEXOMEDINE 1 POUR MILLE, solution pour application locale.
+422	1042	Voie buccale	HEXETIDINE 0,1 POUR CENT - HEXTRIL 0,1 POUR CENT, bain de bouche, flacon.
+642	1644	Voie orale	HYDROCHLOROTHIAZIDE 25 mg - ESIDREX 25 mg, comprimé sécable
+555	1408	Voie intramusculaire / Voie intraveineuse	HYDROCORTISONE (HEMISUCCINATE SODIQUE D') équivalant à HYDROCORTISONE 100 mg - HYDROCORTISONE UPJOHN 100 mg, préparation injectable
+735	1885	Voie orale	HYDROCORTISONE 10 mg - HYDROCORTISONE ROUSSEL 10 mg, comprimé sécable
+203	1903	Voie orale	HYDROXYCARBAMIDE 500 mg - HYDREA 500 mg, gélule
+409	1013	Voie intramusculaire / Voie intraveineuse	HYDROXYZINE (CHLORHYDATE DE) 100 mg/2 ml - ATARAX 100 mg/2 ml, solution injectable.
+409	1199	Voie orale	HYDROXYZINE (CHLORHYDRATE D') 25 mg - ATARAX 25 mg, comprimé pelliculé sécable
+358	881	Voie orale	IBANDRONATE MONOSODIQUE MONOHYDRATE équivalant à ACIDE IBANDRONIQUE 150 mg - BONVIVA 150 mg, comprimé pelliculé.
+358	957	Voie orale	IBANDRONATE MONOSODIQUE MONOHYDRATE équivalant à ACIDE IBANDRONIQUE 50 mg - BONDRONAT 50 mg, comprimé pelliculé.
+108	244	Voie orale	IBUPROFENE 20 mg/ml - NUREFLEX 20 mg/ml ENFANTS ET NOURRISSONS, suspension buvable.
+108	721	Voie orale	IBUPROFENE 20 mg/ml - NUROFENPRO 20 mg/ml ENFANTS ET NOURRISSONS SANS SUCRE, suspension buvable édulcorée au maltitol liquide et à la saccharine sodique.
+108	1333	Voie orale	IBUPROFENE 200 mg - ADVIL 200 mg, comprimé enrobé
+108	243	Voie orale	IBUPROFENE 200 mg - NUREFLEX 200 mg, comprimé enrobé.
+108	1338	Voie orale	IBUPROFENE 200 mg - NUROFEN 200 mg, capsule molle
+108	1800	Voie orale	IBUPROFENE 400 mg - ADVILCAPS 400 mg, capsule molle
+108	332	Voie orale	IBUPROFENE 400 mg - ADVILMED 400 mg, comprimé enrobé.
+108	217	Voie orale	IBUPROFENE 400 mg - BRUFEN 400 mg, comprimé enrobé.
+108	784	Voie orale	IBUPROFENE 400 mg - BRUFEN 400 mg, comprimé pelliculé.
+108	1232	Voie orale	IBUPROFENE 400 mg - NUROFEN 400 mg, capsule molle
+108	1853	Voie orale	IBUPROFENE 400 mg - NUROFENCAPS 400 mg, capsule molle
+108	513	Voie cutanée	IBUPROFENE 5 % - ADVILMED 5 %, gel.
+108	1931	Voie intraveineuse	IBUPROFENE 5 mg/mL - PEDEA 5 mg/mL, solution injectable
+108	1572	Voie orale	IBUPROFENE 600 mg - BRUFEN 600 mg, comprimé pelliculé
+468	1183	Voie orale	IBUPROFÈNE (LYSINATE D') équivalant à IBUPROFÈNE 200 mg - NUROFENFLASH 200 mg, comprimé pelliculé
+468	1184	Voie orale	IBUPROFÈNE (LYSINATE D') équivalant à IBUPROFÈNE 400 mg - NUROFENFLASH 400 mg, comprimé pelliculé
+693	1789	Voie sous cutanée	ICATIBANT (ACETATE D') équivalent ICATIBANT 30 mg/3 mL - FIRAZYR 30 mg, solution injectable en seringue pré-remplie
+413	1109	Voie intraveineuse	IDARUBICINE (CHLORHYDRATE D') 1 mg/ml - ZAVEDOS 10 mg/10 ml, solution pour perfusion (flacon de 10 ml)
+413	1110	Voie intraveineuse	IDARUBICINE (CHLORHYDRATE D') 1 mg/ml - ZAVEDOS 20 mg/20 ml, solution pour perfusion (flacon de 20 ml)
+413	1023	Voie intraveineuse	IDARUBICINE (CHLORHYDRATE D') 1 mg/ml - ZAVEDOS 5 mg/5 ml, solution pour perfusion (FLACON de 5 ml).
+636	1619	Voie intraveineuse	ILOPROST 0,1 mg/1 mL - ILOMEDINE 0,1 mg/1 ml, solution à diluer pour perfusion
+525	1322	Voie orale	IMATINIB (MESILATE D') équivalant à IMATINIB 100 mg - GLIVEC 100 mg, comprimé pelliculé
+525	1351	Voie orale	IMATINIB (MESILATE D') équivalant à IMATINIB 100 mg - GLIVEC 100 mg, gélule
+525	1323	Voie orale	IMATINIB (MESILATE D') équivalant à IMATINIB 400 mg - GLIVEC 400 mg, comprimé pelliculé
+302	870	Voie intraveineuse (pour perfusion)	IMIPENEM MONOHYDRATE + CILASTATINE SODIQUE équivalant à IMIPENEM ANHYDRE 250 mg + CILASTATINE ANHYDRE 250 mg - TIENAM 250 mg/250 mg, poudre pour perfusion.
+302	726	Voie intraveineuse (pour perfusion)	IMIPENEM MONOHYDRATE + CILASTATINE SODIQUE équivalant à IMIPENEM ANHYDRE 500 mg + CILASTATINE ANHYDRE 500 mg - TIENAM 500 mg/500 mg, poudre pour solution pour perfusion
+302	731	Voie intraveineuse (pour perfusion)	IMIPÉNEM MONOHYDRATÉ + CILASTATINE SODIQUE équivalant à IMIPENEM ANHYDRE 500 mg + CILASTATINE ANHYDRE 500 mg - TIENAM 500 mg/500 mg, poudre pour perfusion avec système de transfert pour poche
+30	691	Voie orale	INDAPAMIDE 1,5 mg - FLUDEX 1,5 mg, comprimé pelliculé à libération prolongée.
+30	54	Voie orale	INDAPAMIDE 2,5 mg - FLUDEX 2,5 mg, comprimé pelliculé
+461	1165	Voie intraartérielle / Voie intraveineuse	IOPAMIDOL équivalant à 300 mg d'Iode/ml - IOPAMIRON 300 (300 mg d'Iode/mL), solution injectable
+461	1166	Voie intraartérielle / Voie intraveineuse	IOPAMIDOL équivalant à 370 mg d'Iode/ml  - IOPAMIRON 370 (370 mg d'Iode/mL), solution injectable
+150	341	Voie inhalée	IPRATROPIUM (BROMURE D') 0,25 mg/1 ml - ATROVENT 0,25 mg/1 ml ENFANTS, solution pour inhalation par nébuliseur en récipient unidose.
+150	302	Voie inhalée	IPRATROPIUM (BROMURE D') 0,5 mg/2 ml - ATROVENT ADULTES 0,5 mg/2 ml, solution pour inhalation par nébuliseur en récipient unidose.
+399	979	Voie orale	IRBESARTAN 150 mg + HYDROCHLOROTHIAZIDE 12,5 mg - COAPROVEL 150 mg/12,5 mg, comprimé pelliculé.
+399	1083	Voie orale	IRBESARTAN 150 mg + HYDROCHLOROTHIAZIDE 12,5 mg - COAPROVEL 150 mg/12,5 mg, comprimé.
+339	825	Voie orale	IRBESARTAN 150 mg - APROVEL 150 mg, comprimé pelliculé
+339	872	Voie orale	IRBESARTAN 150 mg - APROVEL 150 mg, comprimé.
+399	981	Voie orale	IRBESARTAN 300 mg + HYDROCHLOROTHIAZIDE 12,5 mg - COAPROVEL 300 mg/12,5 mg, comprimé pelliculé.
+399	1084	Voie orale	IRBESARTAN 300 mg + HYDROCHLOROTHIAZIDE 12,5 mg - COAPROVEL 300 mg/12,5 mg, comprimé.
+399	980	Voie orale	IRBESARTAN 300 mg + HYDROCHLOROTHIAZIDE 25 mg - COAPROVEL 300 mg/25 mg, comprimé pelliculé.
+339	819	Voie orale	IRBESARTAN 300 mg - APROVEL 300 mg, comprimé pelliculé
+339	873	Voie orale	IRBESARTAN 300 mg - APROVEL 300 mg, comprimé.
+339	827	Voie orale	IRBESARTAN 75 mg - APROVEL 75 mg, comprimé pelliculé
+339	871	Voie orale	IRBESARTAN 75 mg - APROVEL 75 mg, comprimé.
+289	705	Voie intraveineuse à diluer pour perfusion	IRINOTÉCAN (CHLORHYDRATE D') TRIHYDRATÉ 20 mg - CAMPTO 20 mg/ml, solution à diluer pour perfusion (IV).
+698	1805	Voie intraveineuse / Voie sous-cutanée	ISOPRENALINE (CHLORHYDRATE D') 0,2 mg/1 mL - ISUPREL 0,20 mg/1 ml, solution injectable en ampoule  (FLACON de 1 mL).
+26	1378	Voie intracoronaire/ Voie intraveineuse	ISOSORBIDE (DINITRATE D’) 10 mg/10 mL - RISORDAN 10 mg/10 ml, solution injectable (IV, intracoronaire) en ampoule
+64	116	Voie orale	ISOTRETINOÏNE 10 mg - ROACCUTANE 10 mg, capsule molle
+64	117	Voie orale	ISOTRETINOÏNE 20 mg - ROACCUTANE 20 mg, capsule molle
+64	115	Voie orale	ISOTRETINOÏNE 5 mg - ROACCUTANE 5 mg, capsule molle
+166	343	Voie orale	ITRACONAZOLE 100 mg - SPORANOX 100 mg, gélule.
+542	1372	Voie orale	IVABRADINE (CHLORHYDRATE D') équivalant à IVABRADINE 5 mg - PROCORALAN 5 mg, comprimé pelliculé
+542	1373	Voie orale	IVABRADINE (CHLORHYDRATE D') équivalant à IVABRADINE 7,5 mg - PROCORALAN 7,5 mg, comprimé pelliculé
+774	1993	Voie orale	IVACAFTOR 150 mg - KALYDECO 150 mg, comprimé pelliculé
+529	1336	Voie orale	IVERMECTINE 3 mg - STROMECTOL 3 mg, comprimé
+394	967	Voie intramusculaire / Voie intraveineuse	KETAMINE (CHLORHYDRATE DE) équivalant à KETAMINE 250 mg5 ml - KETALAR 50 mg/ml, solution injectable.
+394	964	Voie intramusculaire / Voie intraveineuse	KETAMINE (CHLORHYDRATE DE) équivalant à KETAMINE 50 mg/5 ml - KETALAR 10 mg/ml, solution injectable.
+274	650	Voie cutanée	KETOCONAZOLE 2 % - KETODERM 2 %, gel en récipient unidose.
+274	649	Voie cutanée	KETOCONAZOLE 2 % - KETODERM 2 %, gel en sachet
+111	1012	Voie orale	KETOPROFENE 100 mg - BI PROFENID LP 100 mg, comprimé sécable à libération prolongée.
+111	223	Voie orale	KETOPROFENE 100 mg - PROFENID 100 mg, comprimé pelliculé.
+111	479	Voie intramusculaire	KETOPROFENE 100 mg/2 ml - PROFENID 100 mg/2 ml, solution injectable (I.M.).
+111	854	Voie orale	KETOPROFENE 150 mg - PROFEMIGR 150 mg, comprimé sécable.
+111	230	Voie cutanée	KETOPROFENE 2,5 % - KETUM 2,5 POUR CENT, gel.
+111	229	Voie cutanée	KETOPROFENE 2,5 % - PROFENID 2,5 POUR CENT, gel en tube.
+111	224	Voie orale	KETOPROFENE 200 mg - PROFENID LP 200 mg, comprimé enrobé à libération prolongée.
+111	225	Voie orale	KETOPROFENE 200 mg - PROFENID LP 200 mg, gélule à libération prolongée.
+111	222	Voie orale	KETOPROFENE 50 mg - PROFENID 50 mg, gélule.
+437	1080	Voie ophtalmique	KETOTIFÈNE (FUMARATE DE) équivalant à KETOTIFENE 0,25 mg/ml - ZAGRAPA 0,25 mg/ml, collyre en solution en récipient unidose
+274	1628	Voie cutanée	KÉTOCONAZOLE 0,02 g par g - KETODERM 2 %, crème
+679	1757	Voie orale	L-CARNITINE 100 mg/ml - LEVOCARNIL 100 mg/ml, solution buvable
+732	1876	Voie intraveineuse	LABETALOL (CHLORHYDRATE DE) 5 mg/ml - TRANDATE 5 mg/ml, solution injectable
+576	1456	Voie orale	LACIDIPINE 2 mg - CALDINE 2 mg, comprimé pelliculé
+576	1516	Voie orale	LACIDIPINE 4 mg - CALDINE 4 mg, comprimé pelliculé sécable
+593	1590	Voie orale	LACOSAMIDE 10 mg/mL - VIMPAT 10 mg/mL, sirop
+593	1591	Voie intraveineuse	LACOSAMIDE 10 mg/mL - VIMPAT 10 mg/mL, solution pour perfusion
+593	1493	Voie orale	LACOSAMIDE 100 mg - VIMPAT 100 mg, comprimé pelliculé
+593	1503	Voie orale	LACOSAMIDE 150 mg - VIMPAT 150 mg, comprimé pelliculé
+593	1494	Voie orale	LACOSAMIDE 200 mg - VIMPAT 200 mg, comprimé pelliculé
+593	1592	Voie orale	LACOSAMIDE 50 mg + LACOSAMIDE 100 mg + LACOSAMIDE 150 mg LACOSAMIDE 200 mg  - VIMPAT 50/100/150/200 mg, comprimé pelliculé pack d'initiation du traitement
+593	1492	Voie orale	LACOSAMIDE 50 mg - VIMPAT 50 mg, comprimé pelliculé
+12	26	Voie orale	LACTULOSE 10 g - DUPHALAC 10 g/15 ml, solution buvable en sachet.
+12	25	Voie orale	LACTULOSE 66,5 % (concentration exprimée en m/v) - DUPHALAC 66,5 POUR CENT, solution buvable en flacon.
+364	1374	Voie orale	LAMIVUDINE 100 mg - ZEFFIX 100 mg, comprimé pelliculé
+414	1024	Voie orale	LAMIVUDINE 150 mg + ZIDOVUDINE 300 mg - COMBIVIR 150 mg/300 mg, comprimé pelliculé.
+364	900	Voie orale	LAMIVUDINE 150 mg - EPIVIR 150 mg, comprimé pelliculé.
+364	901	Voie orale	LAMIVUDINE 300 mg - EPIVIR 300 mg, comprimé pelliculé.
+183	396	Voie orale	LAMOTRIGINE 100 mg - LAMICTAL 100 mg, comprimé dispersible ou à croquer.
+183	397	Voie orale	LAMOTRIGINE 200 mg - LAMICTAL 200 mg, comprimé dispersible ou à croquer.
+183	394	Voie orale	LAMOTRIGINE 25 mg - LAMICTAL 25 mg, comprimé dispersible ou à croquer.
+183	393	Voie orale	LAMOTRIGINE 5 mg - LAMICTAL 5 mg, comprimé dispersible ou à croquer.
+183	395	Voie orale	LAMOTRIGINE 50 mg - LAMICTAL 50 mg, comprimé dispersible ou à croquer.
+689	1779	Voie sous cutanée	LANREOTIDE (ACETATE DE) équivalant à LANREOTIDE 120 mg - SOMATULINE L.P. 120 mg, solution injectable à libération prolongée en seringue préremplie
+689	1780	Voie sous cutanée	LANREOTIDE (ACETATE DE) équivalant à LANREOTIDE 60 mg - SOMATULINE L.P. 60 mg, solution injectable à libération prolongée en seringue préremplie
+689	1781	Voie sous cutanée	LANREOTIDE (ACETATE DE) équivalant à LANREOTIDE 90 mg - SOMATULINE L.P. 90 mg, solution injectable à libération prolongée en seringue préremplie
+256	593	Voie orale	LANSOPRAZOLE 15 mg - LANZOR 15 mg, gélule gastro-résistante
+256	1700	Voie orale	LANSOPRAZOLE 15 mg - OGAST 15 mg, gélule gastro-résistante
+256	600	Voie orale	LANSOPRAZOLE 15 mg - OGASTORO 15 mg, comprimé orodispersible.
+256	591	Voie orale	LANSOPRAZOLE 30 mg - LANZOR 30 mg, gélule gastro-résistante
+256	1701	Voie orale	LANSOPRAZOLE 30 mg - OGAST 30 mg, gélule gastro-résistante
+256	601	Voie orale	LANSOPRAZOLE 30 mg - OGASTORO 30 mg, comprimé orodispersible.
+682	1763	Voie orale	LANTHANE (CARBONATE DE) HYDRATE équivalant à LANTHANE 1000 mg - FOSRENOL 1000 mg, comprimé à croquer
+682	1764	Voie orale	LANTHANE (CARBONATE DE) HYDRATE équivalant à LANTHANE 500 mg - FOSRENOL 500 mg, comprimé à croquer
+682	1765	Voie orale	LANTHANE (CARBONATE DE) HYDRATE équivalant à LANTHANE 750 mg - FOSRENOL 750 mg, comprimé à croquer
+713	1836	Voie orale	LAPATINIB (DITOSILATE DE) équivalant à LAPATINIB 250 mg - TYVERB 250 mg, comprimé pelliculé
+334	812	Voie ophtalmique	LATANOPROST 50 microgrammes/mL - XALATAN 50 microgrammes/mL, collyre en solution
+436	1079	Voie ophtalmique	LATANOPROST 50 microgrammes/ml +  TIMOLOL (MALÉATE DE) équivalant à TIMOLOL 5 mg/ml - XALACOM 50 microgrammes/ml + 5 mg/ml, collyre en solution
+614	1547	Voie orale	LENALIDOMIDE 10 mg - LENALIDOMIDE (CHLORHYDRATE DE) HYDRATE équivalant à LENALIDOMIDE 10 mg - REVLIMID 10 mg, gélule
+614	1548	Voie orale	LENALIDOMIDE 15 mg - LENALIDOMIDE (CHLORHYDRATE DE) HYDRATE équivalant à LENALIDOMIDE 15 mg - REVLIMID 15 mg, gélule
+614	1549	Voie orale	LENALIDOMIDE 2,5 mg - LENALIDOMIDE (CHLORHYDRATE DE) HYDRATE équivalant à LENALIDOMIDE 2,5 mg - REVLIMID 2,5 mg, gélule
+614	1573	Voie orale	LENALIDOMIDE 20 mg - REVLIMID 20 mg, gélule
+614	1550	Voie orale	LENALIDOMIDE 25 mg - LENALIDOMIDE (CHLORHYDRATE DE) HYDRATE équivalant à LENALIDOMIDE 25 mg - REVLIMID 25 mg, gélule
+614	1552	Voie orale	LENALIDOMIDE 5 mg - LENALIDOMIDE (CHLORHYDRATE DE) HYDRATE équivalant à LENALIDOMIDE 5 mg - REVLIMID 5 mg, gélule
+614	1574	Voie orale	LENALIDOMIDE 7,5 mg - REVLIMID 7,5 mg, gélule
+764	1960	Voie orale	LENVATINIB (BESILATE DE) équivalent à LENVATINIB 10 mg - LENVIMA 10 mg, gélule
+764	1961	Voie orale	LENVATINIB (BESILATE DE) équivalent à LENVATINIB 4 mg - LENVIMA 4 mg, gélule
+320	762	Voie orale	LERCANIDIPINE (CHLORHYDRATE DE) 10 mg - ZANIDIP 10 mg, comprimé pelliculé sécable - LERCAN 10 mg, comprimé pelliculé sécable.
+320	764	Voie orale	LERCANIDIPINE (CHLORHYDRATE DE) 20 mg - ZANIDIP 20 mg, comprimé pelliculé - LERCAN 20 mg, comprimé pelliculé.
+318	756	Voie orale	LETROZOLE 2,5 mg - FEMARA 2,5 mg, comprimé pelliculé.
+415	1052	Voie orale	LEVETIRACETAM 100 mg/ml - KEPPRA 100 mg/ml, solution buvable
+415	1051	Voie intraveineuse	LEVETIRACETAM 100 mg/ml, solution à diluer pour perfusion - KEPPRA 100 mg/ml, solution à diluer pour perfusion
+415	1025	Voie orale	LEVETIRACETAM 1000 mg - KEPPRA 1000 mg, comprimé pelliculé.
+415	1026	Voie orale	LEVETIRACETAM 250 mg - KEPPRA 250 mg, comprimé pelliculé.
+415	1027	Voie orale	LEVETIRACETAM 500 mg - KEPPRA 500 mg, comprimé pelliculé.
+161	329	Voie orale	LEVOCETIRIZINE (DICHLORHYDRATE DE) 5 mg – XYZALL 5 mg, comprimé pelliculé.
+235	538	Voie orale	LEVODOPA 100 mg  + CARBIDOPA 25 mg - SINEMET LP 100 mg/25 mg, comprimé à libération prolongée.
+270	637	Voie orale	LEVODOPA 100 mg + BENSERAZIDE (CHLORHYDRATE DE) équivalant à BENSERAZIDE 25 mg - MODOPAR 125 (100 mg/25 mg), gélule.
+235	1139	Voie orale	LEVODOPA 100 mg + CARBIDOPA 10 mg - SINEMET 100 mg/10 mg, comprimé
+270	636	Voie orale	LEVODOPA 200 mg + BENSERAZIDE (CHLORHYDRATE DE) équivalant à BENSERAZIDE 50 mg - MODOPAR 250 (200 mg/50 mg), gélule.
+235	539	Voie orale	LEVODOPA 200 mg + CARBIDOPA 50 mg  - SINEMET LP 200 mg/50 mg, comprimé à libération prolongée.
+235	1140	Voie orale	LEVODOPA 250 mg + CARBIDOPA 25 mg - SINEMET 250 mg/25 mg, comprimé sécable
+270	635	Voie orale	LEVODOPA 50 mg + BENSERAZIDE (CHLORHYDRATE DE) équivalant à BENSERAZIDE 12,50 mg - MODOPAR 62,5 (50 mg/12,5 mg), gélule.
+316	822	Voie orale	LEVOFLOXACINE HEMIHYDRATEE équivalant à LEVOFLOXACINE 250 mg - TAVANIC 250 mg, comprimé pelliculé sécable
+316	836	Voie intraveineuse	LEVOFLOXACINE HEMIHYDRATEE équivalant à LEVOFLOXACINE 5 mg/ml - TAVANIC 5 mg/ml, solution pour perfusion
+316	754	Voie orale	LEVOFLOXACINE HEMIHYDRATEE équivalant à LEVOFLOXACINE 500 mg - TAVANIC 500 mg, comprimé pelliculé sécable.
+236	546	Voie intramusculaire / Voie intraveineuse	LEVOFOLINATE DE CALCIUM équivalant à ACIDE-L- FOLINIQUE 25 mg - ELVORINE 25 mg, lyophilisat pour usage parenteral.
+236	548	Voie intraveineuse	LEVOFOLINATE DE CALCIUM équivalant à ACIDE-L-FOLINIQUE 50 mg - ELVORINE 50 mg, lyophilisat pour usage parentéral.
+66	122	Voie orale	LEVONORGESTREL 0,050 mg, 0,075 mg, 0,125 mg + ETHINYLESTRADIOL 0,030 mg, 0,040 mg, 0,030 mg - TRINORDIOL, comprimé enrobé
+66	1145	Voie orale	LEVONORGESTREL 0,1 mg + ETHINYLESTRADIOL 0,02 mg - FEMOSIA, comprimé enrobé
+66	666	Voie orale	LEVONORGESTREL 0,1 mg + ETHINYLESTRADIOL 0,02 mg - LAURETTE, comprimé enrobé
+66	757	Voie orale	LEVONORGESTREL 0,15 mg + ETHINYLESTRADIOL 0,03 mg -  ADEPAL, comprimé enrobé.
+66	119	Voie orale	LEVONORGESTREL 0,15 mg + ETHINYLESTRADIOL 0,03 mg - MINIDRIL, comprimé enrobé
+329	787	Voie orale	LEVOTHYROXINE SODIQUE 100 microgrammes - LEVOTHYROX 100 microgrammes, comprimé sécable.
+329	788	Voie orale	LEVOTHYROXINE SODIQUE 125 microgrammes - LEVOTHYROX 125 microgrammes, comprimé sécable.
+329	789	Voie orale	LEVOTHYROXINE SODIQUE 150 microgrammes - LEVOTHYROX 150 microgrammes, comprimé sécable.
+329	790	Voie orale	LEVOTHYROXINE SODIQUE 175 microgrammes - LEVOTHYROX 175 microgrammes, comprimé sécable.
+329	791	Voie orale	LEVOTHYROXINE SODIQUE 200 microgrammes - LEVOTHYROX 200 microgrammes, comprimé sécable.
+329	792	Voie orale	LEVOTHYROXINE SODIQUE 25 microgrammes - LEVOTHYROX 25 microgrammes, comprimé sécable.
+329	793	Voie orale	LEVOTHYROXINE SODIQUE 50 microgrammes - LEVOTHYROX 50 microgrammes, comprimé sécable.
+329	794	Voie orale	LEVOTHYROXINE SODIQUE 75 microgrammes - LEVOTHYROX 75 microgrammes, comprimé sécable.
+187	406	Voie cutanée	LIDOCAINE  2,5 % + PRILOCAINE 2,5 % - EMLA 5 POUR CENT, crème.
+187	1154	Voie cutanée	LIDOCAINE  2,5 % + PRILOCAINE 2,5 % - EMLAPATCH 5 POUR CENT, pansement adhésif cutané
+269	632	Voie infiltration / Voie intra-articulaire / Voie périarticulaire / Voie péridurale / Voie périneurale	LIDOCAINE (CHLORHYDRATE DE) 20 mg/mL - XYLOCAINE 20 mg/mL SANS CONSERVATEUR, solution injectable.
+449	1122	Voie infiltration / Voie péridurale / Voie périneurale	LIDOCAÏNE (CHLORHYDRATE DE)  équivalant à LIDOCAÏNE 10 mg/ml +  ADRÉNALINE (TARTRATE D') équivalant à ADRÉNALINE 0,005 mg/ml - XYLOCAINE 10 mg/ml ADRENALINE 0,005 mg/ml, solution injectable
+449	1123	Voie infiltration / Voie péridurale / Voie périneurale	LIDOCAÏNE (CHLORHYDRATE DE)  équivalant à LIDOCAÏNE 20 mg/ml +  ADRÉNALINE (TARTRATE D') équivalant à ADRÉNALINE 0,005 mg/ml - XYLOCAINE 20 mg/ml ADRENALINE 0,005 mg/ml, solution injectable
+269	1005	Voie infiltration / Voie intra-articulaire / Voie périarticulaire / Voie péridurale / Voie périneurale	LIDOCAÏNE (CHLORHYDRATE DE) 10 mg/mL - XYLOCAINE 10mg/mL SANS CONSERVATEUR, solution injectable.
+269	1130	Voie infiltration / Voie intra-articulaire / Voie intraveineuse / Voie périarticulaire / Voie péridurale /Voie périneurale	LIDOCAÏNE (CHLORHYDRATE DE) 5 mg/ml - XYLOCAINE 5 mg/ml SANS CONSERVATEUR, solution injectable
+269	1530	Voie buccale	LIDOCAÏNE (CHLORHYDRATE DE) équivalant à LIDOCAÏNE 5 g pour 100 g de solution - XYLOCAINE 5 POUR CENT NEBULISEUR, solution pour pulvérisation buccale
+708	1826	Voie orale	LINAGLIPTINE 5 mg - TRAJENTA 5 mg, comprimé pelliculé
+485	1318	Voie orale	LINÉZOLIDE 100 mg/5 mL - ZYVOXID 100 mg/5 ml, granulés pour suspension buvable
+485	1274	Voie intraveineuse	LINÉZOLIDE 2 mg/mL - ZYVOXID 2 mg/ml, solution pour perfusion
+485	1228	Voie orale	LINÉZOLIDE 600 mg -  ZYVOXID 600 mg, comprimé pelliculé
+754	1933	Voie sous cutanée	LIRAGLUTIDE 6 mg/mL - VICTOZA 6 mg/ml, solution injectable en stylo prérempli
+175	368	Voie orale	LISINOPRIL (DIHYDRATE) équivalant à LISINOPRIL 20 mg + HYDROCHLOROTHIAZIDE 12,5 mg – PRINZIDE 20 mg/12,5 mg, comprimé sécable -  ZESTORETIC 20 mg/12,5 mg, comprimé sécable.
+55	99	Voie orale	LISINOPRIL DIHYDRATE équivalant à LISINOPRIL 20 mg - PRINIVIL 20 mg, comprimé - ZESTRIL 20 mg, comprimé.
+55	98	Voie orale	LISINOPRIL DIHYDRATE équivalant à LISINOPRIL 5 mg - PRINIVIL 5 mg, comprimé - ZESTRIL 5 mg, comprimé sécable.
+14	29	Voie orale	LOPERAMIDE (CHLORHYDRATE DE) 2 mg - IMODIUM 2 mg, gélule - IMODIUMCAPS 2 mg, gélule
+506	1275	Voie orale	LOPINAVIR 100 mg +  RITONAVIR 25 mg - KALETRA 100 mg/25 mg, comprimé pelliculé
+506	1276	Voie orale	LOPINAVIR 200 mg +  RITONAVIR 50 mg - KALETRA 200 mg/50 mg, comprimé pelliculé
+154	310	Voie orale	LORATADINE 10 mg - CLARITYNE 10 mg, comprimé
+131	423	Voie orale	LORAZEPAM 1 mg - TEMESTA 1 mg, comprimé sécable.
+131	269	Voie orale	LORAZEPAM 2,5 mg - TEMESTA 2,5 mg, comprimé sécable
+459	1155	Voie orale	LORMÉTAZÉPAM 1 mg - NOCTAMIDE 1 mg, comprimé sécable
+459	1156	Voie orale	LORMÉTAZÉPAM 2 mg - NOCTAMIDE 2 mg, comprimé sécable
+265	858	Voie orale	LOSARTAN POTASSIUM 100 mg +  HYDROCHLOROTHIAZIDE 12,5 mg - FORTZAAR 100 mg/12,5 mg, comprimé pelliculé.
+265	623	Voie orale	LOSARTAN POTASSIUM 100 mg + HYDROCHLOROTHIAZIDE 25 mg - HYZAAR 100 mg/25 mg, comprimé pelliculé - FORTZAAR 100 mg/25 mg, comprimé pelliculé
+242	562	Voie orale	LOSARTAN POTASSIUM 100 mg - COZAAR 100 mg, comprimé pelliculé.
+265	622	Voie orale	LOSARTAN POTASSIUM 50 mg + HYDROCHLOROTHIAZIDE 12,5 mg - HYZAAR 50 mg/12,5 mg, comprimé pelliculé - FORTZAAR 50 mg/12,5 mg, comprimé pelliculé
+242	561	Voie orale	LOSARTAN POTASSIUM 50 mg - COZAAR 50 mg, comprimé pelliculé
+750	1924	Voie orale	LOXAPINE (SUCCINATE DE) équivalent à LOXAPINE 100 mg - LOXAPAC 100 mg, comprimé pelliculé
+750	1925	Voie orale	LOXAPINE (SUCCINATE DE) équivalent à LOXAPINE 25 mg - LOXAPAC 25 mg, comprimé pelliculé
+750	1926	Voie orale	LOXAPINE (SUCCINATE DE) équivalent à LOXAPINE 50 mg - LOXAPAC 50 mg, comprimé pelliculé
+469	1188	Voie orale	LYMECYCLINE équivalant à TETRACYCLINE 300 mg - TETRALYSAL 300 mg, gélule
+431	1066	Voie orale	LÉFLUNOMIDE 10 mg - ARAVA 10 mg, comprimé pelliculé
+431	1074	Voie orale	LÉFLUNOMIDE 100 mg - ARAVA 100 mg, comprimé pelliculé
+431	1065	Voie orale	LÉFLUNOMIDE 20 mg - ARAVA 20 mg, comprimé pelliculé
+489	1237	Voie péridurale	LÉVOBUPIVACAÏNE (CHLORHYDRATE DE) 0,625 mg/mL - CHIROCAÏNE 0,625 mg/ml, solution pour perfusion
+489	1238	Voie péridurale	LÉVOBUPIVACAÏNE (CHLORHYDRATE DE) 1,25 mg/mL - CHIROCAÏNE 1,25 mg/ml, solution pour perfusion
+489	1239	Voie infiltration / Voie intrathécale / Voie péribulbaire / Voie péridurale / Voie périneurale	LÉVOBUPIVACAÏNE (CHLORHYDRATE DE) 2,5 mg/mL - CHIROCAÏNE 2,5 mg/ml, solution injectable ou solution à diluer pour perfusion
+489	1240	Voie infiltration / Voie intrathécale / Voie péribulbaire / Voie péridurale / Voie périneurale	LÉVOBUPIVACAÏNE (CHLORHYDRATE DE) 5 mg/mL - CHIROCAÏNE 5 mg/ml, solution injectable ou solution à diluer pour perfusion
+479	1210	Voie orale	LÉVODOPA 100 mg  +  CARBIDOPA 25 mg +  ENTACAPONE 200 mg - STALEVO 100 mg/25 mg/200 mg, comprimé pelliculé
+479	1211	Voie orale	LÉVODOPA 125 mg  +  CARBIDOPA 31,25 mg  +  ENTACAPONE 200 mg - STALEVO 125 mg/31,25 mg/200 mg, comprimé pelliculé
+479	1212	Voie orale	LÉVODOPA 150 mg +  CARBIDOPA 37,5 mg  +  ENTACAPONE 200 mg - STALEVO 150 mg/37,5 mg/200 mg, comprimé pelliculé
+479	1213	Voie orale	LÉVODOPA 175 mg +  CARBIDOPA 43,75 mg +  ENTACAPONE 200 mg - STALEVO 175 mg/43,75 mg/200 mg, comprimé pelliculé
+479	1214	Voie orale	LÉVODOPA 200 mg  +  CARBIDOPA 50 mg +  ENTACAPONE 200 mg - STALEVO 200 mg/50 mg/200 mg, comprimé pelliculé
+479	1208	Voie orale	LÉVODOPA 50 mg  +  CARBIDOPA 12,5 mg +  ENTACAPONE 200 mg - STALEVO 50 mg/12,5 mg/200 mg, comprimé pelliculé
+479	1209	Voie orale	LÉVODOPA 75 mg +  CARBIDOPA 18,75 mg  +  ENTACAPONE 200 mg - STALEVO 75 mg/18,75 mg/200 mg, comprimé pelliculé
+283	1324	Voie orale	LÉVONORGESTREL 1,5 mg - LEVONORGESTREL BIOGARAN 1,5 mg, comprimé
+283	1169	Voie orale	LÉVONORGESTREL 1,5 mg - NORLEVO 1,5 mg, comprimé
+415	1185	Voie orale	LÉVÉTIRACÉTAM 750 mg - KEPPRA 750 mg, comprimé pelliculé
+769	1972	Voie orale	MACITENTAN 10 mg - OPSUMIT 10 mg, comprimé pelliculé
+379	926	Voie orale	MACROGOL 3350  5,9 g- TRANSIPEG 5,9 g, poudre pour solution buvable en sachet.
+379	970	Voie orale	MACROGOL 3350 13,125 g - MOVICOL, poudre pour solution buvable en sachet.
+306	736	Voie orale	MACROGOL 4000 10 g - FORLAX 10 g, poudre pour solution buvable en sachet.
+306	1635	Voie orale	MACROGOL 4000 4 g - FORLAX 4 g, poudre pour solution buvable en sachet.
+317	755	Voie orale	MAGNESIUM (LACTATE DE) DIHYDRATE  470 mg  + PYRIDOXINE (CHLORHYDRATE DE) 5 mg  - MAGNE B6 48 mg/5 mg, comprimé enrobé.
+380	927	Voie orale	MANIDIPINE (CHLORHYDRATE DE) 10 mg - IPERTEN 10 mg, comprimé.
+380	928	Voie orale	MANIDIPINE (CHLORHYDRATE DE) 20 mg - IPERTEN 20 mg, comprimé.
+758	1941	Voie orale	MARAVIROC 150 mg - CELSENTRI 150 mg, comprimé pelliculé
+758	1940	Voie orale	MARAVIROC 300 mg - CELSENTRI 300 mg, comprimé pelliculé
+7	18	Voie orale	MEBEVERINE (CHLORHYDRATE DE) 100 mg - DUSPATALIN 100 mg, comprimé enrobé
+7	19	Voie orale	MEBEVERINE (CHLORHYDRATE DE) 200 mg - DUSPATALIN 200 mg, gélule
+692	1788	Voie orale	MELATONINE 2 mg - CIRCADIN 2 mg, comprimé à libération prolongée
+194	425	Voie orale	MELOXICAM 15 mg - MOBIC 15 mg, comprimé sécable.
+194	424	Voie orale	MELOXICAM 7,5 mg - MOBIC 7,5 mg, comprimé.
+659	1699	Voie intraveineuse	MELPHALAN 50 mg/10 mL - MELPHALAN (CHLORHYDRATE DE) équivalant à MELPHALAN 50mg/10 mL - ALKERAN 50 mg/10 mL, lyophilisat et solution pour usage parentéral (I.V.)
+450	1119	Voie orale	MEMANTINE (CHLORHYDRATE DE) 10 mg - EBIXA 10 mg, comprimé pelliculé - AXURA 10 mg, comprimé pelliculé
+450	1120	Voie orale	MEMANTINE (CHLORHYDRATE DE) 20 mg - EBIXA 20 mg, comprimé pelliculé - AXURA 20 mg, comprimé pelliculé
+594	1495	Voie infiltration / Voie intraveineuse / Voie péridurale / Voie périneurale	MEPIVACAINE (CHLORHYDRATE DE) 10 mg/mL - CARBOCAINE 10 mg/ml, solution injectable
+594	1496	Voie infiltration / Voie intraveineuse / Voie péridurale / Voie périneurale	MEPIVACAINE (CHLORHYDRATE DE) 20 mg/mL - CARBOCAINE 20 mg/ml, solution injectable
+386	1053	Voie intraveineuse	MEROPENEM TRIHYDRATE équivalant à  MEROPENEM 250 mg - MERONEM 250 mg, poudre pour solution injectable (I.V.)
+386	942	Voie intraveineuse	MEROPENEM TRIHYDRATE équivalant à MEROPENEM 1 g - MERONEM 1 g,  poudre pour solution injectable ou pour perfusion.
+386	943	Voie intraveineuse	MEROPENEM TRIHYDRATE équivalant à MEROPENEM 500 mg - MERONEM 500 mg,  poudre pour solution injectable ou pour perfusion.
+518	1303	Voie intraveineuse	MESNA 100 mg/mL - UROMITEXAN 200 mg, solution injectable IV
+16	33	Voie orale	METFORMINE (CHLORHYDRATE DE) 1000 mg - GLUCOPHAGE 1000 mg, comprimé pelliculé sécable.
+16	1762	Voie orale	METFORMINE (CHLORHYDRATE DE) 1000 mg - GLUCOPHAGE 1000 mg, poudre pour solution buvable en sachet-dose
+16	31	Voie orale	METFORMINE (CHLORHYDRATE DE) 500 mg - GLUCOPHAGE 500 mg, comprimé pelliculé
+16	32	Voie orale	METFORMINE (CHLORHYDRATE DE) 850 mg - GLUCOPHAGE 850 mg, comprimé pelliculé
+724	1864	Voie orale	METHOCARBAMOL 500 mg - LUMIRELAX 500 mg, comprimé
+201	504	Voie orale	METHOTREXATE 2,5 mg - NOVATREX 2,5 mg, comprimé.
+201	440	Voie intraartérielle / Voie intramusculaire / Voie intrarachidienne / Voie intraveineuse / Voie sous-cutanée	METHOTREXATE 2,5 mg/ml - METHOTREXATE NEURAXPHARM 5mg/2mL, solution injectable.
+201	545	Voie intraartérielle / Voie intramusculaire / Voie intrarachidienne / Voie intraveineuse / Voie sous-cutanée	METHOTREXATE 50 mg/2 ml - LEDERTREXATE 50 mg, solution injectable.
+621	1577	Voie intraveineuse	METHYLPREDNISOLONE (HEMISUCCINATE DE) équivalant à METHYLPREDNISOLONE 500 mg - METHYLPREDNISOLONE SODIQUE(SUCCINATE DE) équivalant à METHYLPREDNISOLONE 500 mg SOLUMEDROL 500 mg, poudre pour solution injectable
+10	22	Voie orale	METOCLOPRAMIDE (CHLORHYDRATE DE) 10 mg - PRIMPERAN 10 mg, comprimé sécable
+10	1006	Voie intramusculaire / Voie intraveineuse	METOCLOPRAMIDE (CHLORHYDRATE DE) 10 mg/2 ml - PRIMPERAN 10 mg/2 ml, solution injectable en ampoule.
+704	1820	Voie orale	METOPIMAZINE  7,5 mg - VOGALENE LYOC 7,5 mg, lyophilisat oral
+704	1942	Voie orale	METOPIMAZINE 15 mg - VOGALENE 15 mg, gélule
+704	1824	Voie orale	METOPIMAZINE 7,5 mg - VOGALIB 7,5 mg SANS SUCRE, lyophilisat oral édulcoré à l'aspartam
+44	77	Voie orale	METOPROLOL (TARTRATE DE) 100 mg - LOPRESSOR 100 mg, comprimé pelliculé sécable - SELOKEN 100 mg, comprimé sécable.
+44	1093	Voie orale	METOPROLOL (TARTRATE DE) 50 mg - SELOKEN 50 mg, comprimé
+604	1528	Voie orale	METRONIDAZOLE 250 mg - FLAGYL 250 mg, comprimé pelliculé
+604	1529	Voie orale	METRONIDAZOLE 500 mg - FLAGYL 500 mg, comprimé pelliculé
+604	1593	Voie intraveineuse	METRONIDAZOLE 500 mg pour 100 mL - FLAGYL 0,5 POUR CENT, solution injectable pour perfusion en poche
+143	288	Voie orale	MIANSERINE (CHLORHYDRATE DE) 10 mg - ATHYMIL 10 mg, comprimé pelliculé
+143	289	Voie orale	MIANSERINE (CHLORHYDRATE DE) 30 mg - ATHYMIL 30 mg, comprimé pelliculé
+143	290	Voie orale	MIANSERINE (CHLORHYDRATE DE) 60 mg - ATHYMIL 60 mg, comprimé pelliculé sécable
+655	1688	Voie intraveineuse	MICAFUNGINE SODIQUE équivalant à MICAFUNGINE 100 mg - MYCAMINE 100 mg, poudre pour solution pour perfusion
+655	1689	Voie intraveineuse	MICAFUNGINE SODIQUE équivalant à MICAFUNGINE 50 mg - MYCAMINE 50 mg, poudre pour solution pour perfusion
+172	356	Voie intramusculaire / Voie intraveineuse/ Voie rectale	MIDAZOLAM (CHLORHYDRATE DE) équivalant à MIDAZOLAM 1 mg/ml - HYPNOVEL 1 mg/ml, solution injectable.
+172	357	Voie intramusculaire / Voie intraveineuse/ Voie rectale	MIDAZOLAM (CHLORHYDRATE DE) équivalant à MIDAZOLAM 5 mg/ml - HYPNOVEL 5 mg/ml, solution injectable.
+606	1535	Voie orale	MIDODRINE (CHLORHYDRATE DE) 2,5 mg - GUTRON 2,5 mg, comprimé
+515	1296	Voie orale	MIGLUSTAT 100 mg - ZAVESCA 100 mg, gélule
+416	1028	Voie orale	MILNACIPRAN (CHLORHYDRATE DE) 25 mg - IXEL 25 mg, gélule.
+416	1029	Voie orale	MILNACIPRAN (CHLORHYDRATE DE) 50 mg - IXEL 50 mg, gélule.
+441	1089	Voie intraveineuse	MILRINONE 10 mg/10 ml - COROTROPE 10 mg/10 ml, solution injectable IV
+81	144	Voie orale	MINOCYCLINE (CHLORHYDRATE DE) équivalant à MINOCYCLINE 100 mg - MESTACINE 100 mg, comprimé pelliculé sécable.
+81	143	Voie orale	MINOCYCLINE (CHLORHYDRATE DE) équivalant à MINOCYCLINE 100 mg - MYNOCINE 100 mg, gélule.
+81	142	Voie orale	MINOCYCLINE (CHLORHYDRATE DE) équivalant à MINOCYCLINE 50 mg - MYNOCINE 50 mg, gélule
+167	956	Voie cutanée	MINOXIDIL 2 % - ALOSTIL 2 %, solution pour application cutanée - REGAINE 2 POUR CENT, solution pour application cutanée.
+167	345	Voie cutanée	MINOXIDIL 5 % - ALOSTIL 5 %, solution pour application cutanée - REGAINE 5 POUR CENT, solution pour application cutanée.
+755	1934	Voie orale	MIRABEGRON 50 mg - BETMIGA 50 mg, comprimé à libération prolongée
+190	505	Voie orale	MIRTAZAPINE 15 mg - NORSET 15 mg, comprimé orodispersible.
+190	413	Voie orale	MIRTAZAPINE 15 mg - NORSET 15 mg, comprimé pelliculé.
+190	506	Voie orale	MIRTAZAPINE 30 mg - NORSET 30 mg, comprimé orodispersible.
+190	492	Voie orale	MIRTAZAPINE 45 mg - NORSET 45 mg, comprimé orodispersible.
+651	1667	Voie intra-artérielle / Voie intraséreuse / Voie intraveineuse	MITOMYCINE C 20 mg - AMETYCINE 20 mg, poudre pour solution injectable
+184	398	Voie par perfusion	MITOXANTRONE (CHLORHYDRATE DE) équivalant à MITOXANTRONE 10 mg/5 ml - NOVANTRONE 10 mg/5 ml, solution à diluer pour perfusion (FLACON de 5 ml).
+184	400	Voie par perfusion	MITOXANTRONE (CHLORHYDRATE DE) équivalant à MITOXANTRONE 20 mg/10 ml - NOVANTRONE 20 mg/10 ml, solution à diluer pour perfusion (FLACON de 10 ml).
+184	452	Voie par perfusion	MITOXANTRONE (CHLORHYDRATE DE) équivalant à MITOXANTRONE 25 mg/12,5 ml - NOVANTRONE 25 mg/12,5 ml, solution à diluer pour perfusion (FLACON de 12,5 ml).
+238	553	Voie orale	MODAFINIL 100 mg - MODIODAL 100 mg, comprimé.
+27	49	Voie orale	MOLSIDOMINE 2 mg - CORVASAL 2 mg, comprimé sécable
+27	50	Voie orale	MOLSIDOMINE 4 mg - CORVASAL 4 mg, comprimé
+352	859	Voie cutanée	MOMETASONE (FUROATE DE) 1 mg/1 g - ELOCOME 0,1 POUR CENT, pommade.
+465	1178	Voie nasale	MOMÉTASONE (FUROATE DE) MONOHYDRATÉ équivalant à MOMÉTASONE (FUROATE DE) 50 microgrammes/dose - NASONEX 50 microgrammes/dose, suspension pour pulvérisation nasale
+330	795	Voie orale	MONTELUKAST SODIQUE équivalant à MONTELUKAST 10 mg - SINGULAIR 10 mg, comprimé pelliculé.
+330	994	Voie orale	MONTELUKAST SODIQUE équivalant à MONTELUKAST 4 mg - SINGULAIR 4 mg, comprimé à croquer.
+330	811	Voie orale	MONTELUKAST SODIQUE équivalant à MONTELUKAST 5 mg - SINGULAIR 5 mg, comprimé à croquer.
+330	1069	Voie orale	MONTÉLUKAST SODIQUE équivalant à MONTÉLUKAST 4 mg - SINGULAIR 4 mg, granulés
+382	930	Voie orale	MOXIFLOXACINE (CHLORHYDRATE DE) équivalant à MOXIFLOXACINE  400 mg - OCTEGRA 400 mg, comprimé pelliculé -IZILOX 400 mg, comprimé pelliculé
+382	1352	Voie intraveineuse	MOXIFLOXACINE (CHLORHYDRATE DE) équivalant à MOXIFLOXACINE 400 mg/250 mL - IZILOX 400 mg/250 ml, solution pour perfusion
+212	471	Voie orale	MOXONIDINE 0,2 mg - PHYSIOTENS 0,2 mg, comprimé pelliculé.
+212	473	Voie orale	MOXONIDINE 0,4 mg - PHYSIOTENS 0,4 mg, comprimé pelliculé.
+456	1734	Voie cutanée	MUPIROCINE 2 % - BACTROBAN 2 POUR CENT, pommade
+456	1151	Voie cutanée	MUPIROCINE 2 % - MUPIDERM 2 %, pommade
+319	758	Voie orale	MYCOPHENOLATE MOFETIL 250 mg - CELLCEPT 250 mg, gélule.
+319	820	Voie orale	MYCOPHENOLATE MOFETIL 500 mg - CELLCEPT 500 mg, comprimé pelliculé
+581	1462	Voie orale	MYCOPHENOLATE SODIQUE équivalant à ACIDE MYCOPHENOLIQUE 180 mg - MYFORTIC 180 mg, comprimé gastro-résistant
+581	1463	Voie orale	MYCOPHENOLATE SODIQUE équivalant à ACIDE MYCOPHENOLIQUE 360 mg - MYFORTIC 360 mg, comprimé gastro-résistant
+319	1517	Voie intraveineuse	MYCOPHÉNOLATE MOFÉTIL (CHLORHYDRATE DE) 500 mg - CELLCEPT 500 mg, poudre pour solution à diluer pour perfusion
+450	1233	Voie orale	MÉMANTINE (CHLORHYDRATE DE) 5 mg + 10 mg + 15 mg + 20 mg - EBIXA 5 mg + 10 mg + 15 mg + 20 mg, comprimé pelliculé
+450	1187	Voie orale	MÉMANTINE (CHLORHYDRATE DE) 5 mg / pression de 0,5 ml - EBIXA 5 mg/pression, solution buvable
+426	1794	Voie orale	MÉTHYLPHÉNIDATE (CHLORHYDRATE DE) 10 mg - RITALINE L.P. 10 mg, gélule à libération prolongée
+426	1437	Voie orale	MÉTHYLPHÉNIDATE (CHLORHYDRATE DE) 18 mg - CONCERTA LP 18 mg, comprimé à libération prolongée
+426	1795	Voie orale	MÉTHYLPHÉNIDATE (CHLORHYDRATE DE) 20 mg - RITALINE L.P. 20 mg, gélule à libération prolongée
+426	1985	Voie orale	MÉTHYLPHÉNIDATE (CHLORHYDRATE DE) 27 mg - CONCERTA LP 27 mg, comprimé à libération prolongée
+426	1796	Voie orale	MÉTHYLPHÉNIDATE (CHLORHYDRATE DE) 30 mg - RITALINE L.P. 30 mg, gélule à libération prolongée
+426	1438	Voie orale	MÉTHYLPHÉNIDATE (CHLORHYDRATE DE) 36 mg - CONCERTA LP 36 mg, comprimé à libération prolongée
+426	1797	Voie orale	MÉTHYLPHÉNIDATE (CHLORHYDRATE DE) 40 mg - RITALINE L.P. 40 mg, gélule à libération prolongée
+426	1439	Voie orale	MÉTHYLPHÉNIDATE (CHLORHYDRATE DE) 54 mg - CONCERTA LP 54 mg, comprimé à libération prolongée
+624	1594	Voie orale	NABUMETONE 500 mg - NABUCOX 500 mg, comprimé pelliculé
+39	67	Voie orale	NAFTIDROFURYL (OXALATE ACIDE DE) ou NAFTIDROFURYL (HYDROGENOOXALATE DE) 100 mg - PRAXILENE 100 mg, gélule.
+39	68	Voie orale	NAFTIDROFURYL (OXALATE ACIDE DE) ou NAFTIDROFURYL (HYDROGENOOXALATE DE) 200 mg - PRAXILENE 200 mg, comprimé pelliculé.
+249	574	Voie sous-cutanée / Voie intramusculaire / Voie intraveineuse	NALBUPHINE (CHLORHYDRATE DE) 20 mg /2 ml - NUBAIN 20 mg/2 ml, solution injectable.
+763	1954	Voie orale	NALMEFENE (CHLORHYDRATE DE) équivalant à NALMEFENE 18,06 mg - SELINCRO 18 mg, comprimé pelliculé
+186	402	Voie sous-cutanée / Voie intramusculaire / Voie intraveineuse	NALOXONE (CHLORHYDRATE DE) 0,4 mg/1 ml - NARCAN 0,4 mg/1 ml, solution injectable en ampoule.
+165	951	Voie orale	NALTREXONE (CHLORHYDRATE DE) 50 mg - NALOREX 50 mg, comprimé pelliculé sécable.
+165	342	Voie orale	NALTREXONE (CHLORHYDRATE DE) 50 mg - REVIA 50 mg, comprimé pelliculé sécable.
+110	221	Voie orale	NAPROXENE SODIQUE 550 mg - APRANAX 550 mg, comprimé pelliculé sécable
+290	694	Voie orale	NARATRIPTAN (CHLORHYDRATE DE) équivalant à NARATRIPTAN 2,5 mg - NARAMIG 2,5 mg, comprimé pelliculé.
+617	1562	Voie orale	NEBIVOLOL (CHLORHYDRATE DE) équivalant à NEBIVOLOL 5 mg + HYDROCHLOROTHIAZIDE 12,5 mg - CONEBILOX 5 mg/12,5 mg, comprimé pelliculé
+617	1575	Voie orale	NEBIVOLOL (CHLORHYDRATE DE) équivalant à NEBIVOLOL 5 mg + HYDROCHLOROTHIAZIDE 12,5 mg - TEMERITDUO 5 mg/12,5 mg, comprimé pelliculé
+617	1560	Voie orale	NEBIVOLOL (CHLORHYDRATE DE) équivalant à NEBIVOLOL 5 mg + HYDROCHLOROTHIAZIDE 25 mg - CONEBILOX 5 mg/25 mg, comprimé pelliculé
+617	1576	Voie orale	NEBIVOLOL (CHLORHYDRATE DE) équivalant à NEBIVOLOL 5 mg + HYDROCHLOROTHIAZIDE 25 mg - TEMERITDUO 5 mg/25 mg, comprimé pelliculé
+259	604	Voie orale	NEBIVOLOL (CHLORHYDRATE DE) équivalant à NEBIVOLOL 5 mg - TEMERIT 5 mg, comprimé quadrisécable - NEBILOX 5 mg, comprimé quadrisécable.
+370	908	Voie intramusculaire / Voie intraveineuse	NEFOPAM (CHLORHYDRATE DE) 20 mg/2 ml - ACUPAN, solution injectable.
+365	902	Voie orale	NEVIRAPINE ANHYDRE 200 mg - VIRAMUNE 200 mg, comprimé.
+232	533	Voie intraveineuse	NICARDIPINE (CHLORHYDRATE DE) 10 mg/10 ml - LOXEN 10 mg/10 ml, solution injectable (I.V.).
+232	1735	Voie orale	NICARDIPINE (CHLORHYDRATE DE) 50 mg - LOXEN LP 50 mg, gélule à libération prolongée
+36	63	Voie orale	NICERGOLINE 10 mg - SERMION 10 mg, gélule
+36	62	Voie orale	NICERGOLINE 5 mg - SERMION 5 mg, gélule
+214	478	Voie orale	NICORANDIL 10 mg - ADANCOR 10 mg, comprimé sécable - IKOREL 10 mg, comprimé sécable.
+214	480	Voie orale	NICORANDIL 20 mg - ADANCOR 20 mg, comprimé - IKOREL 20 mg, comprimé.
+454	1157	Voie buccale	NICOTINE (RÉSINATE DE) équivalant à NICOTINE 1,5 mg - NICOPASS 1,5 mg SANS SUCRE MENTHE FRAICHEUR, pastille édulcorée à l'aspartam et à l'acésulfame potassique
+454	1142	Voie buccale	NICOTINE (RÉSINATE DE) équivalant à NICOTINE 2 mg - NICORETTE 2 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au sorbitol
+454	1158	Voie buccale	NICOTINE (RÉSINATE DE) équivalant à NICOTINE 2 mg - NICORETTE MENTHE FRAICHE 2 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol et à l'acésulfame potassique
+454	1170	Voie buccale	NICOTINE (RÉSINATE DE) équivalant à NICOTINE 2 mg - NIQUITIN 2 mg MENTHE DOUCE SANS SUCRE, comprimé à sucer édulcoré à l'aspartam
+454	1143	Voie buccale	NICOTINE (RÉSINATE DE) équivalant à NICOTINE 4 mg - NICORETTE 4 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au sorbitol
+454	1159	Voie buccale	NICOTINE (RÉSINATE DE) équivalant à NICOTINE 4 mg - NICORETTE MENTHE FRAICHE 4 mg SANS SUCRE, gomme à mâcher médicamenteuse édulcorée au xylitol et à l'acésulfame potassique
+454	1161	Voie buccale	NICOTINE (RÉSINATE DE) équivalant à NICOTINE 4 mg - NIQUITINMINIS MENTHE FRAÎCHE 4 mg SANS SUCRE, comprimé à sucer édulcoré à l'acésulfame potassique
+454	1746	Voie buccale	NICOTINE (RÉSINATE DE) équivalent à NICOTINE 2,5 mg - NICOPASS MENTHE FRAICHEUR 2,5 mg SANS SUCRE, pastille édulcorée à l'aspartam et à l'acésulfame potassique
+460	1690	Voie buccale	NICOTINE 1 mg/dose - NICORETTESPRAY 1 mg/dose, solution pour pulvérisation buccale
+460	1595	Voie transdermique	NICOTINE 14 mg/24 h - NICOPATCHLIB 14 mg/24 heures, dispositif transdermique
+460	1163	Voie transdermique	NICOTINE 14 mg/24 h - NICOTINELL TTS 14 mg/24 h, dispositif transdermique
+460	1596	Voie transdermique	NICOTINE 21 mg/24 h - NICOPATCHLIB 21 mg/24 heures, dispositif transdermique
+460	1164	Voie transdermique	NICOTINE 21 mg/24 h - NICOTINELL TTS 21 mg/24 h, dispositif transdermique
+460	1597	Voie transdermique	NICOTINE 7 mg/24 h - NICOPATCHLIB 7 mg/24 heures, dispositif transdermique
+460	1162	Voie transdermique	NICOTINE 7 mg/24 h - NICOTINELL TTS 7 mg/24 H, dispositif transdermique
+49	85	Voie orale	NIFEDIPINE 20 mg - ADALATE 20 mg L.P., comprimé à libération prolongée.
+49	403	Voie orale	NIFEDIPINE 30 mg - CHRONADALATE L.P. 30 mg, comprimé osmotique pelliculé à libération prolongée.
+13	28	Voie orale	NIFUROXAZIDE 200 mg - NIFUROXAZIDE SANOFI-AVENTIS 200 mg, gélule - ERCEFURYL 200 mg, gelule
+13	27	Voie orale	NIFUROXAZIDE 4 % - ERCEFURYL 4 POUR CENT, suspension buvable.
+752	1928	Voie orale	NILOTINIB (CHLORHYDRATE DE) MONOHYDRATE équivalent à NILOTINIB 150 mg - NILOTINIB (CHLORHYDRATE DE) DIHYDRATE équivalent à NILOTINIB 150 mg - TASIGNA 150 mg, gélule
+752	1929	Voie orale	NILOTINIB (CHLORHYDRATE DE) MONOHYDRATE équivalent à NILOTINIB 200 mg - NILOTINIB (CHLORHYDRATE DE) DIHYDRATE équivalent à NILOTINIB 200 mg - TASIGNA 200 mg, gélule
+752	1930	Voie orale	NILOTINIB (CHLORHYDRATE DE) MONOHYDRATE équivalent à NILOTINIB 50 mg - NILOTINIB (CHLORHYDRATE DE) DIHYDRATE équivalent à NILOTINIB 50 mg - TASIGNA 50 mg, gélule
+291	695	Voie orale	NIMESULIDE 100 mg - NEXEN 100 mg, comprimé.
+683	1766	Voie intraveineuse	NIMODIPINE 10 mg/50 mL - NIMOTOP 10 mg/50 ml, solution injectable pour perfusion
+739	1897	Voie orale	NINTEDANIB (ESILATE DE) équivalent à NINTEDANIB 100 mg - OFEV 100 mg, capsule molle
+739	1898	Voie orale	NINTEDANIB (ESILATE DE) équivalent à NINTEDANIB 150 mg - OFEV 150 mg, capsule molle
+577	1454	Voie orale	NITISINONE 10 mg - ORFADIN 10 mg, gélule
+577	1453	Voie orale	NITISINONE 2 mg - ORFADIN 2 mg, gélule
+577	1736	Voie orale	NITISINONE 20 mg - ORFADIN 20 mg, gélule
+577	1455	Voie orale	NITISINONE 5 mg -  ORFADIN 5 mg, gélule
+50	86	Voie orale	NITRENDIPINE 10 mg - BAYPRESS 10 mg, comprimé  - NIDREL 10 mg, comprimé
+50	87	Voie orale	NITRENDIPINE 20 mg - BAYPRESS 20 mg, comprimé - NIDREL 20 mg, comprimé.
+716	1845	Voie orale	NOMEGESTROL (ACETATE DE) 2,5 mg + ESTRADIOL HEMIHYDRATE équivalant à ESTRADIOL 1,5 mg - ZOELY 2,5 mg/1,5 mg, comprimé pelliculé
+69	125	Voie orale	NOMEGESTROL (ACETATE DE) 5 mg - LUTENYL, comprimé sécable
+472	1200	Voie intraveineuse	NORADRÉNALINE (TARTRATE DE) 2mg/ml - LEVOPHED 8 mg/4 ml, solution injectable IV
+98	191	Voie orale	NORFLOXACINE 400 mg - NOROXINE 400 mg, comprimé enrobé
+370	1829	Voie orale	NÉFOPAM (CHLORHYDRATE DE) - ACUPAN, comprimé
+365	1397	Voie orale	NÉVIRAPINE ANHYDRE 400 mg - VIRAMUNE 400 mg, comprimé à libération prolongée
+243	1652	Voie intramusculaire	OCTREOTIDE (ACETATE D') équivalant à OCTREOTIDE 10 mg - SANDOSTATINE L.P. 10 mg, poudre et solvant pour suspension injectable
+243	564	Voie sous cutanée	OCTREOTIDE (ACETATE D') équivalant à OCTREOTIDE 100 µg/1 ml - SANDOSTATINE 100 microgrammes/1 ml, solution injectable/pour perfusion.
+243	1653	Voie intramusculaire	OCTREOTIDE (ACETATE D') équivalant à OCTREOTIDE 20 mg - SANDOSTATINE L.P. 20 mg, poudre et solvant pour suspension injectable
+243	1654	Voie intramusculaire	OCTREOTIDE (ACETATE D') équivalant à OCTREOTIDE 30 mg - SANDOSTATINE L.P. 30 mg, poudre et solvant pour suspension injectable
+243	563	Voie sous cutanée	OCTREOTIDE (ACETATE D') équivalant à OCTREOTIDE 50 µg/1 ml - SANDOSTATINE 50 microgrammes/1 ml, solution injectable/pour perfusion.
+243	565	Voie sous cutanée	OCTREOTIDE (ACETATE D') équivalant à OCTREOTIDE 500 µg/1 ml - SANDOSTATINE 500 microgrammes/1 ml, solution injectable/pour perfusion
+96	982	Voie auriculaire	OFLOXACINE 1,5 mg/0,5 ml - OFLOCET 1,5 mg/0,5 ml, solution auriculaire en récipient unidose.
+96	187	Voie orale	OFLOXACINE 200 mg - OFLOCET 200 mg, comprimé pelliculé sécable.
+96	378	Voie intraveineuse (pour perfusion)	OFLOXACINE 200 mg/40 ml - OFLOCET 200 mg/40 ml, solution injectable pour perfusion.
+293	701	Voie orale	OLANZAPINE 10 mg - ZYPREXA 10 mg, comprimé enrobé.
+293	729	Voie orale	OLANZAPINE 10 mg - ZYPREXA VELOTAB 10 mg, comprimé orodispersible.
+293	797	Voie orale	OLANZAPINE 15 mg - ZYPREXA 15 mg, comprimé enrobé.
+293	796	Voie orale	OLANZAPINE 15 mg - ZYPREXA VELOTAB 15 mg, comprimé orodispersible.
+293	702	Voie orale	OLANZAPINE 2,5 mg - ZYPREXA 2,5 mg, comprimé enrobé.
+293	815	Voie orale	OLANZAPINE 20 mg - ZYPREXA 20 mg, comprimé enrobé
+293	798	Voie orale	OLANZAPINE 20 mg - ZYPREXA VELOTAB 20 mg, comprimé orodispersible.
+293	703	Voie orale	OLANZAPINE 5 mg - ZYPREXA 5 mg, comprimé enrobé.
+293	730	Voie orale	OLANZAPINE 5 mg - ZYPREXA VELOTAB 5 mg, comprimé orodispersible.
+293	704	Voie orale	OLANZAPINE 7,5 mg - ZYPREXA 7,5 mg, comprimé enrobé.
+653	1679	Voie orale	OLMESARTAN MEDOXOMIL 20 mg + HYDROCHLOROTHIAZIDE 12,5 mg - COOLMETEC 20 mg/12,5 mg, comprimé pelliculé
+653	1680	Voie orale	OLMESARTAN MEDOXOMIL 20 mg + HYDROCHLOROTHIAZIDE 25 mg - COOLMETEC 20 mg/25 mg, comprimé pelliculé
+653	1681	Voie orale	OLMESARTAN MEDOXOMIL 40 mg + HYDROCHLOROTHIAZIDE 12,5 mg - COOLMETEC 40 mg/12,5 mg, comprimé pelliculé
+653	1682	Voie orale	OLMESARTAN MEDOXOMIL 40 mg + HYDROCHLOROTHIAZIDE 25 mg - COOLMETEC 40 mg/25 mg, comprimé pelliculé
+4	350	Voie orale	OMEPRAZOLE 10 mg - MOPRAL 10 mg, gélule gastro-résistante - ZOLTUM 10 mg, gélule gastro-résistante
+4	14	Voie orale	OMEPRAZOLE 20 mg - MOPRAL 20 mg, gélule gastro-résistante - ZOLTUM 20 mg, gélule gastro-résistante
+381	929	Voie orale	OMEPRAZOLE MAGNESIUM équivalant à 20 mg OMEPRAZOLE - OMEPRAZOLE BAYER 20 mg, comprimé gastro-résistant.
+381	1424	Voie orale	OMEPRAZOLE MAGNESIUM équivalant à OMEPRAZOLE 10 mg - OMEPRAZOLE BAYER 10 mg, comprimé gastro-résistant
+223	508	Voie intraveineuse (pour perfusion)	OMEPRAZOLE SODIQUE équivalant à OMEPRAZOLE 40 mg - MOPRAL 40 mg, poudre pour solution pour perfusion
+498	1261	Voie orale	OMÉGA-3 (ESTERS ÉTHYLIQUES 90 D'ACIDES) 1000 mg - OMACOR 1000 mg, capsule molle
+220	509	Voie intraveineuse	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à 2 mg/ml d'ONDANSETRON - ZOPHREN 2 mg/ml, solution injectable en ampoule (I.V.).
+220	503	Voie orale	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à ONDANSETRON 4 mg - ZOPHREN 4 mg, comprimé pelliculé.
+220	500	Voie orale	ONDANSETRON (CHLORHYDRATE D') DIHYDRATE équivalant à ONDANSETRON 8 mg - ZOPHREN 8 mg, comprimé pelliculé.
+244	605	Voie orale	ONDANSETRON 4 mg - ZOPHREN 4 mg, lyophilisat oral.
+244	566	Voie orale	ONDANSETRON 8 mg - ZOPHREN 8 mg, lyophilisat oral.
+433	1071	Voie orale	ORLISTAT 120 mg - XENICAL 120 mg, gélule
+331	799	Voie orale	ORNITHINE (OXOGLURATE D') 10 g - CETORNAN 10 g, poudre pour solution buvable et solution entérale.
+331	800	Voie orale	ORNITHINE (OXOGLURATE D') 5 g - CETORNAN 5 g, poudre pour solution buvable et solution entérale en sachet.
+554	1405	Voie orale	OSELTAMIVIR (PHOSPHATE D') équivalant à OSELTAMIVIR 30 mg - TAMIFLU 30 mg, gélule
+554	1406	Voie orale	OSELTAMIVIR (PHOSPHATE D') équivalant à OSELTAMIVIR 45 mg - TAMIFLU 45 mg, gélule
+554	1407	Voie orale	OSELTAMIVIR (PHOSPHATE D') équivalant à OSELTAMIVIR 75 mg - TAMIFLU 75 mg, gélule
+245	568	Voie intraveineuse (pour perfusion)	OXALIPLATINE 5 mg/ml - ELOXATINE 5 mg/ml, poudre pour solution pour perfusion.
+245	668	Voie intraveineuse à diluer pour perfusion	OXALIPLATINE 5 mg/ml - ELOXATINE 5 mg/ml, solution à diluer pour perfusion
+746	1913	Voie orale	OXAZEPAM 10 mg - SERESTA 10 mg, comprimé
+746	1914	Voie orale	OXAZEPAM 50 mg - SERESTA 50 mg, comprimé sécable
+255	588	Voie orale	OXCARBAZEPINE 150 mg - TRILEPTAL 150 mg, comprimé pelliculé.
+255	589	Voie orale	OXCARBAZEPINE 300 mg - TRILEPTAL 300 mg, comprimé pelliculé.
+255	590	Voie orale	OXCARBAZEPINE 600 mg - TRILEPTAL 600 mg, comprimé pelliculé.
+372	952	Voie orale	OXOMEMAZINE 0,33 mg/ml - TOPLEXIL 0,33 mg/ml SANS SUCRE, solution buvable édulcorée à l'acésulfame potassique.
+372	912	Voie orale	OXOMEMAZINE 0,33 mg/ml - TOPLEXIL 0,33 mg/ml, sirop
+625	1602	Voie orale	OXYBATE DE SODIUM 500 mg/mL - XYREM 500 mg/mL, solution buvable
+73	131	Voie orale	OXYBUTYNINE (CHLORHYDRATE D’) 5 mg - DITROPAN 5 mg, comprimé sécable
+471	1191	Voie orale	OXYCODONE (CHLORHYDRATE D') 10 mg - OXYCONTIN LP 10 mg, comprimé pelliculé à libération prolongée
+471	1355	Voie orale	OXYCODONE (CHLORHYDRATE D') 10 mg - OXYNORM 10 mg, gélule
+471	1305	Voie intraveineuse / Voie sous-cutanée	OXYCODONE (CHLORHYDRATE D') 10 mg/mL - OXYNORM 10 mg/ml, solution injectable
+471	1192	Voie orale	OXYCODONE (CHLORHYDRATE D') 15 mg - OXYCONTIN LP 15 mg, comprimé pelliculé à libération prolongée
+471	1193	Voie orale	OXYCODONE (CHLORHYDRATE D') 20 mg - OXYCONTIN LP 20 mg, comprimé pelliculé à libération prolongée
+471	1356	Voie orale	OXYCODONE (CHLORHYDRATE D') 20 mg - OXYNORM 20 mg, gélule
+471	1194	Voie orale	OXYCODONE (CHLORHYDRATE D') 30 mg - OXYCONTIN LP 30 mg, comprimé pelliculé à libération prolongée
+471	1195	Voie orale	OXYCODONE (CHLORHYDRATE D') 40 mg - OXYCONTIN LP 40 mg, comprimé pelliculé à libération prolongée
+471	1190	Voie orale	OXYCODONE (CHLORHYDRATE D') 5 mg - OXYCONTIN L.P. 5 mg, comprimé pelliculé à libération prolongée
+471	1354	Voie orale	OXYCODONE (CHLORHYDRATE D') 5 mg - OXYNORM 5 mg, gélule
+471	1306	Voie intraveineuse / Voie sous-cutanée	OXYCODONE (CHLORHYDRATE D') 50 mg/mL- OXYNORM 50 mg/ml, solution injectable
+471	1196	Voie orale	OXYCODONE (CHLORHYDRATE D') 60 mg - OXYCONTIN LP 60 mg, comprimé pelliculé à libération prolongée
+471	1197	Voie orale	OXYCODONE (CHLORHYDRATE D') 80 mg - OXYCONTIN LP 80 mg, comprimé pelliculé à libération prolongée
+605	1532	Voie orale	OXYCODONE (CHLORHYDRATE DE) 10 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à NALOXONE (CHLORHYDRATE DE) 5 mg  -TARGINACT 10 mg/5 mg, comprimé à libération prolongée
+605	1598	Voie orale	OXYCODONE (CHLORHYDRATE DE) 15 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à  NALOXONE (CHLORHYDRATE DE) 7,5 mg - TARGINACT 15 mg/7,5 mg, comprimé à libération prolongée
+605	1599	Voie orale	OXYCODONE (CHLORHYDRATE DE) 2,5 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à  NALOXONE (CHLORHYDRATE DE) 1,25 mg - TARGINACT 2,5 mg/1,25 mg, comprimé à libération prolongée
+605	1533	Voie orale	OXYCODONE (CHLORHYDRATE DE) 20 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à NALOXONE (CHLORHYDRATE DE) 10 mg  -TARGINACT 20 mg/10 mg, comprimé à libération prolongée
+605	1600	Voie orale	OXYCODONE (CHLORHYDRATE DE) 30 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à  NALOXONE (CHLORHYDRATE DE) 15 mg - TARGINACT 30 mg/15 mg, comprimé à libération prolongée
+605	1534	Voie orale	OXYCODONE (CHLORHYDRATE DE) 40 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à NALOXONE (CHLORHYDRATE DE) 20 mg  -TARGINACT 40 mg/20 mg, comprimé à libération prolongée
+605	1531	Voie orale	OXYCODONE (CHLORHYDRATE DE) 5 mg + NALOXONE (CHLORHYDRATE DE) DIHYDRATE équivalant à NALOXONE (CHLORHYDRATE DE) 2,5 mg  -TARGINACT 5 mg/2,5 mg, comprimé à libération prolongée
+251	578	Voie intramusculaire / Voie intraveineuse / Voie intramurale	OXYTOCINE 5 UI/1 ml - SYNTOCINON 5 U.I/1 ml, solution injectable en ampoule.
+645	1655	Voie intraveineuse	PACLITAXEL (DANS UNE FORMULATION DE NANOPARTICULES LIEES A L'ALBUMINE) 100 mg - ABRAXANE 5 mg/mL, poudre pour suspension injectable pour perfusion
+192	418	Voie intraveineuse (pour perfusion)	PACLITAXEL 6 mg/1 ml - TAXOL 6 mg/ml, solution à diluer pour perfusion.
+691	1809	Voie intramusculaire	PALIPERIDONE (PALMITATE DE) équivalant à PALIPERIDONE 150 mg et PALIPERIDONE 100 mg - XEPLION 150 mg et XEPLION 100 mg, suspension injectable à libération prolongée
+691	1784	Voie intramusculaire	PALIPERIDONE (PALMITATE DE) équivalent à PALIPERIDONE 100 mg - XEPLION 100 mg, suspension injectable à libération prolongée
+691	1783	Voie intramusculaire	PALIPERIDONE (PALMITATE DE) équivalent à PALIPERIDONE 150 mg - XEPLION 150 mg, suspension injectable à libération prolongée
+691	1785	Voie intramusculaire	PALIPERIDONE (PALMITATE DE) équivalent à PALIPERIDONE 25 mg - XEPLION 25 mg, suspension injectable à libération prolongée
+691	1786	Voie intramusculaire	PALIPERIDONE (PALMITATE DE) équivalent à PALIPERIDONE 50 mg - XEPLION 50 mg, suspension injectable à libération prolongée
+691	1787	Voie intramusculaire	PALIPERIDONE (PALMITATE DE) équivalent à PALIPERIDONE 75 mg - XEPLION 75 mg, suspension injectable à libération prolongée
+586	1471	Voie intraveineuse	PALONOSETRON (CHLORHYDRATE DE) équivalent à PALONOSETRON 50 microgrammes/mL - ALOXI 250 microgrammes, solution injectable
+262	711	Voie orale	PANTOPRAZOLE SODIQUE SESQUIHYDRATE équivalant à PANTOPRAZOLE 20 mg - EUPANTOL 20 mg, comprimé gastro-résistant - INIPOMP 20 mg, comprimé gastro-résistant - PANTIPP 20 mg, comprimé gastro-résistant - PANTOZOL CONTROL 20 mg, comprimé gastro-résistant
+262	615	Voie orale	PANTOPRAZOLE SODIQUE SESQUIHYDRATE équivalant à PANTOPRAZOLE 40 mg - EUPANTOL 40 mg, comprimé gastro-résistant - INIPOMP 40 mg, comprimé gastro-résistant - PANTIPP 40 mg, comprimé gastro-résistant.
+262	886	Voie intraveineuse	PANTOPRAZOLE SODIQUE SESQUIHYDRATÉ équivalant à PANTOPRAZOLE 40 mg - EUPANTOL 40 mg, poudre pour solution injectable (IV) - INIPOMP 40 mg, poudre pour solution injectable (IV).
+545	1368	Voie orale	PARACETAMOL 400 mg + CAFEINE 50 mg + CODEINE (PHOSPHATE DE) HEMIHYDRATE 20 mg - PRONTALGINE, comprimé
+641	1643	Voie orale	PARACETAMOL 500 mg + CODEINE (PHOSPHATE DE) HEMIHYDRATE 30 mg - DAFALGAN CODEINE, comprimé pelliculé
+467	1181	Voie orale	PARACÉTAMOL  500 mg  +  ACIDE ASCORBIQUE  200 mg +  PHÉNIRAMINE (MALÉATE DE) 25 mg - FERVEX ADULTES, granulés pour solution buvable en sachet
+470	1189	Voie orale	PARACÉTAMOL  500 mg +  CHLORPHÉNAMINE (MALÉATE DE) 4 mg - HUMEXLIB PARACETAMOL CHLORPHENAMINE 500 mg/4 mg, gélule
+467	1300	Voie orale	PARACÉTAMOL  500 mg + ACIDE ASCORBIQUE 200 mg + PHÉNIRAMINE (MALÉATE DE) 25 mg - FERVEX ADULTES SANS SUCRE, granulé pour solution buvable en sachet
+140	284	Voie orale	PAROXETINE (CHLORHYDRATE DE) équivalant à PAROXETINE 20 mg - DEROXAT 20 mg, comprimé pelliculé sécable.
+709	1827	Voie orale	PAZOPANIB (CHLORHYDRATE DE) équivalant à PAZOPANIB 200 mg - VOTRIENT 200 mg, comprimé pelliculé
+709	1828	Voie orale	PAZOPANIB (CHLORHYDRATE DE) équivalant à PAZOPANIB 400 mg - VOTRIENT 400 mg, comprimé pelliculé
+533	1347	Voie intraveineuse	PEMETREXED DISODIQUE équivalant à PEMETREXED 100 mg - PEMETREXED 100 mg - ALIMTA 100 mg, poudre pour solution à diluer pour perfusion
+533	1348	Voie intraveineuse	PEMETREXED DISODIQUE équivalant à PEMETREXED 500 mg - PEMETREXED 500 mg - ALIMTA 500 mg, poudre pour solution à diluer pour perfusion
+712	1834	Voie inhalée	PENTAMIDINE (DIISETIONATE DE) 300 mg - PENTACARINAT 300 mg, poudre pour aérosol et pour usage parentéral
+35	61	Voie orale	PENTOXIFYLLINE 400 mg - TORENTAL LP 400 mg, comprimé enrobé à libération prolongée
+770	1973	Voie orale	PERAMPANEL 10 mg - FYCOMPA 10 mg, comprimé pelliculé
+770	1974	Voie orale	PERAMPANEL 12 mg - FYCOMPA 12 mg, comprimé pelliculé
+770	1975	Voie orale	PERAMPANEL 2 mg - FYCOMPA 2 mg, comprimé pelliculé
+770	1978	Voie orale	PERAMPANEL 4 mg - FYCOMPA 4 mg, comprimé pelliculé
+770	1977	Voie orale	PERAMPANEL 6 mg - FYCOMPA 6 mg, comprimé pelliculé
+770	1976	Voie orale	PERAMPANEL 8 mg - FYCOMPA 8 mg, comprimé pelliculé
+423	1121	Voie orale	PERINDOPRIL ARGININE 10 mg équivalant à PERINDOPRIL 6,79 mg + INDAPAMIDE 2,5 mg - PERINDOPRIL TERT-BUTYLAMINE 8 mg équivalant à PERINDOPRIL 6,79 mg + INDAPAMIDE 2,5 mg - PERINDOPRIL TOSILATE 10 mg équivalant à PERINDOPRIL 6,79 mg + INDAPAMIDE 2,5 mg - BIPRETERAX 10 mg/2,5 mg, comprimé pelliculé
+423	1050	Voie orale	PERINDOPRIL ARGININE 5 mg équivalant à 3,395 mg de PERINDOPRIL + INDAPAMIDE 1,25 mg - PERINDOPRIL TOSILATE 5 mg équivalant à 3,395 mg de PERINDOPRIL + INDAPAMIDE 1,25 mg - BIPRETERAX 5 mg/1,25 mg, comprimé pelliculé.
+300	724	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 2 mg équivalant à 1,67 mg de PERINDOPRIL +  INDAPAMIDE 0,625 mg - PERINDOPRIL/INDAPAMIDE ARROW LAB   2 mg/0,625 mg, comprimé sécable - PERINDOPRIL ARGININE 2,5 mg équivalant à 1,67 mg de PERINDOPRIL + INDAPAMIDE 0,625 mg - PRETERAX 2,5 mg/0,625 mg, comprimé pelliculé.
+217	493	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 2 mg, équivalant à 1,67 mg de PERINDOPRIL - PERINDOPRIL ARROW GENERIQUES 2 mg, comprimé - PERINDOPRIL ARGININE 2,5 mg, équivalant à 1,67 mg de PERINDOPRIL - PERINDOPRIL TOSILATE  2,5 mg, équivalant à 1,67 mg de PERINDOPRIL - COVERSYL 2,5 mg, comprimé pelliculé.
+587	1553	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 2,85 mg - PERINDOPRIL ARGININE 3,5 mg + AMLODIPINE (BESILATE DE) équivalent à AMLODIPINE 2,5 mg - AMPLIVAL 3,5 mg/2,5 mg, comprimé
+300	723	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 4 mg  équivalant à 3,35 mg de PERINDROPRIL + INDAPAMIDE 1,25 mg - PERINDOPRIL/INDAPAMIDE ARROW LAB 4 mg/1,25 mg, comprimé - PERINDOPRIL ARGININE 5 mg équivalant à 3,35 mg de PERINDOPRIL  + INDAPAMIDE 1,25 mg - BIPRETERAX 5 mg/1,25 mg, comprimé pelliculé.
+587	1472	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 4 mg - PERINDOPRIL ARGININE 5 mg + AMLODIPINE (BESILATE DE) équivalent à AMLODIPINE 10 mg - COVERAM 5 mg/10 mg, comprimé
+217	494	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 4 mg, équivalant à 3,35 mg de PERINDOPRIL - PERINDOPRIL ARROW GENERIQUES 4 mg, comprimé sécable - PERINDOPRIL ARGININE 5 mg, équivalant à 3,35 mg de PERINDOPRIL - PERINDOPRIL TOSILATE 5 mg, équivalant à 3,35 mg de PERINDOPRIL- COVERSYL 5 mg, comprimé pelliculé sécable.
+587	1474	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 4 mg- PERINDOPRIL ARGININE 5 mg + AMLODIPINE (BESILATE DE) équivalant à AMLODIPINE 5 mg- COVERAM 5 mg/5 mg, comprimé
+587	1554	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 5,70 mg - PERINDOPRIL ARGININE 7 mg + AMLODIPINE (BESILATE DE) équivalent à AMLODIPINE 5 mg - AMPLIVAL 7 mg/5 mg, comprimé
+587	1475	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 8 mg - PERINDOPRIL ARGININE 10 mg + AMLODIPINE (BESILATE DE) équivalant à AMLODIPINE 10 mg - COVERAM 10 mg/10 mg, comprimé
+217	521	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 8 mg, équivalant à 6,73 mg de PERINDOPRIL - PERINDOPRIL ARROW GENERIQUES 8 mg, comprimé - PERINDOPRIL ARGININE 10 mg, équivalant à 6,73 mg de PERINDOPRIL - PERINDOPRILTOSILATE 10 mg, équivalant à 6,73 mg de PERINDOPRIL - COVERSYL 10 mg, comprimé pelliculé.
+587	1476	Voie orale	PERINDOPRIL TERT-BUTYLAMINE 8 mg- PERINDOPRIL ARGININE 10 mg + AMLODIPINE (BESILATE DE) équivalant à AMLODIPINE 5 mg- COVERAM 10 mg/5 mg, comprimé
+423	1049	Voie orale	PERINDOPRIL ARGININE  2,5 mg équivalant à 1,6975 mg de PERINDOPRIL+ INDAPAMIDE 0,625 mg - PRETERAX 2,5 mg/0,625 mg,  comprimé pelliculé.
+408	1011	Voie intramusculaire / Voie intraveineuse	PETHIDINE (CHLORHYDRATE DE) 50 mg/ml - DOLOSAL 100 mg/2 ml, solution injectable.
+6	1608	Voie orale	PHLOROGLUCINOL (DIHYDRATE) 160 mg - SPASFON LYOC 160 mg, lyophilisat oral
+6	17	Voie orale	PHLOROGLUCINOL (HYDRATE) 80 mg - SPASFON LYOC 80 mg, lyophilisat oral.
+417	1030	Voie intramusculaire / Voie intraveineuse	PHLOROGLUCINOL DIHYDRATE   40 mg/4 ml + TRIMETHYLPHLOROGLUCINOL 0,04 mg/4 ml - SPASFON, solution injectable en ampoule.
+378	924	Voie orale	PHOLCODINE 131 mg/100 ml - BIOCALYPTOL 6,55 mg/5 ml SANS SUCRE, sirop édulcoré à la saccharine sodique et au maltitol liquide.
+378	925	Voie orale	PHOLCODINE 131 mg/100 ml - BIOCALYPTOL, sirop.
+169	348	Voie orale	PINAVERIUM (BROMURE DE) 100 mg - DICETEL 100 mg, comprimé pelliculé.
+260	610	Voie intraveineuse (pour perfusion)	PIPERACILLINE SODIQUE équivalant à PIPERACILLINE 2 g + TAZOBACTAM SODIQUE équivalant à TAZOBACTAM 0,25 g - TAZOCILLINE 2 g/0,25 g, poudre pour solution pour perfusion.
+260	611	Voie intraveineuse (pour perfusion)	PIPERACILLINE SODIQUE équivalant à PIPERACILLINE 4 g + TAZOBACTAM SODIQUE équivalant à TAZOBACTAM 0,5 g - TAZOCILLINE 4 g/0,5 g, poudre pour solution pour perfusion.
+144	291	Voie orale	PIRACETAM 20 g/100 ml - NOOTROPYL 20 %, solution buvable.
+144	292	Voie orale	PIRACETAM 400 mg - NOOTROPYL 400 mg, gélule
+144	293	Voie orale	PIRACETAM 800 mg - NOOTROPYL 800 mg, comprimé pelliculé
+705	1821	Voie orale	PIRFENIDONE 267 mg - ESBRIET 267 mg, comprimé pelliculé
+705	1862	Voie orale	PIRFENIDONE 534 mg - ESBRIET 534 mg, comprimé pelliculé
+705	1822	Voie orale	PIRFENIDONE 801 mg - ESBRIET 801 mg, comprimé pelliculé
+107	212	Voie orale	PIROXICAM 10 mg - FELDENE 10 mg, gélule
+107	213	Voie orale	PIROXICAM 20 mg - FELDENE 20 mg, gélule
+107	216	Voie intramusculaire	PIROXICAM 20 mg - FELDENE 20 mg/1 ml, solution injectable en ampoule (IM).
+107	214	Voie orale	PIROXICAM 20 mg - FELDENE DISPERSIBLE 20 mg, comprimé sécable
+722	1861	Voie sous cutanée	PLERIXAFOR 20 mg/ml - MOZOBIL 20 mg/ml, solution pour injection
+747	1916	Voie orale	POMALIDOMIDE 1 mg - IMNOVID 1 mg, gélule
+747	1917	Voie orale	POMALIDOMIDE 2 mg - IMNOVID 2 mg, gélule
+747	1918	Voie orale	POMALIDOMIDE 3 mg - IMNOVID 3 mg, gélule
+747	1919	Voie orale	POMALIDOMIDE 4 mg - IMNOVID 4 mg, gélule
+618	1691	Voie orale	POSACONAZOLE 100 mg - NOXAFIL 100 mg, comprimé gastro-résistant
+618	1629	Voie intraveineuse	POSACONAZOLE 300 mg par flacon - NOXAFIL 300 mg, solution à diluer pour perfusion
+618	1563	Voie orale	POSACONAZOLE 40 mg/mL - NOXAFIL 40 mg/mL, suspension buvable
+63	1009	Voie buccale	POVIDONE IODEE 10 % - BETADINE 10 POUR CENT, solution pour bain de bouche.
+332	931	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATE équivalant à  PRAMIPEXOLE 1,1 mg - SIFROL 1,1 mg, comprimé.
+332	841	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATE équivalant à PRAMIPEXOLE 0,088 mg - SIFROL 0,088 mg, comprimé
+332	802	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATE équivalant à PRAMIPEXOLE 0,18 mg - SIFROL 0,18 mg, comprimé - MIRAPEXIN 0,18 mg, comprimé.
+332	840	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATE équivalant à PRAMIPEXOLE 0,35 mg - SIFROL 0,35 mg, comprimé
+332	801	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATE équivalant à PRAMIPEXOLE 0,7 mg - SIFROL 0,7 mg, comprimé - MIRAPEXIN 0,7 mg, comprimé.
+332	1171	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATÉ équivalant à PRAMIPEXOLE 0,26 mg - SIFROL 0,26 mg, comprimé à libération prolongée
+332	1172	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATÉ équivalant à PRAMIPEXOLE 0,52 mg - SIFROL 0,52 mg, comprimé à libération prolongée
+332	1297	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATÉ équivalant à PRAMIPEXOLE 1,57 mg - SIFROL 1,57 mg, comprimé à libération prolongée
+332	1174	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATÉ équivalant à PRAMIPEXOLE 2,1 mg - SIFROL 2,1 mg, comprimé à libération prolongée
+332	1298	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATÉ équivalant à PRAMIPEXOLE 2,62 mg - SIFROL 2,62 mg, comprimé à libération prolongée
+332	1299	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATÉ équivalant à PRAMIPEXOLE 3,15 mg - SIFROL 3,15 mg, comprimé à libération prolongée
+332	1173	Voie orale	PRAMIPEXOLE (DICHLORHYDRATE DE) MONOHYDRATÉ équivalant à PRMIPEXOLE 1,05 mg - SIFROL 1,05 mg, comprimé à libération prolongée
+601	1525	Voie orale	PRASUGREL (CHLORHYDRATE DE) équivalant à PRASUGREL 5 mg - PRASUGREL (BROMHYDRATE DE) équivalant à PRASUGREL 5 mg - PRASUGREL (BESILATE DE) équivalent à PRASUGREL 5 mg - EFIENT 5 mg, comprimé pelliculé
+601	1519	Voie orale	PRASUGREL (CHLORHYDRATE DE) équivalent à PRASUGREL 10 mg - PRASUGREL (BROMHYDRATE DE) équivalent à PRASUGREL 10 mg - PRASUGREL (BESILATE DE) équivalent à PRASUGREL 10 mg - EFIENT 10 mg, comprimé pelliculé
+178	379	Voie orale	PRAVASTATINE SODIQUE 10 mg - ELISOR 10 mg, comprimé sécable - VASTEN 10 mg, comprimé sécable.
+178	380	Voie orale	PRAVASTATINE SODIQUE 20 mg - ELISOR 20 mg, comprimé sécable - VASTEN 20 mg, comprimé sécable.
+178	381	Voie orale	PRAVASTATINE SODIQUE 40 mg - ELISOR 40 mg, comprimé - VASTEN 40 mg, comprimé.
+356	874	Voie orale	PRAZEPAM 10 mg - LYSANXIA 10 mg, comprimé.
+76	135	Voie orale	PREDNISOLONE (METASULFOBENZOATE SODIQUE DE) équivalant à PREDNISOLONE 20 mg - SOLUPRED 20 mg, comprimé effervescent.
+76	670	Voie orale	PREDNISOLONE (METASULFOBENZOATE SODIQUE DE) équivalant à PREDNISOLONE 20 mg - SOLUPRED 20 mg, comprimé orodispersible
+76	134	Voie orale	PREDNISOLONE (METASULFOBENZOATE SODIQUE DE) équivalant à PREDNISOLONE 5 mg - SOLUPRED 5 mg, comprimé effervescent.
+77	445	Voie orale	PREDNISONE 1 mg - CORTANCYL 1 mg, comprimé.
+77	137	Voie orale	PREDNISONE 20 mg - CORTANCYL 20 mg, comprimé sécable
+77	136	Voie orale	PREDNISONE 5 mg - CORTANCYL 5 mg, comprimé sécable.
+68	123	Voie orale ou vaginale	PROGESTERONE 100 mg - UTROGESTAN 100 mg, capsule molle orale ou vaginale
+68	124	Voie orale ou vaginale	PROGESTERONE 200 mg - UTROGESTAN 200 mg, capsule molle orale ou vaginale
+573	1446	Voie orale	PROPAFENONE (CHLORHYDRATE DE) 300 mg - RYTHMOL 300 mg, comprimé pelliculé sécable
+292	1668	Voie intraveineuse	PROPOFOL 10 mg - DIPRIVAN 10 mg/ml, émulsion injectable en seringue pré-remplie
+292	1288	Voie intraveineuse	PROPOFOL 10 mg/mL - DIPRIVAN 200 mg/20 ml, émulsion injectable (IV) en ampoule
+292	696	Voie intraveineuse	PROPOFOL 10 mg/ml - DIPRIVAN 1 g/100 ml, émulsion injectable (IV) en flacon.
+292	1669	Voie intraveineuse	PROPOFOL 20 mg - DIPRIVAN 20 mg/ml, émulsion injectable en seringue pré-remplie
+292	1339	Voie intraveineuse	PROPOFOL 20 mg/mL - DIPRIVAN 20 mg/ml, émulsion injectable
+42	74	Voie orale	PROPRANOLOL (CHLORHYDRATE DE) 40 mg - AVLOCARDYL 40 mg, comprimé sécable.
+42	1483	Voie intraveineuse	PROPRANOLOL (CHLORHYDRATE DE) 5 mg/5 mL - KARNODYL 5 mg/5 ml, solution injectable en ampoule
+495	1252	Voie orale	PRÉGABALINE 100 mg - LYRICA 100 mg, gélule
+495	1253	Voie orale	PRÉGABALINE 150 mg - LYRICA 150 mg, gélule
+495	1645	Voie orale	PRÉGABALINE 20 mg/mL - LYRICA 20 mg/mL, solution buvable
+495	1254	Voie orale	PRÉGABALINE 200 mg - LYRICA 200 mg, gélule
+495	1277	Voie orale	PRÉGABALINE 225 mg - LYRICA 225 mg, gélule
+495	1249	Voie orale	PRÉGABALINE 25 mg - LYRICA 25 mg, gélule
+495	1255	Voie orale	PRÉGABALINE 300 mg - LYRICA 300 mg, gélule
+495	1250	Voie orale	PRÉGABALINE 50 mg - LYRICA 50 mg, gélule
+495	1251	Voie orale	PRÉGABALINE 75 mg - LYRICA 75 mg, gélule
+146	296	Voie orale	PYRANTEL (EMBONATE DE) équivalant à PYRANTEL 125 mg - COMBANTRIN 125 mg, comprimé.
+146	295	Voie orale	PYRANTEL (EMBONATE DE) équivalant à PYRANTEL 125 mg/2,5 ml - COMBANTRIN 125 mg/2,5 ml, suspension buvable.
+56	100	Voie orale	QUINAPRIL (CHLOHRYDRATE DE) équivalant à QUINAPRIL 20 mg - ACUITEL 20 mg, comprimé enrobé sécable - KOREC 20 mg, comprimé enrobé sécable.
+224	517	Voie orale	QUINAPRIL (CHLORHYDRATE DE) équivalant à  QUINAPRIL 20 mg + HYDROCHLOROTHIAZIDE 12,5 mg - ACUILIX 20 mg/12,5 mg, comprimé pelliculé sécable - KORETIC 20 mg/12,5 mg, comprimé pelliculé sécable.
+56	453	Voie orale	QUINAPRIL (CHLORHYDRATE DE) équivalant à QUINAPRIL 5 mg - ACUITEL 5 mg, comprimé enrobé sécable - KOREC 5 mg, comprimé pelliculé sécable.
+484	1226	Voie orale	QUÉTIAPINE (FUMARATE DE) équivalant à QUETIAPINE 300 mg - XEROQUEL LP 300 mg, comprimé à libération prolongée
+484	1227	Voie orale	QUÉTIAPINE (FUMARATE DE) équivalant à QUETIAPINE 400 mg - XEROQUEL LP 400 mg, comprimé à libération prolongée
+484	1223	Voie orale	QUÉTIAPINE (FUMARATE DE) équivalant à QUETIAPINE 50 mg - XEROQUEL LP 50 mg, comprimé à libération prolongée
+397	971	Voie orale	RABEPRAZOLE SODIQUE 10 mg - PARIET 10 mg, comprimé gastro-résistant.
+397	972	Voie orale	RABEPRAZOLE SODIQUE 20 mg - PARIET 20 mg, comprimé gastro-résistant.
+488	1692	Voie orale	RACÉCADOTRIL 10 mg pour un sachet- TIORFAN 10 mg NOURRISSONS, poudre orale en sachet-dose
+488	1235	Voie orale	RACÉCADOTRIL 100 mg - TIORFAN 100 mg, gélule
+488	1693	Voie orale	RACÉCADOTRIL 30 mg pour un sachet - TIORFAN 30 mg ENFANTS, poudre orale en sachet-dose
+367	963	Voie orale	RALOXIFENE (CHLORHYDRATE DE) 60 mg - EVISTA 60 mg, comprimé pelliculé - OPTRUMA 60 mg, comprimé pelliculé
+751	1927	Voie orale	RALTEGRAVIR POTASSIQUE équivalent à RALTEGRAVIR 600 mg - ISENTRESS 600 mg, comprimé pelliculé
+435	1075	Voie orale	RAMIPRIL  5 mg +  HYDROCHLOROTHIAZIDE 12,5 mg - COTRIATEC 5 mg/12,5 mg, comprimé
+159	372	Voie orale	RAMIPRIL 1,25 mg - TRIATEC 1,25 mg, comprimé.
+159	382	Voie orale	RAMIPRIL 10 mg - TRIATEC 10 mg, comprimé sécable.
+159	373	Voie orale	RAMIPRIL 2,5 mg - TRIATEC 2,5 mg, comprimé sécable.
+159	374	Voie orale	RAMIPRIL 5 mg - TRIATEC 5 mg, comprimé sécable.
+2	10	Voie orale	RANITIDINE (CHLORHYDRATE DE) équivalant à RANITIDINE 150 mg - AZANTAC 150 mg, comprimé effervescent - RANIPLEX 150 mg, comprimé effervescent.
+2	7	Voie orale	RANITIDINE (CHLORHYDRATE DE) équivalant à RANITIDINE 150 mg - AZANTAC 150 mg, comprimé pelliculé - RANIPLEX 150 mg, comprimé pelliculé.
+2	11	Voie orale	RANITIDINE (CHLORHYDRATE DE) équivalant à RANITIDINE 300 mg - AZANTAC 300 mg, comprimé effervescent - RANIPLEX 300 mg, comprimé effervescent.
+2	8	Voie orale	RANITIDINE (CHLORHYDRATE DE) équivalant à RANITIDINE 300 mg - AZANTAC 300 mg, comprimé pelliculé - RANIPLEX 300 mg, comprimé pelliculé.
+2	9	Voie orale	RANITIDINE (CHLORHYDRATE DE) équivalant à RANITIDINE 75 mg - AZANTAC 75 mg, comprimé effervescent - RANIPLEX 75 mg, comprimé effervescent.
+775	1996	Voie orale	RANOLAZINE 375 mg - RANEXA 375 mg, comprimé à libération prolongée
+775	1995	Voie orale	RANOLAZINE 500 mg - RANEXA 500 mg, comprimé à libération prolongée
+775	1994	Voie orale	RANOLAZINE 750 mg - RANEXA 750 mg, comprimé à libération prolongée
+499	1262	Voie orale	RASAGILINE (MÉSILATE DE) équivalant à RASAGILINE 1 mg - RASAGILINE (TARTRATE DE) équivalant à RASAGILINE 1 mg - AZILECT 1 mg, comprimé
+363	894	Voie intraveineuse	REMIFENTANIL (CHLORHYDRATE DE) équivalant à REMIFENTANIL 1 mg - ULTIVA 1 mg, poudre pour solution injectable ou pour perfusion.
+363	895	Voie intraveineuse	REMIFENTANIL (CHLORHYDRATE DE) équivalant à REMIFENTANIL 2 mg - ULTIVA 2 mg, poudre pour solution injectable ou pour perfusion.
+363	896	Voie intraveineuse	REMIFENTANIL (CHLORHYDRATE DE) équivalant à REMIFENTANIL 5 mg  - ULTIVA 5 mg, poudre pour solution injectable ou pour perfusion.
+359	882	Voie orale	REPAGLINIDE 0,5 mg - NOVONORM 0,5 mg, comprimé.
+359	883	Voie orale	REPAGLINIDE 1 mg - NOVONORM 1 mg, comprimé.
+359	884	Voie orale	REPAGLINIDE 2 mg - NOVONORM 2 mg, comprimé.
+344	954	Voie orale	RIBAVIRINE 200 mg - COPEGUS 200 mg, comprimé pelliculé.
+344	834	Voie orale	RIBAVIRINE 200 mg - REBETOL 200 mg, gélule
+344	953	Voie orale	RIBAVIRINE 400 mg - COPEGUS 400 mg, comprimé pelliculé.
+29	53	Voie orale	RILMENIDINE (DIHYDROGENOPHOSPHATE DE) équivalant à RILMENIDINE 1 mg - HYPERIUM 1 mg, comprimé.
+338	818	Voie orale	RILUZOLE 50 mg - RILUTEK 50 mg, comprimé pelliculé
+384	983	Voie orale	RISEDRONATE MONOSODIQIUE HEMIPENTAHYDRATE équivalant à RISEDRONATE MONOSODIQUE 30 mg - ACTONEL 30 mg, comprimé pelliculé.
+384	938	Voie orale	RISEDRONATE MONOSODIQUE HEMIPENTAHYDRATE équivalant à  RISEDRONATE MONOSODIQUE 35 mg - ACTONEL 35 mg, comprimé pelliculé.
+384	984	Voie orale	RISEDRONATE MONOSODIQUE HEMIPENTAHYDRATE équivalant à  RISEDRONATE MONOSODIQUE 5 mg - ACTONEL 5 mg, comprimé pelliculé.
+170	1877	Voie orale	RISPERIDONE 0,5 mg - RISPERDAL 0,50 mg, comprimé pelliculé
+170	510	Voie orale	RISPERIDONE 0,5 mg - RISPERDALORO 0,5 mg, comprimé orodispersible.
+170	351	Voie orale	RISPERIDONE 1 mg - RISPERDAL 1 mg, comprimé pelliculé.
+170	511	Voie orale	RISPERIDONE 1 mg - RISPERDALORO 1 mg, comprimé orodispersible.
+170	614	Voie orale	RISPERIDONE 1 mg/ml - RISPERDAL 1 mg/ml, solution buvable.
+170	352	Voie orale	RISPERIDONE 2 mg - RISPERDAL 2 mg, comprimé pelliculé.
+170	512	Voie orale	RISPERIDONE 2 mg - RISPERDALORO 2 mg, comprimé orodispersible.
+170	1752	Voie injectable	RISPERIDONE 25 mg/2 mL - RISPERDALCONSTA L.P. 25 mg/2 ml, poudre et solvant pour suspension injectable à libération prolongée en seringue préremplie
+170	1878	Voie orale	RISPERIDONE 3 mg - RISPERDAL 3 mg, comprimé pelliculé sécable
+170	752	Voie orale	RISPERIDONE 3 mg - RISPERDALORO 3 mg, comprimé orodispersible.
+170	1753	Voie injectable	RISPERIDONE 37,5 mg/2 mL - RISPERDALCONSTA L.P. 37,5 mg/2 ml, poudre et solvant pour suspension injectable à libération prolongée en seringue préremplie
+170	353	Voie orale	RISPERIDONE 4 mg - RISPERDAL 4 mg, comprimé pelliculé.
+170	751	Voie orale	RISPERIDONE 4 mg - RISPERDALORO 4 mg, comprimé orodispersible.
+170	1754	Voie injectable	RISPERIDONE 50 mg/2 mL - RISPERDALCONSTA L.P. 50 mg/2 ml, poudre et solvant pour suspension injectable à libération prolongée en seringue préremplie
+602	1526	Voie orale	RITONAVIR 100 mg - NORVIR 100 mg, comprimé pelliculé
+595	1497	Voie orale	RIVAROXABAN 10 mg - XARELTO 10 mg, comprimé pelliculé
+595	1557	Voie orale	RIVAROXABAN 15 mg + 20 mg - XARELTO 15 mg + 20 mg, comprimé pelliculé
+595	1498	Voie orale	RIVAROXABAN 15 mg - XARELTO 15 mg, comprimé pelliculé
+595	1649	Voie orale	RIVAROXABAN 2,5 mg - XARELTO 2,5 mg, comprimé pelliculé
+595	1499	Voie orale	RIVAROXABAN 20 mg - XARELTO 20 mg, comprimé pelliculé
+340	823	Voie orale	RIVASTIGMINE (HYDROGENOTARTRATE DE ) équivalant à RIVASTIGMINE 3 mg - EXELON 3 mg, gélule
+340	826	Voie orale	RIVASTIGMINE (HYDROGENOTARTRATE DE ) équivalant à RIVASTIGMINE 6 mg - EXELON 6 mg, gélule
+340	824	Voie orale	RIVASTIGMINE (HYDROGENOTARTRATE DE) équivalant à RIVASTIGMINE  4,5 mg - EXELON 4,5 mg, gélule
+340	821	Voie orale	RIVASTIGMINE (HYDROGENOTARTRATE DE) équivalant à RIVASTIGMINE 1,5 mg - EXELON 1,5 mg, gélule
+340	960	Voie orale	RIVASTIGMINE (HYDROGENOTARTRATE DE) équivalant à RIVASTIGMINE 2 mg/ml - EXELON 2 mg/ml, solution buvable.
+508	1279	Voie transdermique	RIVASTIGMINE 4,6 mg/24 heures - EXELON 4,6 mg/24 h, dispositif transdermique
+508	1280	Voie transdermique	RIVASTIGMINE 9,5 mg/24 heures - EXELON 9,5 mg/24 h, dispositif transdermique
+371	910	Voie orale	RIZATRIPTAN (BENZOATE DE) équivalant à 10 mg de RIZATRIPTAN - MAXALTLYO 10 mg, lyophilisat oral.
+371	909	Voie orale	RIZATRIPTAN (BENZOATE DE) équivalant à 5 mg de RIZATRIPTAN - MAXALTLYO 5 mg, lyophilisat oral.
+371	1045	Voie orale	RIZATRIPTAN (BENZOATE DE) équivalant à RIZATRIPTAN 10 mg - MAXALT 10 mg, comprimé.
+371	1044	Voie orale	RIZATRIPTAN (BENZOATE DE) équivalant à RIZATRIPTAN 5 mg - MAXALT 5 mg, comprimé.
+284	1032	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE  8 mg - REQUIP LP 8 mg, comprimé à libération prolongée.
+284	810	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 0,25 mg - ADARTREL 0,25 mg, comprimé pelliculé.
+284	674	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 0,25 mg - REQUIP 0,25 mg, comprimé pelliculé
+284	809	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 0,50 mg - ADARTREL 0,50 mg, comprimé pelliculé.
+284	677	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 0,50 mg - REQUIP 0,50 mg, comprimé pelliculé.
+284	808	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 1 mg - ADARTREL 1 mg, comprimé pelliculé.
+284	675	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 1 mg - REQUIP 1 mg, comprimé pelliculé.
+284	807	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 2 mg - ADARTREL 2 mg, comprimé pelliculé.
+284	678	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 2 mg - REQUIP 2 mg, comprimé pelliculé.
+284	1034	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 2 mg - REQUIP LP 2 mg, comprimé à libération prolongée.
+284	1234	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 3 mg - REQUIP LP 3 mg, comprimé à libération prolongée
+284	1033	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 4 mg - REQUIP LP 4 mg, comprimé à libération prolongée.
+284	676	Voie orale	ROPINIROLE (CHLORHYDRATE DE) équivalant à ROPINIROLE 5 mg - REQUIP 5 mg, comprimé pelliculé.
+321	769	Voie péridurale / Voie périneurale	ROPIVACAÏNE (CHLORHYDRATE DE) 10 mg/ml - ROPIVACAÏNE (CHLORHYDRATE DE) MONOHYDRATE équivalant à  ROPIVACAÏNE (CHLORHYDRATE DE) 10 mg/ml - NAROPEINE 10 mg/ml, solution injectable en ampoule.
+321	767	Voie péridurale / Voie périneurale	ROPIVACAÏNE (CHLORHYDRATE DE) 2 mg/ml - ROPIVACAÏNE (CHLORHYDRATE DE) MONOHYDRATE équivalant à ROPIVACAÏNE (CHLORHYDRATE DE) 2 mg/ml - NAROPEINE 2 mg/ml, solution injectable en ampoule
+321	766	Voie péridurale / Voie périneurale	ROPIVACAÏNE (CHLORHYDRATE DE) 2 mg/ml - ROPIVACAÏNE (CHLORHYDRATE DE) MONOHYDRATE équivalant à ROPIVACAÏNE (CHLORHYDRATE DE) 2 mg/ml - NAROPEINE 2 mg/ml, solution injectable en poche.
+321	985	Voie intrathécale	ROPIVACAÏNE (CHLORHYDRATE DE) 5 mg/ml - ROPIVACAÏNE (CHLORHYDRATE DE) MONOHYDRATE équivalant à ROPIVACAÏNE (CHLORHYDRATE DE) 5 mg/ml  - NAROPEINE 5 mg/ml, solution injectable.
+321	768	Voie péridurale / Voie périneurale	ROPIVACAÏNE (CHLORHYDRATE DE) 7,5 mg/ml - NAROPEINE 7,5 mg/ml, solution injectable en ampoule
+522	1313	Voie orale	ROSUVASTATINE CALCIQUE équivalant à ROSUVASTATINE 10 mg - ROSUVASTATINE ZINCIQUE équivalant à ROSUVASTATINE 10 mg - CRESTOR 10 mg, comprimé pelliculé
+522	1314	Voie orale	ROSUVASTATINE CALCIQUE équivalant à ROSUVASTATINE 20 mg - ROSUVASTATINE ZINCIQUE équivalant à ROSUVASTATINE 20 mg - CRESTOR 20 mg, comprimé pelliculé
+522	1312	Voie orale	ROSUVASTATINE CALCIQUE équivalant à ROSUVASTATINE 5 mg - ROSUVASTATINE ZINCIQUE équivalant à ROSUVASTATINE 5 mg - CRESTOR 5 mg, comprimé pelliculé
+733	1879	Voie transdermique	ROTIGOTINE 2 mg/24 h - NEUPRO 2 mg/24 h, dispositif transdermique
+733	1880	Voie transdermique	ROTIGOTINE 4 mg/24 h - NEUPRO 4 mg/24 h, dispositif transdermique
+733	1881	Voie transdermique	ROTIGOTINE 6 mg/24 h - NEUPRO 6 mg/24 h, dispositif transdermique
+733	1882	Voie transdermique	ROTIGOTINE 8 mg/24 h - NEUPRO 8 mg/24 h, dispositif transdermique
+95	185	Voie orale	ROXITHROMYCINE 100 mg - CLARAMID ENFANTS 100 mg, comprimé pelliculé - RULID 100 mg, comprimé pelliculé
+95	186	Voie orale	ROXITHROMYCINE 150 mg - CLARAMID 150 mg, comprimé pelliculé - RULID 150 mg, comprimé enrobé
+761	1957	Voie orale	RUFINAMIDE 100 mg - INOVELON 100 mg, comprimé pelliculé
+761	1958	Voie orale	RUFINAMIDE 200 mg - INOVELON 200 mg, comprimé pelliculé
+761	1948	Voie orale	RUFINAMIDE 40 mg/ml - INOVELON 40 mg/ml, suspension buvable
+761	1959	Voie orale	RUFINAMIDE 400 mg - INOVELON 400 mg, comprimé pelliculé
+527	1331	Voie orale	RUPATADINE (FUMARATE DE) équivalant à RUPATADINE 10 mg - WYSTAMM 10 mg, comprimé
+767	1965	Voie orale	SACUBITRIL SODIQUE équivalent à SACUBITRIL 24 mg + VALSARTAN DISODIQUE équivalent à VALSARTAN 26 mg - ENTRESTO 24 mg/26 mg, comprimé pelliculé
+767	1966	Voie orale	SACUBITRIL SODIQUE équivalent à SACUBITRIL 49 mg + VALSARTAN DISODIQUE équivalent à VALSARTAN 51 mg - ENTRESTO 49 mg/51 mg, comprimé pelliculé
+767	1967	Voie orale	SACUBITRIL SODIQUE équivalent à SACUBITRIL 97 mg + VALSARTAN DISODIQUE équivalent à VALSARTAN 103 mg - ENTRESTO 97 mg/103 mg, comprimé pelliculé
+147	543	Voie intraveineuse (pour perfusion)	SALBUTAMOL (SULFATE DE) équivalant à  SALBUTAMOL 5 mg  - SALBUMOL FORT 5 mg/5 ml, solution pour perfusion intraveineuse en ampoule.
+147	298	Voie inhalée	SALBUTAMOL (SULFATE DE) équivalant à  SALBUTAMOL 5 mg - VENTOLINE 5 mg/2,5 ml, solution pour inhalation par nébuliseur en récipient unidose.
+147	1767	Voie sous cutanée	SALBUTAMOL (SULFATE DE) équivalant à SALBUTAMOL 0,5 mg/1 mL - VENTOLINE 0,5 mg/1 ml, solution injectable par voie sous-cutanée en ampoule
+147	297	Voie inhalée	SALBUTAMOL (SULFATE DE) équivalant à SALBUTAMOL 2,5 mg - VENTOLINE 2,5 mg/2,5 ml, solution pour inhalation par nébuliseur en récipient unidose.
+706	1860	Voie orale	SAPROPTERINE (DICHLORHYDRATE DE)  100 mg - KUVAN 100 mg, poudre pour solution buvable
+706	1859	Voie orale	SAPROPTERINE (DICHLORHYDRATE DE)  500 mg - KUVAN 500 mg, poudre pour solution buvable
+706	1823	Voie orale	SAPROPTERINE (DICHLORHYDRATE DE) 100 mg - KUVAN 100 mg, comprimé pour solution buvable
+646	1658	Voie orale	SAXAGLIPTINE (CHLORHYDRATE DE) équivalant à 5 mg -  ONGLYZA 5 mg, comprimé pelliculé
+646	1657	Voie orale	SAXAGLIPTINE (CHLORHYDRATE DE) équivalant à SAXAGLIPTINE 2,5 mg - ONGLYZA 2,5 mg, comprimé pelliculé
+771	1982	Voie orale	SAXAGLIPTINE (CHLORHYDRATE DE) équivalent à SAXAGLIPTINE 2,5 mg + CHLORHYDRATE DE METFORMINE 1000 mg - KOMBOGLYZE 2,5 mg/1000 mg, comprimé pelliculé
+696	1801	Voie intramusculaire / Voie intraveineuse / Voie sous-cutanée / Voie intrapéritonéale	SCOPOLAMINE (BUTYLBROMURE DE) 20 mg/mL - BUSCOPAN 20 mg/2 ml, solution injectable
+656	1694	Voie vaginale	SERTACONAZOLE (NITRATE DE) 300 mg - MONAZOL, ovule
+189	1133	Voie orale	SERTRALINE (CHLORHYDRATE DE) équivalant à SERTRALINE 25 mg - ZOLOFT 25 mg, comprimé pelliculé
+189	455	Voie orale	SERTRALINE (CHLORHYDRATE DE) équivalant à SERTRALINE 25 mg - ZOLOFT 25 mg, gélule.
+189	1134	Voie orale	SERTRALINE (CHLORHYDRATE DE) équivalant à SERTRALINE 50 mg - ZOLOFT 50 mg, comprimé pelliculé sécable
+189	411	Voie orale	SERTRALINE (CHLORHYDRATE DE) équivalant à SERTRALINE 50 mg - ZOLOFT 50 mg, gélule.
+195	426	Voie inhalée	SEVOFLURANE 100 ml/100 ml - SEVORANE, liquide pour inhalation par vapeur.
+362	893	Voie orale	SILDENAFIL (CITRATE DE) équivalant à SILDENAFIL 100 mg - VIAGRA 100 mg, comprimé pelliculé.
+362	892	Voie orale	SILDENAFIL (CITRATE DE) équivalant à SILDENAFIL 25 mg - VIAGRA 25 mg, comprimé pelliculé.
+362	891	Voie orale	SILDENAFIL (CITRATE DE) équivalant à SILDENAFIL 50 mg - VIAGRA 50 mg, comprimé pelliculé.
+362	1353	Voie orale	SILDÉNAFIL (CITRATE DE) équivalant à SILDÉNAFIL 20 mg - REVATIO 20 mg, comprimé pelliculé
+637	1659	Voie orale	SILODOSINE 4 mg - SILODYX 4 mg, gélule
+637	1630	Voie orale	SILODOSINE 4 mg - UROREC 4 mg, gélule
+637	1660	Voie orale	SILODOSINE 8 mg - SILODYX 8 mg, gélule
+637	1631	Voie orale	SILODOSINE 8 mg - UROREC 8 mg, gélule
+58	349	Voie orale	SIMVASTATINE 10 mg - ZOCOR 10 mg, comprimé enrobé - LODALES 10 mg, comprimé enrobé.
+58	102	Voie orale	SIMVASTATINE 20 mg - ZOCOR 20 mg, comprimé pelliculé sécable - LODALES 20 mg, comprimé pelliculé.
+58	103	Voie orale	SIMVASTATINE 40 mg - ZOCOR 40 mg, comprimé pelliculé - LODALES 40 mg, comprimé pelliculé.
+58	369	Voie orale	SIMVASTATINE 5 mg - ZOCOR 5 mg, comprimé pelliculé - LODALES 5 mg, comprimé enrobé.
+58	370	Voie orale	SIMVASTATINE 80 mg - ZOCOR 80 mg, comprimé pelliculé - LODALES 80 mg, comprimé pelliculé.
+596	1502	Voie orale	SITAGLIPTINE (PHOSPHATE DE) MONOHYDRATE équivalant à SITAGLIPTINE 100 mg - SITAGLIPTINE (MALATE DE) équivalant à SITAGLIPTINE 100 mg - JANUVIA 100 mg, comprimé pelliculé
+596	1500	Voie orale	SITAGLIPTINE (PHOSPHATE DE) MONOHYDRATE équivalant à SITAGLIPTINE 25 mg - SITAGLIPTINE (MALATE DE) équivalant à SITAGLIPTINE 25 mg - JANUVIA 25 mg, comprimé pelliculé
+701	1814	Voie orale	SITAGLIPTINE (PHOSPHATE DE) MONOHYDRATE équivalant à SITAGLIPTINE 50 mg + METFORMINE (CHLORHYDRATE DE) équivalant à METFORMINE 1000 mg - SITAGLIPTINE (CHLORHYDRATE DE) MONOHYDRATE équivalant à SITAGLIPTINE 50 mg + METFORMINE (CHLORHYDRATE DE) équivalantà METFORMINE 1000 mg - EFFICIB 50 mg/1000 mg, comprimé pelliculé
+596	1501	Voie orale	SITAGLIPTINE (PHOSPHATE DE) MONOHYDRATE équivalant à SITAGLIPTINE 50 mg - SITAGLIPTINE (MALATE DE) équivalant à SITAGLIPTINE 50 mg - JANUVIA 50 mg, comprimé pelliculé
+677	1751	Voie orale	SITAGLIPTINE + METFORMINE (CHLORHYDRATE DE) 50 mg + 1000 mg - JANUMET 50 mg/1000 mg, comprimé pelliculé - VELMETIA 50 mg/1000 mg, comprimé pelliculé
+677	1750	Voie orale	SITAGLIPTINE + METFORMINE (CHLORHYDRATE DE) 50 mg + 850 mg-JANUMET 50 mg/850 mg, comprimé pelliculé  - VELMETIA 50 mg/850 mg, comprimé pelliculé
+296	710	Voie cutanée	SODIUM (FUSIDATE DE) 2 % - FUCIDINE 2 POUR CENT, pommade.
+296	1412	Voie orale	SODIUM (FUSIDATE DE) 250 mg - FUCIDINE 250 mg, comprimé pelliculé
+562	1422	Voie orale	SOLIFENACINE (SUCCINATE DE) 10 mg - VESICARE 10 mg, comprimé pelliculé
+562	1421	Voie orale	SOLIFENACINE (SUCCINATE DE) 5 mg - VESICARE 5 mg, comprimé pelliculé
+633	1620	Voie intraveineuse	SOLUTION DE GLUCOSE 12 g pour 100 mL + SOLUTION D'ACIDES AMINES 3,8 g pour 100 mL + EMULSION LIPIDIQUE 4 g pour 100 mL - MEDNUTRIFLEX LIPIDE G 120/N 5,4/E, émulsion pour perfusion
+633	1623	Voie intraveineuse	SOLUTION DE GLUCOSE 14,4 g pour 100 mL + SOLUTION D'ACIDES AMINES 5,6 g pour 100 mL + EMULSION LIPIDIQUE 4 g pour 100 mL - REANUTRIFLEX LIPIDE G 144/N 8, émulsion pour perfusion
+633	1622	Voie intraveineuse	SOLUTION DE GLUCOSE 14,4 g pour 100 mL + SOLUTION D'ACIDES AMINES 5,6 g pour 100 mL + EMULSION LIPIDIQUE 4 g pour 100 mL - REANUTRIFLEX LIPIDE G 144/N 8/E, émulsion pour perfusion
+633	1614	Voie intraveineuse	SOLUTION DE GLUCOSE 18,75 g pour 100 mL + SOLUTION D'ACIDES AMINES 6,3 g pour 100 mL + EMULSION LIPIDIQUE 15 g pour 100 mL - PERIOLIMEL N4E, émulsion pour perfusion
+633	1711	Voie intraveineuse	SOLUTION DE GLUCOSE 27,5 g pour 100 mL + SOLUTION D'ACIDES AMINES 14,2 g pour 100 mL + EMULSION LIPIDIQUE 20 g pour 100 mL - OLIMEL N9E, émulsion pour perfusion
+633	1616	Voie intraveineuse	SOLUTION DE GLUCOSE 28,75 g pour 100 mL + SOLUTION D'ACIDES AMINES 8,2 g pour 100 mL + EMULSION LIPIDIQUE 20 g pour 100 mL - OLIMEL N5E, émulsion pour perfusion
+633	1615	Voie intraveineuse	SOLUTION DE GLUCOSE 35 g pour 100 mL + SOLUTION D'ACIDES AMINES 11,1 g pour 100 mL + EMULSION LIPIDIQUE 20 g pour 100 mL - OLIMEL N7E, émulsion pour perfusion
+633	1621	Voie intraveineuse	SOLUTION DE GLUCOSE 6,4 g pour 100 mL + SOLUTION D'ACIDES AMINES 3,2 g pour 100 mL + EMULSION LIPIDIQUE 4 g pour 100 mL - PERINUTRIFLEX LIPIDE G 64/N 4,6/E, émulsion pour perfusion
+628	1607	Voie orale	SORAFENIB (TOSILATE DE) équivalant à SORAFENIB 200 mg - NEXAVAR 200 mg, comprimé pelliculé
+43	76	Voie orale	SOTALOL (CHLORHYDRATE DE) 160 mg - SOTALEX 160 mg, comprimé sécable
+43	75	Voie orale	SOTALOL (CHLORHYDRATE DE) 80 mg - SOTALEX 80 mg, comprimé sécable
+99	192	Voie orale	SPIRAMYCINE 0.75 M.UI + METRONIDAZOLE 125 mg - RODOGYL, comprimé pelliculé.
+99	354	Voie orale	SPIRAMYCINE 1,5 M.UI + METRONIDAZOLE 250 mg - BIRODOGYL, comprimé pelliculé.
+222	502	Voie orale	SPIRAMYCINE 3 M.U.I. - ROVAMYCINE 3 MILLIONS U I, comprimé pelliculé.
+34	60	Voie orale	SPIRONOLACTONE 25 mg + ALTIZIDE 15 mg - ALDACTAZINE 25 mg/15 mg, comprimé sécable.
+32	837	Voie orale	SPIRONOLACTONE 25 mg - ALDACTONE 25 mg, comprimé sécable
+32	57	Voie orale	SPIRONOLACTONE 50 mg - ALDACTONE 50 mg, comprimé sécable.
+32	58	Voie orale	SPIRONOLACTONE 75 mg - ALDACTONE 75 mg, comprimé sécable.
+756	1935	Voie orale	STIRIPENTOL 250 mg - DIACOMIT 250 mg, gélule
+756	1937	Voie orale	STIRIPENTOL 250 mg - DIACOMIT 250 mg, poudre pour suspension buvable en sachet
+756	1936	Voie orale	STIRIPENTOL 500 mg - DIACOMIT 500 mg, gélule
+756	1938	Voie orale	STIRIPENTOL 500 mg - DIACOMIT 500 mg, poudre pour suspension buvable en sachet
+5	16	Voie orale	SUCRALFATE 1 g - ULCAR 1 g, comprimé
+5	15	Voie orale	SUCRALFATE 1 g - ULCAR 1 g, suspension buvable en sachet
+173	358	Voie intraveineuse / Voie péridurale	SUFENTANIL (CITRATE DE) équivalant à SUFENTANIL 10 µg/2 ml - SUFENTA 10 microgrammes/2 ml, solution injectable (I.V. ou péridurale) (AMPOULE de 2 ml).
+173	361	Voie intraveineuse / Voie péridurale	SUFENTANIL (CITRATE DE) équivalant à SUFENTANIL 250 µg/5 ml - SUFENTA 250 microgrammes/5 ml, solution injectable (I.V. ou péridurale) en ampoule (AMPOULE de 5 ml).
+173	359	Voie intraveineuse / Voie péridurale	SUFENTANIL (CITRATE DE) équivalant à SUFENTANIL 50 µg/10 ml - SUFENTA 50 microgrammes/10 ml, solution injectable (I.V. ou péridurale) (AMPOULE de 10 ml).
+173	360	Voie intraveineuse / Voie péridurale	SUFENTANIL (CITRATE DE) équivalant à SUFENTANIL 50 µg/ml - SUFENTA 50 microgrammes/1 ml, solution injectable (I.V. ou péridurale) en ampoule (AMPOULE de 1 ml).
+695	1798	Voie intraveineuse	SUGAMMADEX SODIQUE équivalant à SUGAMMADEX 100 mg/mL - BRIDION 100 mg/ml, solution injectable
+92	180	Voie orale	SULFAMETHOXAZOLE 800 mg + TRIMETHOPRIME 160 mg - BACTRIM FORTE, comprimé sécable.
+127	260	Voie orale	SULPIRIDE 200 mg - DOGMATIL 200 mg, comprimé sécable
+127	259	Voie orale	SULPIRIDE 50 mg - DOGMATIL 50 mg, gélule
+171	554	Voie orale	SUMATRIPTAN (SUCCINATE DE) équivalant à SUMATRIPTAN 50 mg - IMIGRANE 50 mg, comprimé pelliculé.
+171	476	Voie sous cutanée	SUMATRIPTAN (SUCCINATE DE) équivalant à SUMATRIPTAN 6 mg/0,5 ml - IMIGRANE 6 mg/0,5 ml, solution injectable pour voie sous-cutanée en seringue pré-remplie - IMIJECT 6 mg/0,5 ml, solution injectable pour voie sous-cutanée en seringue pré-remplie.
+597	1506	Voie orale	SUNITINIB (MALATE DE) équivalant  à  SUNITINIB 25 mg - SUNITINIB 25 mg- SUTENT 25 mg, gélule
+597	1505	Voie orale	SUNITINIB (MALATE DE) équivalant à SUNITINIB 12,5 mg  - SUNITINIB 12,5 mg - SUTENT 12,5 mg, gélule
+597	1640	Voie orale	SUNITINIB (MALATE DE) équivalant à SUNITINIB 37,5 mg - SUNITINIB 37,5 mg - SUTENT 37,5 mg, gélule
+597	1507	Voie orale	SUNITINIB (MALATE DE) équivalant à SUNITINIB 50 mg - SUNITINIB 50 mg - SUTENT 50 mg, gélule
+480	1411	Voie orale	SÉVÉLAMER (CARBONATE DE) 2,4 g - RENVELA 2,4 g, poudre pour suspension buvable
+480	1215	Voie orale	SÉVÉLAMER (CARBONATE DE) 800 mg - RENVELA 800 mg, comprimé pelliculé
+654	1683	Voie orale	SÉVÉLAMER (CHLORHYDRATE DE) 400 mg - RENAGEL 400 mg, comprimé pelliculé
+654	1684	Voie orale	SÉVÉLAMER (CHLORHYDRATE DE) 800 mg - RENAGEL 800 mg, comprimé pelliculé
+603	1527	Voie cutanée	TACROLIMUS (MONOHYDRATE DE) équivalant à TACROLIMUS 1 mg pour 1 g - PROTOPIC 0,1 %,  pommade
+496	1258	Voie orale	TADALAFIL 10 mg - CIALIS 10 mg, comprimé pelliculé
+496	1256	Voie orale	TADALAFIL 2,5 mg - CIALIS 2,5 mg, comprimé pelliculé
+496	1386	Voie orale	TADALAFIL 20 mg - ADCIRCA 20 mg, comprimé pelliculé
+496	1259	Voie orale	TADALAFIL 20 mg - CIALIS 20 mg, comprimé pelliculé
+496	1257	Voie orale	TADALAFIL 5 mg - CIALIS 5 mg, comprimé pelliculé
+102	200	Voie orale	TAMOXIFENE (CITRATE DE) équivalant à TAMOXIFENE 10 mg - NOLVADEX 10 mg, comprimé pelliculé.
+102	201	Voie orale	TAMOXIFENE (CITRATE DE) équivalant à TAMOXIFENE 20 mg - NOLVADEX 20 mg, comprimé enrobé.
+202	1046	Voie orale	TAMSULOSINE (CHLORHYDRATE DE) équivalant à  TAMSULOSINE  0,4 mg - OMEXEL L.P. 0,4 mg, comprimé pelliculé à libération prolongée.
+202	442	Voie orale	TAMSULOSINE (CHLORHYDRATE DE) équivalant à TAMSULOSINE 0,4 mg - OMIX LP 0,4 mg, microgranules à libération prolongée en gélule - JOSIR L.P. 0,4 mg, microgranules à libération prolongée en gélule.
+711	1846	Voie orale	TAPENTADOL (CHLORHYDRATE DE) equivalant à TAPENTADOL 50 mg - TAPENTADOL (TARTRATE DE) equivalant à TAPENTADOL 50 mg - PALEXIA LP 50 mg, comprimé à libération prolongée
+711	1849	Voie orale	TAPENTADOL (CHLORHYDRATE DE) équivalant à TAPENTADOL 100 mg - TAPENTADOL (TARTRATE DE) équivalant à TAPENTADOL 100 mg - PALEXIA LP 100 mg, comprimé à libération prolongée
+711	1848	Voie orale	TAPENTADOL (CHLORHYDRATE DE) équivalant à TAPENTADOL 25 mg - TAPENTADOL (TARTRATE DE) équivalant à TAPENTADOL 25 mg - PALEXIA LP 25 mg, comprimé à libération prolongée
+711	1847	Voie orale	TAPENTADOL (CHLORHYDRATE DE) équivalant à TAPENTADOL 250 mg - TAPENTADOL (TARTRATE DE) équivalant à TAPENTADOL 250 mg - PALEXIA LP 250 mg, comprimé à libération prolongée
+711	1832	Voie orale	TAPENTADOL (CHLORHYDRATE DE) équivalent à TAPENTADOL 150 mg - TAPENTADOL (TARTRATE DE) équivalent à TAPENTADOL 150 mg  - PALEXIA LP 150 mg, comprimé à libération prolongée
+711	1833	Voie orale	TAPENTADOL (CHLORHYDRATE DE) équivalent à TAPENTADOL 200 mg - TAPENTADOL (TARTRATE DE) équivalent à TAPENTADOL 200 mg - PALEXIA LP 200 mg, comprimé à libération prolongée
+776	1997	Voie sous cutanée	TEDUGLUTIDE 5 mg - REVESTIVE 5 mg, poudre et solvant pour solution injectable
+661	1703	Voie intramusculaire / Voie intraveineuse / Voie orale	TEICOPLANINE 200 mg - TARGOCID 200 mg, poudre et solvant pour solution injectable/pour perfusion ou solution buvable
+661	1702	Voie intramusculaire / Voie intraveineuse / Voie orale	TEICOPLANINE 400 mg - TARGOCID 400 mg, poudre et solvant pour solution injectable/pour perfusion ou solution buvable
+451	1125	Voie orale	TELMISARTAN  40 mg +  HYDROCHLOROTHIAZIDE 12,5 mg - MICARDISPLUS 40 mg/12,5 mg, comprimé - PRITORPLUS 40 mg/12,5 mg, comprimé
+451	1126	Voie orale	TELMISARTAN  80 mg +  HYDROCHLOROTHIAZIDE 12,5 mg - MICARDISPLUS 80 mg/12,5 mg, comprimé - PRITORPLUS 80 mg/12,5 mg, comprimé
+451	1127	Voie orale	TELMISARTAN  80 mg +  HYDROCHLOROTHIAZIDE 25 mg - MICARDISPLUS 80 mg/25 mg, comprimé - PRITORPLUS 80 mg/25 mg, comprimé
+385	939	Voie orale	TELMISARTAN 20 mg - MICARDIS 20 mg, comprimé - PRITOR 20 mg, comprimé.
+673	1737	Voie orale	TELMISARTAN 40 mg + AMLODIPINE (BESILATE DE) équivalant à AMLODIPINE 10 mg - TWYNSTA 40 mg/10 mg, comprimé
+673	1738	Voie orale	TELMISARTAN 40 mg + AMLODIPINE (BESILATE DE) équivalant à AMLODIPINE 5 mg - TWYNSTA 40 mg/5 mg, comprimé
+385	940	Voie orale	TELMISARTAN 40 mg - MICARDIS 40 mg, comprimé - PRITOR 40 mg, comprimé.
+673	1739	Voie orale	TELMISARTAN 80 mg + AMLODIPINE (BESILATE DE) équivalant à AMLODIPINE 10 mg - TWYNSTA 80 mg/10 mg, comprimé
+673	1740	Voie orale	TELMISARTAN 80 mg + AMLODIPINE (BESILATE DE) équivalant à AMLODIPINE 5 mg - TWYNSTA 80 mg/5 mg, comprimé
+385	941	Voie orale	TELMISARTAN 80 mg - MICARDIS 80 mg, comprimé - PRITOR 80 mg, comprimé.
+383	936	Voie orale	TEMOZOLOMIDE 100 mg - TEMODAL 100 mg, gélule.
+383	937	Voie orale	TEMOZOLOMIDE 140 mg - TEMODAL 140 mg, gélule.
+383	932	Voie orale	TEMOZOLOMIDE 180 mg - TEMODAL 180 mg, gélule.
+383	935	Voie orale	TEMOZOLOMIDE 20 mg - TEMODAL 20 mg, gélule.
+383	934	Voie orale	TEMOZOLOMIDE 250 mg - TEMODAL 250 mg, gélule.
+383	933	Voie orale	TEMOZOLOMIDE 5 mg - TEMODAL 5 mg, gélule.
+685	1774	Voie intraveineuse	TEMSIROLIMUS 30 mg - TORISEL 30 mg, solution à diluer et diluant pour solution pour perfusion
+536	1425	Voie orale	TENOFOVIR DISOPROXIL (FUMARATE DE) équivalant à TENOFOVIR DISOPROXIL 123 mg - VIREAD 123 mg, comprimé pelliculé
+536	1426	Voie orale	TENOFOVIR DISOPROXIL (FUMARATE DE) équivalant à TENOFOVIR DISOPROXIL 163 mg - VIREAD 163 mg, comprimé pelliculé
+536	1427	Voie orale	TENOFOVIR DISOPROXIL (FUMARATE DE) équivalant à TENOFOVIR DISOPROXIL 204 mg  - VIREAD 204 mg, comprimé pelliculé
+536	1361	Voie orale	TENOFOVIR DISOPROXIL (FUMARATE DE) équivalant à TENOFOVIR DISOPROXIL 245 mg - TENOFOVIR DISOPROXIL (SUCCINATE DE) équivalant à TENOFOVIR DISOPROXIL 245 mg - TENOFOVIR DISOPROXIL (PHOSPHATE DE) équivalant à TENOFOVIR DISOPROXIL 245 mg - VIREAD 245 mg, comprimé pelliculé
+75	133	Voie orale	TERAZOSINE (CHLORHYDRATE DE) équivalant à TERAZOSINE 5 mg - DYSALFA 5 mg, comprimé - HYTRINE 5 mg, comprimé.
+185	401	Voie orale	TERBINAFINE (CHLORHYDRATE DE ) 250 mg - LAMISIL 250 mg, comprimé sécable.
+185	740	Voie cutanée	TERBINAFINE (CHLORHYDRATE DE) 1 % - LAMISIL 1 POUR CENT, crème.
+148	299	Voie inhalée	TERBUTALINE (SULFATE DE) 5 mg/2 ml - BRICANYL 5 mg/2 ml, solution pour inhalation par nébuliseur en récipient unidose
+718	1851	Voie orale	TERIFLUNOMIDE 14 mg - AUBAGIO 14 mg, comprimé pelliculé
+718	1932	Voie orale	TERIFLUNOMIDE 7 mg - AUBAGIO 7 mg, comprimé pelliculé
+674	1743	Voie sous cutanée	TERIPARATIDE 20 microgrammes/80 microlitres - FORSTEO 20 microgrammes/80 microlitres, solution injectable en stylo prérempli
+342	832	Voie intraveineuse	TERLIPRESSINE (ACETATE DE) 1 mg - GLYPRESSINE 1 mg/5 ml, poudre et solvant pour solution injectable (I.V.)
+342	1428	Voie intraveineuse	TERLIPRESSINE (ACÉTATE DE) 1 mg - GLYPRESSINE 1 mg/8,5 ml, solution injectable
+757	1939	Voie intramusculaire	TESTOSTERONE (ENANTATE DE) équivalent à TESTOSTERONE 250 mg/1 ml - ANDROTARDYL 250 mg/1 ml, solution injectable intramusculaire
+736	1886	Voie intramusculaire	TESTOSTERONE (UNDECANOATE DE) 1000 mg/4 mL - NEBIDO 1000 mg/4 ml, solution injectable
+418	1035	Voie orale	TETRABENAZINE 25 mg - XENAZINE 25 mg, comprimé sécable.
+115	234	Voie orale	TETRAZEPAM 50 mg - MYOLASTAN 50 mg, comprimé pelliculé sécable.
+658	1697	Voie orale	THALIDOMIDE 50 mg - THALIDOMIDE CELGENE 50 mg, gélule
+114	232	Voie orale	THIOCOLCHICOSIDE 4 mg - COLTRAMYL 4 mg, comprimé
+114	233	Voie intramusculaire	THIOCOLCHICOSIDE 4 mg/2 ml - COLTRAMYL 4 mg/2 ml, solution injectable IM en ampoule.
+626	1603	Voie intraveineuse	THIOPENTAL ET CARBONATE SODIQUES équivalant à THIOPENTAL SODIQUE 1 g par flacon - PENTOTHAL 1 g, poudre pour solution injectable
+626	1604	Voie intraveineuse	THIOPENTAL ET CARBONATE SODIQUES équivalant à THIOPENTAL SODIQUE 500 mg par flacon - PENTOTHAL 500  mg, poudre pour solution injectable
+697	1802	Voie intraveineuse	THIOTEPA 100 mg - TEPADINA 100 mg, poudre pour concentré pour solution pour perfusion
+697	1803	Voie intraveineuse	THIOTEPA 15 mg - TEPADINA 15 mg, poudre pour concentré pour solution pour perfusion
+406	1002	Voie orale	TIANEPTINE SODIQUE 12,5 mg - STABLON 12,5 mg, comprimé enrobé.
+128	263	Voie orale	TIAPRIDE (CHLORHYDRATE DE) équivalant à TIAPRIDE 100 mg - TIAPRIDAL 100 mg, comprimé sécable.
+273	1398	Voie orale	TIBOLONE 2,5 mg - LIVIAL 2,5 mg, comprimé
+675	1747	Voie orale	TICAGRELOR 60 mg-BRILIQUE 60 mg, comprimé pelliculé
+675	1748	Voie orale	TICAGRELOR 90 mg-BRILIQUE 90 mg, comprimé pelliculé
+19	36	Voie orale	TICLOPIDINE (CHLORHYDRATE DE) 250 mg - TICLID 250 mg, comprimé pelliculé
+598	1518	Voie intraveineuse	TIGECYCLINE 50 mg - TYGACIL 50 mg, poudre pour solution pour perfusion
+157	314	Voie ophtalmique	TIMOLOL (MALEATE DE) équivalant à TIMOLOL 0,10 % - TIMOPTOL 0,10 %, collyre en solution.
+157	315	Voie ophtalmique	TIMOLOL (MALEATE DE) équivalant à TIMOLOL 0,25 % - TIMOPTOL 0,25 %, collyre en solution.
+157	316	Voie ophtalmique	TIMOLOL (MALEATE DE) équivalant à TIMOLOL 0,5 % - TIMOPTOL 0,50 %, collyre en solution.
+463	1175	Voie intraveineuse	TIROFIBAN (CHLORHYDRATE DE) MONOHYDRATÉ équivalant à TIROFIBAN 50 microgrammes/ml - AGRASTAT 50 microgrammes/ml, solution pour perfusion
+627	1606	Voie nasale	TIXOCORTOL (PIVALATE DE) 1 %  - PIVALONE 1 POUR CENT, suspension nasale
+345	835	Voie ophtalmique	TOBRAMYCINE 0.3% - TOBREX 0,3 %, collyre en solution
+616	1558	Voie ophtalmique	TOBRAMYCINE 3 mg/mL + DEXAMETHASONE 1 mg/mL - TOBRADEX, collyre en suspension
+322	770	Voie orale	TOLTERODINE (TARTRATE DE) 1 mg - DETRUSITOL 1 mg, comprimé pelliculé.
+322	771	Voie orale	TOLTERODINE (TARTRATE DE) 2 mg - DETRUSITOL 2 mg, comprimé pelliculé.
+669	1721	Voie orale	TOLVAPTAN 15 mg + 45 mg - JINARC 15 mg, comprimé + JINARC 45 mg, comprimé
+669	1955	Voie orale	TOLVAPTAN 15 mg - JINARC 15 mg, comprimé
+669	1722	Voie orale	TOLVAPTAN 30 mg + 60 mg - JINARC 30 mg, comprimé + JINARC 60 mg, comprimé
+669	1723	Voie orale	TOLVAPTAN 30 mg + 90 mg - JINARC 30 mg, comprimé + JINARC 90 mg, comprimé
+669	1956	Voie orale	TOLVAPTAN 30 mg - JINARC 30 mg, comprimé
+218	496	Voie orale	TOPIRAMATE 100 mg - EPITOMAX 100 mg, comprimé pelliculé.
+218	1979	Voie orale	TOPIRAMATE 15 mg - EPITOMAX 15 mg, gélule
+218	497	Voie orale	TOPIRAMATE 200 mg - EPITOMAX 200 mg, comprimé pelliculé.
+218	772	Voie orale	TOPIRAMATE 25 mg - EPITOMAX 25 mg, gélule.
+218	495	Voie orale	TOPIRAMATE 50 mg - EPITOMAX 50 mg, comprimé pelliculé.
+218	1980	Voie orale	TOPIRAMATE 50 mg - EPITOMAX 50 mg, gélule
+400	986	Voie intraveineuse	TOPOTECANE (CHLORHYDRATE DE) équivalant à TOPOTECANE 1 mg/ml - HYCAMTIN 1 mg, poudre pour solution à diluer pour perfusion (FLACON de 1 mg).
+400	987	Voie intraveineuse	TOPOTÉCANE (CHLORHYDRATE DE) équivalant à TOPOTECANE 4 mg/ml - HYCAMTIN 4 mg, poudre pour solution à diluer pour perfusion (FLACON de 4 mg).
+700	1811	Voie intraveineuse	TRABECTEDINE 0,25 mg - YONDELIS 0,25 mg, poudre pour solution à diluer pour perfusion
+700	1810	Voie intraveineuse	TRABECTEDINE 1 mg - YONDELIS 1 mg, poudre pour solution à diluer pour perfusion
+120	698	Voie orale	TRAMADOL (CHLORHYDRATE DE) 100 mg - CONTRAMAL L.P. 100  mg, comprimé à libération prolongée - TOPALGIC L.P. 100 mg, comprimé à libération prolongée.
+120	699	Voie orale	TRAMADOL (CHLORHYDRATE DE) 150 mg - CONTRAMAL L.P. 150 mg, comprimé à libération prolongée - TOPALGIC L.P. 150 mg,  comprimé à libération prolongée.
+120	700	Voie orale	TRAMADOL (CHLORHYDRATE DE) 200 mg - CONTRAMAL L.P. 200 mg, comprimé pelliculé à libération prolongée - TOPALGIC L.P. 200 mg, comprimé à libération prolongée.
+434	1073	Voie orale	TRAMADOL (CHLORHYDRATE DE) 37,5 mg  +  PARACÉTAMOL 325 mg - IXPRIM 37,5 mg/325 mg, comprimé effervescent - ZALDIAR 37,5 mg/325 mg, comprimé effervescent
+434	1072	Voie orale	TRAMADOL (CHLORHYDRATE DE) 37,5 mg  +  PARACÉTAMOL 325 mg - IXPRIM 37,5 mg/325 mg, comprimé pelliculé - ZALDIAR 37,5 mg/325 mg, comprimé pelliculé
+120	242	Voie orale	TRAMADOL (CHLORHYDRATE DE) 50 mg - CONTRAMAL 50 mg, gélule - TOPALGIC 50 mg, gélule.
+120	712	Voie orale	TRAMADOL (CHLORHYDRATE DE) 50 mg - CONTRAMAL LP 50 mg, comprimé à libération prolongée - TOPALGIC LP 50 mg, comprimé à libération prolongée.
+120	803	Voie intraveineuse	TRAMADOL (CHLORHYDRATE DE) 50 mg/ml - CONTRAMAL 100 mg/2 ml, solution injectable - TOPALGIC 100 mg/2 ml, solution injectable en ampoule (AMPOULE de 2 ml).
+281	663	Voie orale	TRANDOLAPRIL 0,5 mg - ODRIK 0,5 mg, gélule
+281	662	Voie orale	TRANDOLAPRIL 2 mg - ODRIK 2 mg, gélule.
+281	661	Voie orale	TRANDOLAPRIL 4 mg - ODRIK 4 mg, gélule
+568	1436	Voie ophtalmique	TRAVOPROST 40 microgrammes + TIMOLOL (MALEATE DE) équivalant à TIMOLOL 5 mg - DUOTRAV 40 microgrammes/ml + 5 mg/ml, collyre en solution
+547	1377	Voie ophtalmique	TRAVOPROST 40 microgrammes/ml - TRAVATAN 40 microgrammes/ml, collyre en solution
+622	1578	Voie intraveineuse / Voie sous-cutanée	TREPROSTINIL SODIQUE équivalant à TREPROSTINIL 1 mg/mL - REMODULIN 1 mg/ml, solution pour perfusion
+622	1579	Voie intraveineuse / Voie sous-cutanée	TREPROSTINIL SODIQUE équivalant à TREPROSTINIL 10 mg/mL - REMODULIN 10 mg/ml, solution pour perfusion
+622	1580	Voie intraveineuse / Voie sous-cutanée	TREPROSTINIL SODIQUE équivalant à TREPROSTINIL 2,5 mg/mL - REMODULIN 2,5 mg/ml, solution pour perfusion
+622	1581	Voie intraveineuse / Voie sous-cutanée	TREPROSTINIL SODIQUE équivalant à TREPROSTINIL 5 mg/mL - REMODULIN 5 mg/ml, solution pour perfusion
+725	1865	Voie orale	TRIENTINE (DICHLORHYDRATE DE) équivalant à TRIENTINE 200 mg - CUFENCE 200 mg, gélule
+9	21	Voie orale	TRIMEBUTINE (MALEATE DE) 100 mg - DEBRIDAT 100 mg, comprimé pelliculé
+9	460	Voie orale	TRIMEBUTINE (MALEATE DE) 200 mg - DEBRIDAT 200 mg, comprimé pelliculé.
+9	1458	Voie intramusculaire / Voie intraveineuse	TRIMEBUTINE (MALEATE DE) 50 mg/5 mL- DEBRIDAT 50 mg/5 ml, solution injectable en ampoule
+28	52	Voie orale	TRIMETAZIDINE (DICHLORHYDRATE DE) 20 mg - VASTAREL 20 mg, comprimé pelliculé.
+28	51	Voie orale	TRIMETAZIDINE (DICHLORHYDRATE DE) 20 mg/ml - VASTAREL 20 mg/ml, solution buvable gouttes.
+28	580	Voie orale	TRIMETAZIDINE (DICHLORHYDRATE DE) 35 mg - VASTAREL 35 mg, comprimé pelliculé à libération modifiée.
+307	737	Voie cutanée	TROLAMINE 0,67 % - BIAFINE, émulsion pour application cutanée.
+457	1152	Voie orale	TROSPIUM (CHLORURE DE) 20 mg - CERIS 20 mg, comprimé enrobé
+41	72	Voie orale	TROXERUTINE 3500 mg - RHEOFLUX 3500 mg, poudre pour solution buvable en sachet-dose - VEINAMITOL 3500 mg, poudre pour solution buvable en sachet-dose.
+635	1618	Voie orale	ULIPRISTAL (ACETATE D') 30 mg - ELLAONE 30 mg, comprimé  - ELLAONE 30 mg, comprimé pelliculé
+635	1650	Voie orale	ULIPRISTAL (ACETATE D') 5 mg - ESMYA 5 mg, comprimé
+246	569	Voie intraveineuse	URAPIDIL (CHLORHYDRATE D') équivalant à URAPIDIL 25 mg/5 ml - EUPRESSYL 25 mg, solution injectable (I.V.).
+246	570	Voie intraveineuse	URAPIDIL (CHLORHYDRATE D') équivalant à URAPIDIL 50 mg/10 ml - EUPRESSYL 50 mg, solution injectable (I.V.).
+246	1008	Voie intraveineuse	URAPIDIL (CHLORHYDRATE DE) équivalant à URAPIDIL 100 mg/20 ml - EUPRESSYL 100 mg/20 ml, solution injectable.
+546	1375	Voie orale	URAPIDIL 30 mg - EUPRESSYL LP 30 mg, gélule à libération prolongée - MEDIATENSYL LP 30 mg, gélule à libération prolongée
+546	1376	Voie orale	URAPIDIL 60 mg - EUPRESSYL LP 60 mg, gélule à libération prolongée  - MEDIATENSYL LP 60 mg, gélule à libération prolongée
+276	655	Voie orale	VALACICLOVIR (CHLORHYDRATE DE) équivalant à VALACICLOVIR 500 mg - ZELITREX 500 mg, comprimé pelliculé
+493	1245	Voie orale	VALGANCICLOVIR (CHLORHYDRATE DE) équivalant à valganciclovir 450 mg - ROVALCYTE 450 mg, comprimé pelliculé
+123	251	Voie orale	VALPROATE DE SODIUM 200 mg - DEPAKINE 200 mg, comprimé gastro-résistant
+123	250	Voie orale	VALPROATE DE SODIUM 200 mg/ml - DEPAKINE 200 mg/ml, solution buvable
+123	252	Voie orale	VALPROATE DE SODIUM 500 mg - DEPAKINE 500 mg, comprimé gastro-résistant
+123	404	Voie orale	VALPROATE DE SODIUM 500 mg - DEPAKINE CHRONO 500 mg, comprimé pelliculé sécable à libération prolongée.
+349	849	Voie orale	VALSARTAN 160 mg + HYDROCHLOROTHIAZIDE 12,5 mg - COTAREG 160 mg/12,5 mg, comprimé pelliculé - NISISCO 160 mg/12,5 mg, comprimé pelliculé.
+349	851	Voie orale	VALSARTAN 160 mg + HYDROCHLOROTHIAZIDE 25 mg - COTAREG 160 mg/25 mg, comprimé pelliculé - NISISCO 160 mg/25 mg, comprimé pelliculé.
+348	846	Voie orale	VALSARTAN 160 mg - TAREG 160 mg, comprimé pelliculé - NISIS 160 mg, comprimé pelliculé.
+348	847	Voie orale	VALSARTAN 40 mg - TAREG 40 mg, comprimé pelliculé sécable - NISIS 40 mg, comprimé pelliculé sécable.
+349	850	Voie orale	VALSARTAN 80 mg + HYDROCHLOROTHIAZIDE 12,5 mg - COTAREG 80 mg/12,5 mg, comprimé pelliculé - NISISCO 80 mg/12,5 mg, comprimé pelliculé.
+348	848	Voie orale	VALSARTAN 80 mg - TAREG 80 mg, comprimé pelliculé - NISIS 80 mg, comprimé pelliculé .
+407	1004	Voie intraveineuse	VANCOMYCINE (CHLORHYDRATE DE) équivalant à VANCOMYCINE 1 g - VANCOCINE 1 g, poudre pour solution injectable (IV).
+407	1003	Voie intraveineuse	VANCOMYCINE (CHLORHYDRATE DE) équivalant à VANCOMYCINE 500 mg - VANCOCINE 500 mg IV, poudre pour solution injectable (IV).
+569	1442	Voie orale	VARDENAFIL (CHLORHYDRATE DE) TRIHYDRATE équivalant VARDENAFIL 20 mg - LEVITRA 20 mg, comprimé pelliculé
+569	1441	Voie orale	VARDENAFIL (CHLORHYDRATE DE) TRIHYDRATE équivalant à VARDENAFIL 10 mg - LEVITRA 10 mg, comprimé pelliculé
+569	1440	Voie orale	VARDENAFIL (CHLORHYDRATE DE) TRIHYDRATE équivalant à VARDENAFIL 5 mg - LEVITRA 5 mg, comprimé pelliculé
+749	1921	Voie orale	VARENICLINE (TARTRATE DE) équivalent à VARENICLINE 0,5 mg - VARENICLINE (CITRATE DE) équivalent à VARENICLINE 0,5 mg CHAMPIX 0,5 mg, comprimé pelliculé
+749	1922	Voie orale	VARENICLINE (TARTRATE DE) équivalent à VARENICLINE 0,5 mg et 1 mg - CHAMPIX 0,5 mg et 1 mg, comprimé pelliculé
+749	1920	Voie orale	VARENICLINE (TARTRATE DE) équivalent à VARENICLINE 1 mg - VARENICLINE (CITRATE DE) équivalent à VARENICLINE 1 mg CHAMPIX 1 mg, comprimé pelliculé
+267	630	Voie orale	VENLAFAXINE (CHLORHYDRATE DE) équivalant à VENLAFAXINE  37,5 mg - EFFEXOR L.P. 37,5 mg, gélule à libération prolongée.
+267	720	Voie orale	VENLAFAXINE (CHLORHYDRATE DE) équivalant à VENLAFAXINE 150 mg - EFFEXOR L.P. 150 mg, gélule à libération prolongée.
+267	645	Voie orale	VENLAFAXINE (CHLORHYDRATE DE) équivalant à VENLAFAXINE 50 mg - EFFEXOR 50 mg, comprimé.
+267	629	Voie orale	VENLAFAXINE (CHLORHYDRATE DE) équivalant à VENLAFAXINE 75 mg - EFFEXOR L.P. 75 mg, gélule à libération prolongée.
+51	88	Voie orale	VERAPAMIL (CHLORHYDRATE DE) 120 mg - ISOPTINE 120 mg, gélule
+51	89	Voie orale	VERAPAMIL (CHLORHYDRATE DE) 240 mg - ISOPTINE L.P. 240 mg, comprimé pelliculé sécable à libération prolongée.
+51	1915	Voie orale	VERAPAMIL (CHLORHYDRATE DE) 40 mg - ISOPTINE 40 mg, comprimé enrobé
+578	1451	Voie orale	VILDAGLIPTINE 50 mg + METFORMINE (CHLORHYDRATE DE) 1000 mg - EUCREAS 50 mg/1000 mg, comprimé pelliculé
+578	1452	Voie orale	VILDAGLIPTINE 50 mg + METFORMINE (CHLORHYDRATE DE) 850 mg  - EUCREAS 50 mg/850 mg, comprimé pelliculé
+600	1509	Voie orale	VILDAGLIPTINE 50 mg - GALVUS 50 mg, comprimé
+227	524	Voie intraveineuse	VINCRISTINE (SULFATE DE) 1 mg /ml - ONCOVIN 1 mg, solution injectable.
+196	1812	Voie orale	VINORELBINE (DITARTRATE DE) équivalent à VINORELBINE 80 mg - VINORELBINE (TARTRATE DE) équivalent à VINORELBINE 80 mg - NAVELBINE 80 mg, capsule molle
+196	427	Voie intraveineuse	VINORELBINE (TARTRATE DE) équivalant à VINORELBINE 10 mg/1 ml - NAVELBINE 10 mg/1 ml, solution injectable en flacon (FLACON de 1 ml).
+196	1641	Voie orale	VINORELBINE (TARTRATE DE) équivalant à VINORELBINE 20 mg  - VINORELBINE (DITARTRATE DE) équivalant à VINORELBINE 20 mg - NAVELBINE 20 mg, capsule molle
+196	1642	Voie orale	VINORELBINE (TARTRATE DE) équivalant à VINORELBINE 30 mg  - VINORELBINE (DITARTRATE DE) équivalant à VINORELBINE 30 mg - NAVELBINE 30 mg, capsule molle
+196	428	Voie intraveineuse	VINORELBINE (TARTRATE DE) équivalant à VINORELBINE 50 mg/5 ml - NAVELBINE 50 mg/5 ml, solution injectable en flacon (FLACON de 5 ml).
+507	1325	Voie orale	VORICONAZOLE 200 mg - VFEND 200 mg, comprimé pelliculé
+507	1278	Voie intraveineuse	VORICONAZOLE 200 mg - VFEND 200 mg, poudre pour solution pour perfusion
+507	1327	Voie orale	VORICONAZOLE 40 mg pour 1 mL - VFEND 40 mg/ml, poudre pour suspension buvable
+507	1326	Voie orale	VORICONAZOLE 50 mg - VFEND 50 mg, comprimé pelliculé
+738	1901	Voie orale	VORTIOXETINE (BROMHYDRATE DE) équivalent à VORTIOXETINE 10 mg - BRINTELLIX 10 mg, comprimé pelliculé
+738	1902	Voie orale	VORTIOXETINE (BROMHYDRATE DE) équivalent à VORTIOXETINE 15 mg - BRINTELLIX 15 mg, comprimé pelliculé
+738	1899	Voie orale	VORTIOXETINE (BROMHYDRATE DE) équivalent à VORTIOXETINE 20 mg - BRINTELLIX 20 mg, comprimé pelliculé
+738	1900	Voie orale	VORTIOXETINE (BROMHYDRATE DE) équivalent à VORTIOXETINE 5 mg - BRINTELLIX 5 mg, comprimé pelliculé
+429	1063	Voie orale	ZOFÉNOPRIL CALCIQUE 30 mg - ZOFENIL 30 mg, comprimé pelliculé
+333	804	Voie orale	ZOLMITRIPTAN 2,5 mg - ZOMIG 2,5 mg, comprimé pelliculé.
+333	911	Voie orale	ZOLMITRIPTAN 2,5 mg - ZOMIGORO 2,5 mg, comprimé orodispersible.
+136	276	Voie orale	ZOLPIDEM (TARTRATE DE) 10 mg - STILNOX 10 mg, comprimé pelliculé sécable
+526	1330	Voie orale	ZONISAMIDE 100 mg - ZONEGRAN 100 mg, gélule
+526	1328	Voie orale	ZONISAMIDE 25 mg - ZONEGRAN 25 mg, gélule
+526	1329	Voie orale	ZONISAMIDE 50 mg - ZONEGRAN 50 mg, gélule
+135	1559	Voie orale	ZOPICLONE 3,75 mg - IMOVANE 3,75 mg, comprimé pelliculé
+135	275	Voie orale	ZOPICLONE 7,5 mg - IMOVANE 7,5 mg, comprimé pelliculé sécable.
+432	1102	Voie orale	ÉBASTINE 10 mg - KESTIN 10 mg, comprimé pelliculé
+452	1131	Voie orale	ÉFAVIRENZ 600 mg - SUSTIVA 600 mg, comprimé pelliculé
+504	1268	Voie orale	ÉLÉTRIPTAN (BROMHYDRATE D') équivalant à ÉLÉTRIPTAN 20 mg - RELPAX 20 mg, comprimé pelliculé
+504	1269	Voie orale	ÉLÉTRIPTAN (BROMHYDRATE D') équivalant à ÉLÉTRIPTAN 40 mg - RELPAX 40 mg, comprimé pelliculé
+492	1243	Voie orale	ÉPLÉRÉNONE 25 mg - INSPRA 25 mg, comprimé pelliculé
+492	1244	Voie orale	ÉPLÉRÉNONE 50 mg - INSPRA 50 mg, comprimé pelliculé
+455	1146	Voie intraveineuse	ÉSOMÉPRAZOLE SODIQUE équivalant à ESOMEPRAZOLE 40 mg - INEXIUM 40 mg, poudre pour solution injectable ou pour perfusion
+428	1062	Voie vaginale	ÉTHINYLESTRADIOL 15 microgrammes/24 heures  +  ÉTONOGESTREL 120 microgrammes/24 heures - NUVARING 15 microgrammes/120 microgrammes/24 heures, système de diffusion vaginal
+402	1113	Voie orale	ÉTHINYLESTRADIOL BÉTADEX-CLATHRATE équivalant à ÉTHINYLESTRADIOL 0,02 mg + DROSPIRÉNONE 3 mg - YAZ 0,02 mg/3 mg, comprimé pelliculé
+505	1270	Voie orale	ÉTORICOXIB 30 mg - ARCOXIA 30 mg, comprimé pelliculé
+505	1271	Voie orale	ÉTORICOXIB 60 mg - ARCOXIA 60 mg, comprimé pelliculé
