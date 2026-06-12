@@ -1,7 +1,25 @@
+# savoir nom / dci des medicament locals
+1. basic : https://www.ammps.gov.ma/repertoire-medicaments-generiques
+2. all the drugs in morocco 9000 drugs : "https://www.ammps.gov.ma/basesdedonnes/liste_marocaine_des_medicaments" (not scraped yet)
+---
+# MSF guides : (https://medicalguidelines.msf.org/fr/viewport/CG/francais/guide-clinique-et-therapeutique-16689354.html?sidebar-open=1)
+  - Médicaments essentiels : "https://medicalguidelines.msf.org/fr/viewport/EssDr/francais/medicaments-essentiels-16682579.html?language_content_entity=fr"
+  - Guide clinique et thérapeutique : "https://medicalguidelines.msf.org/fr/viewport/CG/francais/guide-clinique-et-therapeutique-16689354.html?language_content_entity=fr"
+  - Soins obstétricaux et néonatals essentiels : "https://medicalguidelines.msf.org/fr/viewport/ONC/francais/soins-obstetricaux-et-neonatals-essentiels-51415836.html?language_content_entity=fr"
+  - Tuberculose : "https://medicalguidelines.msf.org/fr/viewport/TUB/francais/tuberculose-20321162.html?language_content_entity=fr"
+---
+# interaction medicament :
+https://ansm.sante.fr/documents/reference/
+  - THESAURUS DES INTERACTIONS MÉDICAMENTEUSES : "https://ansm.sante.fr/uploads/2023/08/18/20230818-thesaurus-referentiel-des-interaction-medicamenteuses-aout-2023.pdf"
+
+---
+# other database
+
 http://vidal.fr/
 https://www.dwa.ma/
 https://asafar.net/
-https://www.ammps.gov.ma/repertoire-medicaments-generiques
-9000 drugs : https://www.ammps.gov.ma/basesdedonnes/liste_marocaine_des_medicaments (not scraped yet)
-https://medicalguidelines.msf.org/fr/viewport/EssDr/francais/medicaments-essentiels-16682579.html
-https://ansm.sante.fr/documents/reference/
+
+---
+# to add price of drugs
+use this : https://www.ammps.gov.ma/basesdedonnes/liste_marocaine_des_medicaments
+  1, build userscript to scrap it and generate the .txt / .json
