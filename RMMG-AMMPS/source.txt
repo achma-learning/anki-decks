@@ -18,7 +18,8 @@ https://ansm.sante.fr/documents/reference/
 http://vidal.fr/
 https://www.dwa.ma/
 https://asafar.net/
-
+---
+later : "https://anam.ma/anam/espace-prestataires-de-soins-trash/"
 ---
 # to add price of drugs
 use this : https://www.ammps.gov.ma/basesdedonnes/liste_marocaine_des_medicaments
