@@ -1,5 +1,5 @@
 how about building an AI agent that fetch moroccan generique medicament (https://ammps.sante.gov.ma/callpages/RMMG) and build a anki deck and auto update it every 3 months
-build a anki deck (.apkg) based on analysis of this website : https://ammps.sante.gov.ma/callpages/RMMG
+build a anki deck (.apkg) based on analysis of this website : https://www.ammps.gov.ma/repertoire-medicaments-generiques?page=1
 
 how about send me a email or notification , so i use claude to auto update it, and how about an ai agent auto updating it
 
