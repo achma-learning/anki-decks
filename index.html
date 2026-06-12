@@ -368,23 +368,13 @@
     <div class="logo-icon">🃏</div>
     <span class="logo-text">Anki<span>Store</span></span>
   </a>
-  <nav>
-    <a href="#resources">Ressources</a>
-    <a href="#geography">Geography</a>
-    <a href="#soins-intensifs">Soins Intensifs</a>
-    <a href="#chest-xray">Radiologie</a>
-    <a href="#med-fr">Médecine FR</a>
-    <a href="#pharmaco">Pharmaco</a>
-    <a href="#aymane">Aymane Tfl</a>
-    <a href="#anking">AnKing</a>
-    <a href="#community">Communauté</a>
-  </nav>
+  <nav id="nav-links"><!-- populated by JS --></nav>
   <span class="header-sub">Community Decks</span>
 </header>
 
 <main>
 
-  <!-- ── Hero ── -->
+  <!-- ── Hero (static) ── -->
   <div class="hero">
     <h1>The best <span>Anki decks</span>,<br>all in one place.</h1>
     <p>Curated, high-quality flashcard decks for geography, medicine, and more — handpicked from the community.</p>
@@ -395,723 +385,8 @@
     </div>
   </div>
 
-  <!-- ══════════════════════════════════════
-       RESSOURCES GÉNÉRALES
-  ══════════════════════════════════════ -->
-  <section id="resources">
-    <h2 class="section-title">🛠️ Ressources Générales</h2>
-    <div class="resource-grid">
-
-      <a class="resource-item" href="https://apps.ankiweb.net/" target="_blank" rel="noopener">
-        <div class="resource-icon">📱</div>
-        <div class="resource-info">
-          <h3>Télécharger Anki</h3>
-          <p>Application officielle — gratuite sur toutes plateformes</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://drive.google.com/file/d/1JqFcqULGLAJR9PwYmsrg1gnIJKzyqdkO/view" target="_blank" rel="noopener">
-        <div class="resource-icon">🔌</div>
-        <div class="resource-info">
-          <h3>Anki Add-ons</h3>
-          <p>Pack d'extensions recommandées pour Anki</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <div class="resource-item" style="cursor:default;">
-        <div class="resource-icon">📋</div>
-        <div class="resource-info">
-          <h3>Répertoire des Decks Anki (Médical)</h3>
-          <p>Index complet des decks médicaux disponibles</p>
-        </div>
-        <div style="margin-left:auto;display:flex;gap:8px;flex-shrink:0;">
-          <a class="btn btn-primary" href="https://drive.google.com/file/d/1tbFEyKjk5gU3hYvbsYLa9Lb1kFK2Fvnw/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1njQMk1sg1IawiGXpTg2Rgs4x0zTZv-Cr/view" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="resource-item" style="cursor:default;">
-        <div class="resource-icon">☁️</div>
-        <div class="resource-info">
-          <h3>Anki × ECNi — Drive</h3>
-          <p>Collection de ressources Anki pour les ECNi</p>
-        </div>
-        <div style="margin-left:auto;display:flex;gap:8px;flex-shrink:0;">
-          <a class="btn btn-teal" href="https://drive.google.com/drive/folders/1M9hg4EMRoFRQ4wh_E2xIOu_bKmg7ze59" target="_blank" rel="noopener">Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/drive/folders/12BCy7TWO_tLfUgBwMACuKSR65F9myH1H" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <a class="resource-item" href="https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/" target="_blank" rel="noopener">
-        <div class="resource-icon">📣</div>
-        <div class="resource-info">
-          <h3>Anki × EDN — Facebook</h3>
-          <p>Post communautaire avec ressources partagées</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-      
-            <a class="resource-item" href="https://web.facebook.com/groups/1259604734553642/about" target="_blank" rel="noopener">
-        <div class="resource-icon">📣</div>
-        <div class="resource-info">
-          <h3>ANKIMED — Facebook</h3>
-          <p>un tutorat reposant sur le partage gratuit d'une banque de carte Anki recouvrant tout le programme R2C de l'ECN.</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-    </div>
-  </section>
-
-  <!-- ══════════════════════════════════════
-       GEOGRAPHY & MISC
-  ══════════════════════════════════════ -->
-  <section id="geography">
-    <h2 class="section-title">🌍 Geography &amp; Divers</h2>
-    <div class="cards">
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a5a, #0d2040);">🗺️</div>
-        <div class="card-body">
-          <div class="card-title">Ultimate Geography</div>
-          <div class="card-desc">
-            The most comprehensive geography deck on AnkiWeb. Covers flags, maps, capitals,
-            and regional context for every country — with beautiful flag imagery.
-          </div>
-          <div class="card-meta">
-            <span class="badge blue">Flags</span>
-            <span class="badge blue">Capitals</span>
-            <span class="badge blue">Maps</span>
-            <span class="badge green">Open Source</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://ankiweb.net/shared/info/2109889812" target="_blank" rel="noopener">⬇ Download</a>
-          <a class="btn btn-secondary" href="https://github.com/anki-geo/ultimate-geography" target="_blank" rel="noopener">GitHub</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a2a, #0d281a);">🚗</div>
-        <div class="card-body">
-          <div class="card-title">Plaques Marocaines</div>
-          <div class="card-desc">
-            Apprenez à reconnaître les plaques d'immatriculation marocaines —
-            régions, préfectures et codes associés.
-          </div>
-          <div class="card-meta">
-            <span class="badge green">Maroc</span>
-            <span class="badge green">Plaques</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-green" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/plaques_marocaines.apkg" target="_blank" rel="noopener">⬇ Download .apkg</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #2a1a3a, #1a0d28);">🇲🇦</div>
-        <div class="card-body">
-          <div class="card-title">Fêtes Maroc — Moroccan Holidays</div>
-          <div class="card-desc">
-            Apprenez les fêtes et jours fériés marocains —
-            fêtes nationales, religieuses et leurs dates.
-          </div>
-          <div class="card-meta">
-            <span class="badge green">Maroc</span>
-            <span class="badge green">Fêtes</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-green" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/Fetes_Maroc_Moroccan_Holidays.apkg" target="_blank" rel="noopener">⬇ Download .apkg</a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- ══════════════════════════════════════
-       KIT SOINS INTENSIFS
-  ══════════════════════════════════════ -->
-  <section id="soins-intensifs">
-    <h2 class="section-title">🚨 Kit Soins Intensifs</h2>
-    <div class="cards">
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #3a1a1a, #280d0d);">🏥</div>
-        <div class="card-body">
-          <div class="card-title">Kit d'autoformation en Soins Intensifs</div>
-          <div class="card-desc">
-            Kit e-learning complet pour l'autoformation en soins intensifs.
-            Deck Anki accompagné d'un site web pédagogique dédié.
-          </div>
-          <div class="card-meta">
-            <span class="badge red">Soins Intensifs</span>
-            <span class="badge red">E-learning</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-red" href="https://drive.google.com/drive/u/0/folders/1JkvC6-tekBHI6AT5hCvitRM6VU6aB4o9" target="_blank" rel="noopener">☁ Drive</a>
-          <a class="btn btn-primary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/Kit%20d'autoformation%20en%20soins%20intensifs.apkg" target="_blank" rel="noopener">⬇ Backup .apkg</a>
-          <a class="btn btn-secondary" href="https://sites.google.com/view/kit-e-learning-soins-intensifs/accueil" target="_blank" rel="noopener">🌐 Site Web</a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- ══════════════════════════════════════
-       RADIOLOGIE
-  ══════════════════════════════════════ -->
-  <section id="chest-xray">
-    <h2 class="section-title">🩻 Radiologie</h2>
-    <div class="cards">
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a2a3a, #0d1a28);">🩻</div>
-        <div class="card-body">
-          <div class="card-title sm">Rx Thorax — Tuberculose</div>
-          <div class="card-desc sm">Radiographies thoraciques de tuberculose : signes radiologiques et cas typiques.</div>
-          <div class="card-meta">
-            <span class="badge blue">Radiologie</span>
-            <span class="badge blue">Tuberculose</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://drive.google.com/file/d/1VbQZSZC1IkJtpMR5pS-U1dWEz3NWeY8Y/view?usp=sharing" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/rx%20thoax-tubercolose/rx_thorax_tuberculose%20(1).apkg" target="_blank" rel="noopener">Backup</a>
-          <a class="btn btn-backup" href="https://achma-learning.github.io/fmpm-radio-thorax-old/archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cc.html" target="_blank" rel="noopener">Backup website</a>
-          <a class="btn btn-backup" href="https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cc.html" target="_blank" rel="noopener">Original website</a>
-          <a class="btn btn-backup" href="https://radiopaedia.org/articles/tuberculosis-pulmonary-manifestations-1?lang=gb" target="_blank" rel="noopener">Radiopeadia</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #0d1f2d, #1a3a4a);">🫁</div>
-        <div class="card-body">
-          <div class="card-title">Chest X-Ray — Radiologues <span style="font-size:11px;font-weight:400;color:#666;">par Dr HOURI</span></div>
-          <div class="card-desc">
-            Deck complet de radiologie thoracique par Dr HOURI. Reconnaître et interpréter
-            les images radiologiques pulmonaires, cardiaques et médiastinales.
-          </div>
-          <div class="card-meta">
-            <span class="badge blue">Radiologie</span>
-            <span class="badge blue">Thorax</span>
-            <span class="badge teal">EDN</span>
-            <span class="badge red">Cardiologie</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/chest%20x-ray%20by%20Dr%20HOURI/Radiologie_Thoracique_Chest_Xray_Radiologues.apkg" target="_blank" rel="noopener">⬇ Deck .apkg</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1kUHtYd9_F-RlNSY2ltZvEypbjlVikSxn/view?usp=drive_link" target="_blank" rel="noopener">Backup</a>
-          <a class="btn btn-red" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/chest%20x-ray%20by%20Dr%20HOURI/Images%20radiologiques%20pulmonaires%20secondaires%20%C3%A0%20une%20pathologie%20cardiaque.Dr%20HOURI.pdf" target="_blank" rel="noopener">⬇ Cours — Pathologie Cardiaque</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1UcIkp5kokjblh-5r0hg2gfKEtNHtBZfY/view?usp=drive_link" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a2a1a, #0d1f0d);">📄</div>
-        <div class="card-body">
-          <div class="card-title sm">Images à connaître pour l'EDN</div>
-          <div class="card-desc sm">Sélection d'images radiologiques thoraciques essentielles pour l'EDN.</div>
-          <div class="card-meta">
-            <span class="badge teal">EDN</span>
-            <span class="badge blue">PDF</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-teal" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/chest%20x-ray%20by%20Dr%20HOURI/Images%20%C3%A0%20conna%C3%AEtre%20pour%20EDN_2.pdf" target="_blank" rel="noopener">⬇ PDF</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1upCQC_eN-qUbVEHuED1ydZwolyBpV8AR/view?usp=drive_link" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- ══════════════════════════════════════
-       MÉDECINE FRANÇAISE
-  ══════════════════════════════════════ -->
-  <section id="med-fr">
-    <h2 class="section-title">🩺 Médecine — ECNi / Externat <span class="section-subtitle">French medical school</span></h2>
-
-    <!-- ANKIMED -->
-    <div class="subsection-label">ANKIMED</div>
-    <div class="cards">
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #1a3030, #0d2020);">🏥</div>
-        <div class="card-body">
-          <div class="card-title">ANKIMED — Pack Principal</div>
-          <div class="card-desc">
-            Collection principale ANKIMED. Deck complet pour la préparation aux ECNi,
-            régulièrement mis à jour par la communauté.
-          </div>
-          <div class="card-meta">
-            <span class="badge teal">ECNi</span>
-            <span class="badge teal">R2C</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-teal" href="https://drive.google.com/drive/folders/1qDLpSTmLTB8ZBNhoME8Jr0DoESOR6FaO" target="_blank" rel="noopener">☁ Drive</a>
-          <a class="btn btn-orange" href="https://www.buymeacoffee.com/AnkiR2C" target="_blank" rel="noopener">☕ Soutenir</a>
-          <a class="btn btn-secondary" href="https://web.facebook.com/groups/1259604734553642" target="_blank" rel="noopener">FB Groupe</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #2a1a3a, #1a0f28);">📘</div>
-        <div class="card-body">
-          <div class="card-title">Paquet Descartes (pré-R2C)</div>
-          <div class="card-desc">
-            Le paquet Descartes historique, référence pour les étudiants en médecine
-            avant la réforme R2C.
-          </div>
-          <div class="card-meta">
-            <span class="badge purple">Pré-R2C</span>
-            <span class="badge purple">Externat</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://drive.google.com/drive/folders/1xGRecpkZXORThxg6dbOypTghwBK4CfQL" target="_blank" rel="noopener">☁ Drive</a>
-        </div>
-      </div>
-
-    </div>
-
-    <!-- Anki Externat -->
-    <div class="subsection-label" style="margin-top:36px;">Anki Externat</div>
-    <div class="cards">
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a2a, #0f2a1a);">📚</div>
-        <div class="card-body">
-          <div class="card-title">Anki Externat — Decks &amp; Support</div>
-          <div class="card-desc">
-            Ressources pour l'externat : decks publics, donateurs et sémiologie.
-            Soutenez les créateurs pour accéder aux decks premium.
-          </div>
-          <div class="card-meta">
-            <span class="badge green">Sémiologie</span>
-            <span class="badge green">Externat</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-green" href="https://buymeacoffee.com/ankiexternat" target="_blank" rel="noopener">☕ Soutenir</a>
-          <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1w4zsESQDYmgPE0kY7Yteuv-buEG6IuSF" target="_blank" rel="noopener">📂 Publics</a>
-          <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1YCzTSCZtS5e7IoIEAAo9ryfu3agY7Kkd" target="_blank" rel="noopener">🎁 Donateurs</a>
-          <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1cVhlHK7zCT5fL7uhbUP-qeVF5Lryvplq" target="_blank" rel="noopener">🩺 Sémiologie</a>
-        </div>
-      </div>
-
-
-    </div>
-  </section>
-
-  <!-- ══════════════════════════════════════
-       PHARMACOLOGIE
-  ══════════════════════════════════════ -->
-  <section id="pharmaco">
-    <h2 class="section-title">💊 Pharmacologie</h2>
-    <div class="cards">
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a1a, #0d280d);">💉</div>
-        <div class="card-body">
-          <div class="card-title">RMMG — Noms des Médicaments Génériques</div>
-          <div class="card-desc">
-            Répertoire des Médicaments et Médicaments Génériques du Maroc.
-            Version complète avec 3000+ cartes.
-          </div>
-          <div class="card-meta">
-            <span class="badge green">Maroc</span>
-            <span class="badge green">3000+ cartes</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-green" href="https://github.com/achma-learning/anki-decks/blob/main/anki-decks-backups/rmmg/v2-RMMG_Maroc_2026.apkg" target="_blank" rel="noopener">⬇ v2 (3000+)</a>
-          <a class="btn btn-secondary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/rmmg/v1-RMMG_Medicaments_Generiques_Maroc.apkg" target="_blank" rel="noopener">⬇ v1 (317)</a>
-          <a class="btn btn-green" href="https://ammps.sante.gov.ma/callpages/RMMG" target="_blank" rel="noopener">Source officiel</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #2a1a3a, #1a0d28);">🔤</div>
-        <div class="card-body">
-          <div class="card-title">Suffixes &amp; Préfixes DCI</div>
-          <div class="card-desc">
-            Apprenez les suffixes et préfixes des DCI (Dénomination Commune Internationale)
-            pour identifier rapidement les classes pharmacologiques.
-          </div>
-          <div class="card-meta">
-            <span class="badge purple">DCI</span>
-            <span class="badge purple">Suffixes</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco-suffix/pharmaco-dci-suffixes-v1.apkg" target="_blank" rel="noopener">⬇ v1</a>
-          <a class="btn btn-secondary" href="https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco/pharmaco-suffix-v0.apkg" target="_blank" rel="noopener">⬇ v0</a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- ══════════════════════════════════════
-       AYMANE TFL DECKS
-  ══════════════════════════════════════ -->
-  <section id="aymane">
-    <h2 class="section-title">🎓 Decks par Aymane Tfl <span class="section-subtitle">Médecine de base</span></h2>
-    <div class="cards-compact">
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a2a3a, #0d1a28);">🔬</div>
-        <div class="card-body">
-          <div class="card-title sm">Constantes Biologiques</div>
-          <div class="card-desc sm">Valeurs biologiques usuelles indispensables en clinique.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://drive.google.com/file/d/1UmuATdFKoeBLdIgz0-lvIJWmhQG7rq8v/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1erLnPnYXY9tiScKMBTrlFUj35vEhHWAr/view" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #2a1a2a, #1a0d1a);">🦴</div>
-        <div class="card-body">
-          <div class="card-title sm">Anettermie (Anatomie)</div>
-          <div class="card-desc sm">Deck d'anatomie générale — Anettermie.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://drive.google.com/file/d/1Kt4_BWcsBkN1_0zvG2n_AGaU5Q_yGm6T/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-secondary" href="https://ankiweb.net/shared/info/111233667" target="_blank" rel="noopener">AnkiWeb</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/11DQGp2hBQTwjpkAzb6wHpN2QkpuriY6g/view" target="_blank" rel="noopener">Backup</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1yt3ajpcfkqce3QP5WV_TsuKMhAHWB79N/view?usp=sharing" target="_blank" rel="noopener">Atlas d'Anatomie Humaine pdf</a>
-          <a class="btn btn-backup" href="https://archive.org/download/netter-atlas-danatomie-humaine/Netter%20-%20Atlas%20danatomie%20humaine.pdf" target="_blank" rel="noopener">Atlas d'Anatomie Humaine pdf (backup)</a>
-          
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a2a1a, #0d1a0d);">🧫</div>
-        <div class="card-body">
-          <div class="card-title sm">Atlas Photographique</div>
-          <div class="card-desc sm">Atlas de dissection anatomique avec photographies.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://drive.google.com/file/d/12gzEWgbrP1sU2cmP9q-bWAagCwx8KocZ/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/10i48g4GLvgZJQhyQrVIQZYRZZwidrZB5/view" target="_blank" rel="noopener">Backup</a>
-          <a class="btn btn-primary" href="https://achma-learning.github.io/anatomy-viewer-clone/index.html" target="_blank" rel="noopener">Viewer anatomy tweaked</a>
-          <a class="btn btn-primary" href="https://www.caskanatomy.info/browser/index.html" target="_blank" rel="noopener">Viewer anatomy Original</a>
-          <a class="btn btn-primary" href="https://www.imaios.com/en/e-anatomy/whole-body/visible-human-project" target="_blank" rel="noopener">Viewer anatomy (free view without names)</a>
-          
-          
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #3a1a1a, #280d0d);">❤️</div>
-        <div class="card-body">
-          <div class="card-title sm">Auscultation Cardiaque</div>
-          <div class="card-desc sm">Sons et sémiologie de l'auscultation cardiaque.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-red" href="https://drive.google.com/file/d/1i1YpYe5KHdgQkI6DyJAD-xM6m1eKWKWn/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-secondary" href="https://ankiweb.net/shared/info/1150437141" target="_blank" rel="noopener">AnkiWeb</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1w8W5N7n6PPVhkrBFZKbq1vpXhiYAKHeN/view" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a2a3a, #0d1a28);">🩺</div>
-        <div class="card-body">
-          <div class="card-title sm">Auscultation Pulmonaire</div>
-          <div class="card-desc sm">Sons et sémiologie de l'auscultation pulmonaire.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://drive.google.com/file/d/1KF0uvLiI9aaGbrNnODHuGVzMNVusC-WY/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1b2Un46WUZFS3wZm1gQdztWSuumah1CUD/view" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #2a2a1a, #1a1a0d);">🔭</div>
-        <div class="card-body">
-          <div class="card-title sm">Histologie</div>
-          <div class="card-desc sm">Lames histologiques et descriptions tissu par tissu.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-orange" href="https://drive.google.com/file/d/1fQWTO-NV3MYjzRovZjqi3eIV5QWTPrNo/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1cEMkhF2giERacIH2XmdK41cz3EkNrKj4/view" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a1a3a, #0d0d28);">🖼️</div>
-        <div class="card-body">
-          <div class="card-title sm">Iconographie Médicale</div>
-          <div class="card-desc sm">Images cliniques et iconographie médicale commentée.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://drive.google.com/file/d/1HWqSrkhfw51o_G0rw48KxMGbc_mXOQIa/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1E06EN2V2j_HZYl3GFuhpydq6UEhs5ON0/view" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #2a1a3a, #1a0d28);">🧠</div>
-        <div class="card-body">
-          <div class="card-title sm">Neurosciences</div>
-          <div class="card-desc sm">Anatomie et physiologie du système nerveux central et périphérique.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://drive.google.com/file/d/1O4e2w8HQUtxW9odGXNK3RIQ2q9f6gpC3/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/14RgITprVd_b9pbqqIS0CzkxaVlRyrsVE/view" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a3a2a, #0d281a);">⚗️</div>
-        <div class="card-body">
-          <div class="card-title sm">Physiologie</div>
-          <div class="card-desc sm">Physiologie des grands systèmes pour l'externat.</div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-green" href="https://drive.google.com/file/d/1YOJKwcLPGbJKqhveZvNvaeAEvvurQHht/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1jSShSkxtRQ6IkFzkv31fekrgGgdvfIQZ/view" target="_blank" rel="noopener">Backup</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #3a2a1a, #280f0d);">📈</div>
-        <div class="card-body">
-          <div class="card-title sm">ECG — Deck Complet</div>
-          <div class="card-desc sm">Le seul deck ECG dont vous aurez besoin : rythmes, blocs, ischémie…</div>
-          <div class="card-meta">
-            <span class="badge orange">Essentiel</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-orange" href="https://drive.google.com/file/d/17_tq3NWvlAutZSP-SHTJGJmSrxbrBiER/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1bzlIIceuF6hZ3XBUVnkmkjPuo0rVgBmZ/view" target="_blank" rel="noopener">Backup</a>
-          <a class="btn btn-backup" href="https://www.youtube.com/playlist?list=PLZ_Eh7sp7PakFKyzLvKnaB9inxhVvWAwX" target="_blank" rel="noopener">ECG playlist</a>
-          <a class="btn btn-backup" href="https://drive.google.com/drive/folders/1tTeafcyPkS3EJ7N0qVZQX2_YKkEpjfiu" target="_blank" rel="noopener">ECG playlist ressource</a>
-       
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #3a1a2a, #280d18);">🏥</div>
-        <div class="card-body">
-          <div class="card-title sm">Cas Cliniques ECG</div>
-          <div class="card-desc sm">Les seuls cas cliniques ECG dont vous aurez besoin en formation.</div>
-          <div class="card-meta">
-            <span class="badge red">Cas cliniques</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-red" href="https://drive.google.com/file/d/1H00vciuMSxo-VoT5mn1N1mN-tFzWkiAV/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1LgFx1No0C2o7YHFLkuI2b5z0oESXZbKd/view" target="_blank" rel="noopener">Backup</a>
-          <a class="btn btn-backup" href="https://old.reddit.com/r/EKGs/" target="_blank" rel="noopener">EKGs cases - reddit</a>
-
-          
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner sm" style="background: linear-gradient(135deg, #1a3030, #0d2020);">📖</div>
-        <div class="card-body">
-          <div class="card-title sm">Sémiologie R2C [Complet]</div>
-          <div class="card-desc sm">Deck complet de sémiologie conforme au référentiel R2C.</div>
-          <div class="card-meta">
-            <span class="badge teal">R2C</span>
-            <span class="badge teal">Complet</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-teal" href="https://drive.google.com/file/d/1qHXqgidCYejl6hBd-LLiOYXQ4vBva9LM/view" target="_blank" rel="noopener">⬇ Drive</a>
-          <a class="btn btn-backup" href="https://drive.google.com/file/d/1rfzjtX8Aw6uZsZk064aeszlIWMevaocD/view" target="_blank" rel="noopener">Backup</a>
-          <a class="btn btn-orange" href="https://drive.google.com/file/d/1xcO-PMaCbMIMh956nR1REoYlR824q9va/view" target="_blank" rel="noopener">Sémiologie — Book</a>
-        </div>
-      </div>
-
-
-
-    </div>
-  </section>
-
-  <!-- ══════════════════════════════════════
-       THE ANKING (English / USMLE)
-  ══════════════════════════════════════ -->
-  <section id="anking">
-    <h2 class="section-title">🇺🇸 The AnKing <span class="section-subtitle">USMLE / English</span></h2>
-
-    <div class="anking-banner">
-      <div class="anking-logo">👑</div>
-      <div class="anking-info">
-        <h3>The AnKing Collection</h3>
-        <p>The gold standard for USMLE preparation. Decks maintained by the AnKing team on AnkiHub.</p>
-      </div>
-      <div class="anking-actions">
-        <a class="btn btn-primary" href="https://linktr.ee/ankingmed" target="_blank" rel="noopener">🔗 Linktree</a>
-        <a class="btn btn-secondary" href="https://ankingmed.notion.site/" target="_blank" rel="noopener">📖 Notion</a>
-      </div>
-    </div>
-
-    <div class="cards">
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #1a2a3a, #0d1820);">🧪</div>
-        <div class="card-body">
-          <div class="card-title">USMLE Lab Values</div>
-          <div class="card-desc">
-            Complete reference deck for USMLE laboratory values.
-            Covers normal ranges, clinical significance, and high-yield associations.
-          </div>
-          <div class="card-meta">
-            <span class="badge blue">USMLE</span>
-            <span class="badge blue">Step 1</span>
-            <span class="badge blue">Step 2</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-primary" href="https://app.ankihub.net/decks/ead74597-bdde-4655-8201-e9fe0eeb528e" target="_blank" rel="noopener">⬇ AnkiHub</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #2a1a1a, #1a0d0d);">🩻</div>
-        <div class="card-body">
-          <div class="card-title">Dermki — Dermatology</div>
-          <div class="card-desc">
-            High-yield dermatology deck with clinical images. Covers skin lesions,
-            rashes, and dermatological conditions tested on USMLE.
-          </div>
-          <div class="card-meta">
-            <span class="badge red">Dermatology</span>
-            <span class="badge blue">USMLE</span>
-            <span class="badge green">Images</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-red" href="https://app.ankihub.net/decks/271bd550-5bfd-44a1-bfbd-df1878c33b5f" target="_blank" rel="noopener">⬇ AnkiHub</a>
-          <a class="btn btn-secondary" href="https://ankingmed.notion.site/" target="_blank" rel="noopener">Notion</a>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-banner" style="background: linear-gradient(135deg, #1a3a1a, #0d280d);">💊</div>
-        <div class="card-body">
-          <div class="card-title">Brand Names — Pharmacology</div>
-          <div class="card-desc">
-            Master brand vs. generic drug names for USMLE. Covers all high-yield
-            pharmacological agents tested on Steps 1, 2, and 3.
-          </div>
-          <div class="card-meta">
-            <span class="badge green">Pharmacology</span>
-            <span class="badge blue">USMLE</span>
-          </div>
-        </div>
-        <div class="card-footer">
-          <a class="btn btn-green" href="https://app.ankihub.net/decks/c517d221-5cf4-42fa-b9d3-0c261db54dfb" target="_blank" rel="noopener">⬇ AnkiHub</a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- ══════════════════════════════════════
-       COMMUNITY & RESOURCES
-  ══════════════════════════════════════ -->
-  <section id="community">
-    <h2 class="section-title">👥 Communauté &amp; Soutien</h2>
-    <div class="resource-grid">
-
-      <a class="resource-item" href="https://web.facebook.com/groups/1259604734553642" target="_blank" rel="noopener">
-        <div class="resource-icon">🏥</div>
-        <div class="resource-info">
-          <h3>ANKIMED — Groupe Facebook</h3>
-          <p>Groupe officiel ANKIMED pour étudiants en médecine</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/" target="_blank" rel="noopener">
-        <div class="resource-icon">📣</div>
-        <div class="resource-info">
-          <h3>Anki × EDN — Facebook</h3>
-          <p>Post communautaire avec ressources partagées</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://www.buymeacoffee.com/AnkiR2C" target="_blank" rel="noopener">
-        <div class="resource-icon">☕</div>
-        <div class="resource-info">
-          <h3>Soutenir AnkiR2C</h3>
-          <p>Contribuer au développement des decks ANKIMED / R2C</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://buymeacoffee.com/ankiexternat" target="_blank" rel="noopener">
-        <div class="resource-icon">☕</div>
-        <div class="resource-info">
-          <h3>Soutenir Anki Externat</h3>
-          <p>Accéder aux decks Externat premium (Aymane Tfl)</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://linktr.ee/ankingmed" target="_blank" rel="noopener">
-        <div class="resource-icon">🔗</div>
-        <div class="resource-info">
-          <h3>AnKing — Linktree</h3>
-          <p>Toutes les ressources AnKing en un lien</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://www.reddit.com/r/medicalschoolanki/wiki/index/" target="_blank" rel="noopener">
-        <div class="resource-icon">🔗</div>
-        <div class="resource-info">
-          <h3>medicalschoolanki - Reddit</h3>
-          <p>This subreddit is designed to aid medical students as they use Anki to further their education.</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://linktr.ee/validaremos" target="_blank" rel="noopener">
-        <div class="resource-icon">🔗</div>
-        <div class="resource-info">
-          <h3>Validaremos — Linktree</h3>
-          <p>From FMPR students to all med students</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://archive.org/download/s-ecn-collection/S-ECN%20Collection.zip" target="_blank" rel="noopener">
-        <div class="resource-icon">🔗</div>
-        <div class="resource-info">
-          <h3>CODEX | S-ECN.com</h3>
-          <p>Fiches de révision, organisée par module et par réforme R2C ou non</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-
-      <a class="resource-item" href="https://linktr.ee/thecollection22" target="_blank" rel="noopener">
-        <div class="resource-icon">🔗</div>
-        <div class="resource-info">
-          <h3>thecollection22 — Linktree</h3>
-          <p>documents de cours médicaux et collections selon FMPM</p>
-        </div>
-        <span class="resource-arrow">›</span>
-      </a>
-      
-     
-    </div>
-  </section>
+  <!-- ── Store content (generated from STORE data below) ── -->
+  <div id="store-root"></div>
 
 </main>
 
@@ -1119,5 +394,720 @@
   <p>AnkiStore — Community curated decks &nbsp;·&nbsp; Not affiliated with <a href="https://apps.ankiweb.net/" target="_blank" rel="noopener">AnkiWeb</a> or Anki</p>
 </footer>
 
+<script>
+// ═══════════════════════════════════════════════════════════════════════════════
+// STORE DATA
+// ─────────────────────────────────────────────────────────────────────────────
+// This is the single source of truth for all deck cards on the page.
+//
+// HOW TO ADD A DECK CARD:
+//   1. Find the right section below (e.g., "pharmaco", "chest-xray").
+//   2. Add a new object to its `items` array (or a subsection's `items`).
+//   3. Fill in: banner (emoji), bg (CSS gradient), title, desc, badges, buttons.
+//
+// HOW TO ADD A NEW SECTION:
+//   Add a new object to the STORE array with: id, navLabel, title, layout, items.
+//   layout options: "cards", "cards-compact", "resource-grid"
+//   For subsections: use `subsections` instead of `items`.
+//   For a special top banner (like AnKing): add a `banner` object.
+//
+// BUTTON CLASSES: btn-primary, btn-green, btn-teal, btn-orange, btn-red,
+//                 btn-secondary, btn-backup
+// BADGE COLORS:   green, blue, purple, teal, orange, red, yellow
+//
+// GITHUB RAW URL pattern for file downloads:
+//   https://github.com/achma-learning/anki-decks/raw/refs/heads/main/FOLDER/FILE
+//   (URL-encode spaces as %20, é as %C3%A9, etc.)
+// ═══════════════════════════════════════════════════════════════════════════════
+
+const STORE = [
+
+  // ── Ressources Générales ─────────────────────────────────────────────────
+  {
+    id: "resources",
+    navLabel: "Ressources",
+    title: "🛠️ Ressources Générales",
+    layout: "resource-grid",
+    items: [
+      {
+        icon: "📱",
+        title: "Télécharger Anki",
+        desc: "Application officielle — gratuite sur toutes plateformes",
+        href: "https://apps.ankiweb.net/"
+      },
+      {
+        icon: "🔌",
+        title: "Anki Add-ons",
+        desc: "Pack d'extensions recommandées pour Anki",
+        href: "https://drive.google.com/file/d/1JqFcqULGLAJR9PwYmsrg1gnIJKzyqdkO/view"
+      },
+      {
+        icon: "📋",
+        title: "Répertoire des Decks Anki (Médical)",
+        desc: "Index complet des decks médicaux disponibles",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1tbFEyKjk5gU3hYvbsYLa9Lb1kFK2Fvnw/view", cls: "btn-primary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1njQMk1sg1IawiGXpTg2Rgs4x0zTZv-Cr/view", cls: "btn-backup" }
+        ]
+      },
+      {
+        icon: "☁️",
+        title: "Anki × ECNi — Drive",
+        desc: "Collection de ressources Anki pour les ECNi",
+        buttons: [
+          { label: "Drive", href: "https://drive.google.com/drive/folders/1M9hg4EMRoFRQ4wh_E2xIOu_bKmg7ze59", cls: "btn-teal" },
+          { label: "Backup", href: "https://drive.google.com/drive/folders/12BCy7TWO_tLfUgBwMACuKSR65F9myH1H", cls: "btn-backup" }
+        ]
+      },
+      {
+        icon: "📣",
+        title: "Anki × EDN — Facebook",
+        desc: "Post communautaire avec ressources partagées",
+        href: "https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/"
+      },
+      {
+        icon: "📣",
+        title: "ANKIMED — Facebook",
+        desc: "Un tutorat reposant sur le partage gratuit d'une banque de carte Anki recouvrant tout le programme R2C de l'ECN.",
+        href: "https://web.facebook.com/groups/1259604734553642/about"
+      }
+    ]
+  },
+
+  // ── Geography & Divers ───────────────────────────────────────────────────
+  {
+    id: "geography",
+    navLabel: "Geography",
+    title: "🌍 Geography &amp; Divers",
+    layout: "cards",
+    items: [
+      {
+        banner: "🗺️",
+        bg: "linear-gradient(135deg, #1a3a5a, #0d2040)",
+        title: "Ultimate Geography",
+        desc: "The most comprehensive geography deck on AnkiWeb. Covers flags, maps, capitals, and regional context for every country — with beautiful flag imagery.",
+        badges: [
+          { label: "Flags", color: "blue" },
+          { label: "Capitals", color: "blue" },
+          { label: "Maps", color: "blue" },
+          { label: "Open Source", color: "green" }
+        ],
+        buttons: [
+          { label: "⬇ Download", href: "https://ankiweb.net/shared/info/2109889812", cls: "btn-primary" },
+          { label: "GitHub", href: "https://github.com/anki-geo/ultimate-geography", cls: "btn-secondary" }
+        ]
+      },
+      {
+        banner: "🚗",
+        bg: "linear-gradient(135deg, #1a3a2a, #0d281a)",
+        title: "Plaques Marocaines",
+        desc: "Apprenez à reconnaître les plaques d'immatriculation marocaines — régions, préfectures et codes associés.",
+        badges: [
+          { label: "Maroc", color: "green" },
+          { label: "Plaques", color: "green" }
+        ],
+        buttons: [
+          { label: "⬇ Download .apkg", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/plaques_marocaines.apkg", cls: "btn-green" }
+        ]
+      },
+      {
+        banner: "🇲🇦",
+        bg: "linear-gradient(135deg, #2a1a3a, #1a0d28)",
+        title: "Fêtes Maroc — Moroccan Holidays",
+        desc: "Apprenez les fêtes et jours fériés marocains — fêtes nationales, religieuses et leurs dates.",
+        badges: [
+          { label: "Maroc", color: "green" },
+          { label: "Fêtes", color: "green" }
+        ],
+        buttons: [
+          { label: "⬇ Download .apkg", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/Fetes_Maroc_Moroccan_Holidays.apkg", cls: "btn-green" }
+        ]
+      }
+    ]
+  },
+
+  // ── Kit Soins Intensifs ──────────────────────────────────────────────────
+  {
+    id: "soins-intensifs",
+    navLabel: "Soins Intensifs",
+    title: "🚨 Kit Soins Intensifs",
+    layout: "cards",
+    items: [
+      {
+        banner: "🏥",
+        bg: "linear-gradient(135deg, #3a1a1a, #280d0d)",
+        title: "Kit d'autoformation en Soins Intensifs",
+        desc: "Kit e-learning complet pour l'autoformation en soins intensifs. Deck Anki accompagné d'un site web pédagogique dédié.",
+        badges: [
+          { label: "Soins Intensifs", color: "red" },
+          { label: "E-learning", color: "red" }
+        ],
+        buttons: [
+          { label: "☁ Drive", href: "https://drive.google.com/drive/u/0/folders/1JkvC6-tekBHI6AT5hCvitRM6VU6aB4o9", cls: "btn-red" },
+          { label: "⬇ Backup .apkg", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/Kit%20d'autoformation%20en%20soins%20intensifs.apkg", cls: "btn-primary" },
+          { label: "🌐 Site Web", href: "https://sites.google.com/view/kit-e-learning-soins-intensifs/accueil", cls: "btn-secondary" }
+        ]
+      }
+    ]
+  },
+
+  // ── Radiologie ───────────────────────────────────────────────────────────
+  {
+    id: "chest-xray",
+    navLabel: "Radiologie",
+    title: "🩻 Radiologie",
+    layout: "cards",
+    items: [
+      {
+        banner: "🩻",
+        bg: "linear-gradient(135deg, #1a2a3a, #0d1a28)",
+        compact: true,
+        title: "Rx Thorax — Tuberculose",
+        desc: "Radiographies thoraciques de tuberculose : signes radiologiques et cas typiques.",
+        badges: [
+          { label: "Radiologie", color: "blue" },
+          { label: "Tuberculose", color: "blue" }
+        ],
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1VbQZSZC1IkJtpMR5pS-U1dWEz3NWeY8Y/view?usp=sharing", cls: "btn-primary" },
+          { label: "Backup", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/rx%20thoax-tubercolose/rx_thorax_tuberculose%20(1).apkg", cls: "btn-backup" },
+          { label: "Backup website", href: "https://achma-learning.github.io/fmpm-radio-thorax-old/archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cc.html", cls: "btn-backup" },
+          { label: "Original website", href: "https://archives.uness.fr/sites/umvf/media/ressPneumo/M1127/cc.html", cls: "btn-backup" },
+          { label: "Radiopeadia", href: "https://radiopaedia.org/articles/tuberculosis-pulmonary-manifestations-1?lang=gb", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "🫁",
+        bg: "linear-gradient(135deg, #0d1f2d, #1a3a4a)",
+        title: "Chest X-Ray — Radiologues",
+        titleNote: " par Dr HOURI",
+        desc: "Deck complet de radiologie thoracique par Dr HOURI. Reconnaître et interpréter les images radiologiques pulmonaires, cardiaques et médiastinales.",
+        badges: [
+          { label: "Radiologie", color: "blue" },
+          { label: "Thorax", color: "blue" },
+          { label: "EDN", color: "teal" },
+          { label: "Cardiologie", color: "red" }
+        ],
+        buttons: [
+          { label: "⬇ Deck .apkg", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/chest%20x-ray%20by%20Dr%20HOURI/Radiologie_Thoracique_Chest_Xray_Radiologues.apkg", cls: "btn-primary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1kUHtYd9_F-RlNSY2ltZvEypbjlVikSxn/view?usp=drive_link", cls: "btn-backup" },
+          { label: "⬇ Cours — Pathologie Cardiaque", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/chest%20x-ray%20by%20Dr%20HOURI/Images%20radiologiques%20pulmonaires%20secondaires%20%C3%A0%20une%20pathologie%20cardiaque.Dr%20HOURI.pdf", cls: "btn-red" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1UcIkp5kokjblh-5r0hg2gfKEtNHtBZfY/view?usp=drive_link", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "📄",
+        bg: "linear-gradient(135deg, #1a2a1a, #0d1f0d)",
+        compact: true,
+        title: "Images à connaître pour l'EDN",
+        desc: "Sélection d'images radiologiques thoraciques essentielles pour l'EDN.",
+        badges: [
+          { label: "EDN", color: "teal" },
+          { label: "PDF", color: "blue" }
+        ],
+        buttons: [
+          { label: "⬇ PDF", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/chest%20x-ray%20by%20Dr%20HOURI/Images%20%C3%A0%20conna%C3%AEtre%20pour%20EDN_2.pdf", cls: "btn-teal" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1upCQC_eN-qUbVEHuED1ydZwolyBpV8AR/view?usp=drive_link", cls: "btn-backup" }
+        ]
+      }
+    ]
+  },
+
+  // ── Médecine — ECNi / Externat ───────────────────────────────────────────
+  {
+    id: "med-fr",
+    navLabel: "Médecine FR",
+    title: "🩺 Médecine — ECNi / Externat",
+    titleSub: "French medical school",
+    layout: "cards",
+    subsections: [
+      {
+        label: "ANKIMED",
+        items: [
+          {
+            banner: "🏥",
+            bg: "linear-gradient(135deg, #1a3030, #0d2020)",
+            title: "ANKIMED — Pack Principal",
+            desc: "Collection principale ANKIMED. Deck complet pour la préparation aux ECNi, régulièrement mis à jour par la communauté.",
+            badges: [
+              { label: "ECNi", color: "teal" },
+              { label: "R2C", color: "teal" }
+            ],
+            buttons: [
+              { label: "☁ Drive", href: "https://drive.google.com/drive/folders/1qDLpSTmLTB8ZBNhoME8Jr0DoESOR6FaO", cls: "btn-teal" },
+              { label: "☕ Soutenir", href: "https://www.buymeacoffee.com/AnkiR2C", cls: "btn-orange" },
+              { label: "FB Groupe", href: "https://web.facebook.com/groups/1259604734553642", cls: "btn-secondary" }
+            ]
+          },
+          {
+            banner: "📘",
+            bg: "linear-gradient(135deg, #2a1a3a, #1a0f28)",
+            title: "Paquet Descartes (pré-R2C)",
+            desc: "Le paquet Descartes historique, référence pour les étudiants en médecine avant la réforme R2C.",
+            badges: [
+              { label: "Pré-R2C", color: "purple" },
+              { label: "Externat", color: "purple" }
+            ],
+            buttons: [
+              { label: "☁ Drive", href: "https://drive.google.com/drive/folders/1xGRecpkZXORThxg6dbOypTghwBK4CfQL", cls: "btn-primary" }
+            ]
+          }
+        ]
+      },
+      {
+        label: "Anki Externat",
+        items: [
+          {
+            banner: "📚",
+            bg: "linear-gradient(135deg, #1a3a2a, #0f2a1a)",
+            title: "Anki Externat — Decks &amp; Support",
+            desc: "Ressources pour l'externat : decks publics, donateurs et sémiologie. Soutenez les créateurs pour accéder aux decks premium.",
+            badges: [
+              { label: "Sémiologie", color: "green" },
+              { label: "Externat", color: "green" }
+            ],
+            buttons: [
+              { label: "☕ Soutenir", href: "https://buymeacoffee.com/ankiexternat", cls: "btn-green" },
+              { label: "📂 Publics", href: "https://drive.google.com/drive/folders/1w4zsESQDYmgPE0kY7Yteuv-buEG6IuSF", cls: "btn-secondary" },
+              { label: "🎁 Donateurs", href: "https://drive.google.com/drive/folders/1YCzTSCZtS5e7IoIEAAo9ryfu3agY7Kkd", cls: "btn-secondary" },
+              { label: "🩺 Sémiologie", href: "https://drive.google.com/drive/folders/1cVhlHK7zCT5fL7uhbUP-qeVF5Lryvplq", cls: "btn-secondary" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  // ── Pharmacologie ────────────────────────────────────────────────────────
+  {
+    id: "pharmaco",
+    navLabel: "Pharmaco",
+    title: "💊 Pharmacologie",
+    layout: "cards",
+    items: [
+      {
+        banner: "💉",
+        bg: "linear-gradient(135deg, #1a3a1a, #0d280d)",
+        title: "RMMG — Noms des Médicaments Génériques",
+        desc: "Répertoire des Médicaments et Médicaments Génériques du Maroc (AMMPS). Deck v4 avec ~2 000 cartes.",
+        badges: [
+          { label: "Maroc", color: "green" },
+          { label: "~2 000 cartes", color: "green" }
+        ],
+        buttons: [
+          { label: "⬇ v4 (~2k)", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/RMMG-AMMPS/v4%20medicaments_generiques_maroc.apkg", cls: "btn-green" },
+          { label: "⬇ v1 (317)", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/anki-decks-backups/rmmg/v1-RMMG_Medicaments_Generiques_Maroc.apkg", cls: "btn-secondary" },
+          { label: "📄 Dictionnaire Pharmaco", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/RMMG-AMMPS/dictionnaire%20pharmacologique%20-%20medicament.pdf", cls: "btn-primary" },
+          { label: "🌐 Source AMMPS", href: "https://www.ammps.gov.ma/repertoire-medicaments-generiques", cls: "btn-secondary" }
+        ]
+      },
+      {
+        banner: "📋",
+        bg: "linear-gradient(135deg, #1a2a3a, #0d1a2e)",
+        title: "Médicaments Essentiels (MSF)",
+        desc: "Guide MSF des médicaments essentiels — référence de terrain pour les professionnels de santé en contexte humanitaire.",
+        badges: [
+          { label: "MSF", color: "teal" },
+          { label: "PDF", color: "blue" }
+        ],
+        buttons: [
+          { label: "📄 Guide MSF", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/RMMG-AMMPS/M%C3%A9dicaments%20essentiels%20(MSF)%20guideline-339-fr.pdf", cls: "btn-teal" },
+          { label: "🌐 Source MSF", href: "https://medicalguidelines.msf.org/fr/viewport/EssDr/francais/medicaments-essentiels-16682579.html", cls: "btn-secondary" }
+        ]
+      },
+      {
+        banner: "🔤",
+        bg: "linear-gradient(135deg, #2a1a3a, #1a0d28)",
+        title: "Suffixes &amp; Préfixes DCI",
+        desc: "Apprenez les suffixes et préfixes des DCI (Dénomination Commune Internationale) pour identifier rapidement les classes pharmacologiques.",
+        badges: [
+          { label: "DCI", color: "purple" },
+          { label: "Suffixes", color: "purple" }
+        ],
+        buttons: [
+          { label: "⬇ v1", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco-suffix/pharmaco-dci-suffixes-v1.apkg", cls: "btn-primary" },
+          { label: "⬇ v0", href: "https://github.com/achma-learning/anki-decks/raw/refs/heads/main/pharmaco/pharmaco-suffix-v0.apkg", cls: "btn-secondary" }
+        ]
+      }
+    ]
+  },
+
+  // ── Decks par Aymane Tfl ─────────────────────────────────────────────────
+  {
+    id: "aymane",
+    navLabel: "Aymane",
+    title: "🎓 Decks par Aymane Tfl",
+    titleSub: "Médecine de base",
+    layout: "cards-compact",
+    items: [
+      {
+        banner: "🔬",
+        bg: "linear-gradient(135deg, #1a2a3a, #0d1a28)",
+        compact: true,
+        title: "Constantes Biologiques",
+        desc: "Valeurs biologiques usuelles indispensables en clinique.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1UmuATdFKoeBLdIgz0-lvIJWmhQG7rq8v/view", cls: "btn-primary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1erLnPnYXY9tiScKMBTrlFUj35vEhHWAr/view", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "🦴",
+        bg: "linear-gradient(135deg, #2a1a2a, #1a0d1a)",
+        compact: true,
+        title: "Anettermie (Anatomie)",
+        desc: "Deck d'anatomie générale — Anettermie.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1Kt4_BWcsBkN1_0zvG2n_AGaU5Q_yGm6T/view", cls: "btn-primary" },
+          { label: "AnkiWeb", href: "https://ankiweb.net/shared/info/111233667", cls: "btn-secondary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/11DQGp2hBQTwjpkAzb6wHpN2QkpuriY6g/view", cls: "btn-backup" },
+          { label: "Atlas d'Anatomie Humaine pdf", href: "https://drive.google.com/file/d/1yt3ajpcfkqce3QP5WV_TsuKMhAHWB79N/view?usp=sharing", cls: "btn-backup" },
+          { label: "Atlas d'Anatomie Humaine pdf (backup)", href: "https://archive.org/download/netter-atlas-danatomie-humaine/Netter%20-%20Atlas%20danatomie%20humaine.pdf", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "🧫",
+        bg: "linear-gradient(135deg, #1a2a1a, #0d1a0d)",
+        compact: true,
+        title: "Atlas Photographique",
+        desc: "Atlas de dissection anatomique avec photographies.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/12gzEWgbrP1sU2cmP9q-bWAagCwx8KocZ/view", cls: "btn-primary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/10i48g4GLvgZJQhyQrVIQZYRZZwidrZB5/view", cls: "btn-backup" },
+          { label: "Viewer anatomy tweaked", href: "https://achma-learning.github.io/anatomy-viewer-clone/index.html", cls: "btn-primary" },
+          { label: "Viewer anatomy Original", href: "https://www.caskanatomy.info/browser/index.html", cls: "btn-primary" },
+          { label: "Viewer anatomy (free view without names)", href: "https://www.imaios.com/en/e-anatomy/whole-body/visible-human-project", cls: "btn-primary" }
+        ]
+      },
+      {
+        banner: "❤️",
+        bg: "linear-gradient(135deg, #3a1a1a, #280d0d)",
+        compact: true,
+        title: "Auscultation Cardiaque",
+        desc: "Sons et sémiologie de l'auscultation cardiaque.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1i1YpYe5KHdgQkI6DyJAD-xM6m1eKWKWn/view", cls: "btn-red" },
+          { label: "AnkiWeb", href: "https://ankiweb.net/shared/info/1150437141", cls: "btn-secondary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1w8W5N7n6PPVhkrBFZKbq1vpXhiYAKHeN/view", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "🩺",
+        bg: "linear-gradient(135deg, #1a2a3a, #0d1a28)",
+        compact: true,
+        title: "Auscultation Pulmonaire",
+        desc: "Sons et sémiologie de l'auscultation pulmonaire.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1KF0uvLiI9aaGbrNnODHuGVzMNVusC-WY/view", cls: "btn-primary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1b2Un46WUZFS3wZm1gQdztWSuumah1CUD/view", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "🔭",
+        bg: "linear-gradient(135deg, #2a2a1a, #1a1a0d)",
+        compact: true,
+        title: "Histologie",
+        desc: "Lames histologiques et descriptions tissu par tissu.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1fQWTO-NV3MYjzRovZjqi3eIV5QWTPrNo/view", cls: "btn-orange" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1cEMkhF2giERacIH2XmdK41cz3EkNrKj4/view", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "🖼️",
+        bg: "linear-gradient(135deg, #1a1a3a, #0d0d28)",
+        compact: true,
+        title: "Iconographie Médicale",
+        desc: "Images cliniques et iconographie médicale commentée.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1HWqSrkhfw51o_G0rw48KxMGbc_mXOQIa/view", cls: "btn-primary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1E06EN2V2j_HZYl3GFuhpydq6UEhs5ON0/view", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "🧠",
+        bg: "linear-gradient(135deg, #2a1a3a, #1a0d28)",
+        compact: true,
+        title: "Neurosciences",
+        desc: "Anatomie et physiologie du système nerveux central et périphérique.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1O4e2w8HQUtxW9odGXNK3RIQ2q9f6gpC3/view", cls: "btn-primary" },
+          { label: "Backup", href: "https://drive.google.com/file/d/14RgITprVd_b9pbqqIS0CzkxaVlRyrsVE/view", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "⚗️",
+        bg: "linear-gradient(135deg, #1a3a2a, #0d281a)",
+        compact: true,
+        title: "Physiologie",
+        desc: "Physiologie des grands systèmes pour l'externat.",
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1YOJKwcLPGbJKqhveZvNvaeAEvvurQHht/view", cls: "btn-green" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1jSShSkxtRQ6IkFzkv31fekrgGgdvfIQZ/view", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "📈",
+        bg: "linear-gradient(135deg, #3a2a1a, #280f0d)",
+        compact: true,
+        title: "ECG — Deck Complet",
+        desc: "Le seul deck ECG dont vous aurez besoin : rythmes, blocs, ischémie…",
+        badges: [{ label: "Essentiel", color: "orange" }],
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/17_tq3NWvlAutZSP-SHTJGJmSrxbrBiER/view", cls: "btn-orange" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1bzlIIceuF6hZ3XBUVnkmkjPuo0rVgBmZ/view", cls: "btn-backup" },
+          { label: "ECG playlist", href: "https://www.youtube.com/playlist?list=PLZ_Eh7sp7PakFKyzLvKnaB9inxhVvWAwX", cls: "btn-backup" },
+          { label: "ECG playlist ressource", href: "https://drive.google.com/drive/folders/1tTeafcyPkS3EJ7N0qVZQX2_YKkEpjfiu", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "🏥",
+        bg: "linear-gradient(135deg, #3a1a2a, #280d18)",
+        compact: true,
+        title: "Cas Cliniques ECG",
+        desc: "Les seuls cas cliniques ECG dont vous aurez besoin en formation.",
+        badges: [{ label: "Cas cliniques", color: "red" }],
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1H00vciuMSxo-VoT5mn1N1mN-tFzWkiAV/view", cls: "btn-red" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1LgFx1No0C2o7YHFLkuI2b5z0oESXZbKd/view", cls: "btn-backup" },
+          { label: "EKGs cases - reddit", href: "https://old.reddit.com/r/EKGs/", cls: "btn-backup" }
+        ]
+      },
+      {
+        banner: "📖",
+        bg: "linear-gradient(135deg, #1a3030, #0d2020)",
+        compact: true,
+        title: "Sémiologie R2C [Complet]",
+        desc: "Deck complet de sémiologie conforme au référentiel R2C.",
+        badges: [
+          { label: "R2C", color: "teal" },
+          { label: "Complet", color: "teal" }
+        ],
+        buttons: [
+          { label: "⬇ Drive", href: "https://drive.google.com/file/d/1qHXqgidCYejl6hBd-LLiOYXQ4vBva9LM/view", cls: "btn-teal" },
+          { label: "Backup", href: "https://drive.google.com/file/d/1rfzjtX8Aw6uZsZk064aeszlIWMevaocD/view", cls: "btn-backup" },
+          { label: "Sémiologie — Book", href: "https://drive.google.com/file/d/1xcO-PMaCbMIMh956nR1REoYlR824q9va/view", cls: "btn-orange" }
+        ]
+      }
+    ]
+  },
+
+  // ── The AnKing ───────────────────────────────────────────────────────────
+  {
+    id: "anking",
+    navLabel: "AnKing",
+    title: "🇺🇸 The AnKing",
+    titleSub: "USMLE / English",
+    layout: "cards",
+    topBanner: {
+      logo: "👑",
+      title: "The AnKing Collection",
+      desc: "The gold standard for USMLE preparation. Decks maintained by the AnKing team on AnkiHub.",
+      actions: [
+        { label: "🔗 Linktree", href: "https://linktr.ee/ankingmed", cls: "btn-primary" },
+        { label: "📖 Notion", href: "https://ankingmed.notion.site/", cls: "btn-secondary" }
+      ]
+    },
+    items: [
+      {
+        banner: "🧪",
+        bg: "linear-gradient(135deg, #1a2a3a, #0d1820)",
+        title: "USMLE Lab Values",
+        desc: "Complete reference deck for USMLE laboratory values. Covers normal ranges, clinical significance, and high-yield associations.",
+        badges: [
+          { label: "USMLE", color: "blue" },
+          { label: "Step 1", color: "blue" },
+          { label: "Step 2", color: "blue" }
+        ],
+        buttons: [
+          { label: "⬇ AnkiHub", href: "https://app.ankihub.net/decks/ead74597-bdde-4655-8201-e9fe0eeb528e", cls: "btn-primary" }
+        ]
+      },
+      {
+        banner: "🩻",
+        bg: "linear-gradient(135deg, #2a1a1a, #1a0d0d)",
+        title: "Dermki — Dermatology",
+        desc: "High-yield dermatology deck with clinical images. Covers skin lesions, rashes, and dermatological conditions tested on USMLE.",
+        badges: [
+          { label: "Dermatology", color: "red" },
+          { label: "USMLE", color: "blue" },
+          { label: "Images", color: "green" }
+        ],
+        buttons: [
+          { label: "⬇ AnkiHub", href: "https://app.ankihub.net/decks/271bd550-5bfd-44a1-bfbd-df1878c33b5f", cls: "btn-red" },
+          { label: "Notion", href: "https://ankingmed.notion.site/", cls: "btn-secondary" }
+        ]
+      },
+      {
+        banner: "💊",
+        bg: "linear-gradient(135deg, #1a3a1a, #0d280d)",
+        title: "Brand Names — Pharmacology",
+        desc: "Master brand vs. generic drug names for USMLE. Covers all high-yield pharmacological agents tested on Steps 1, 2, and 3.",
+        badges: [
+          { label: "Pharmacology", color: "green" },
+          { label: "USMLE", color: "blue" }
+        ],
+        buttons: [
+          { label: "⬇ AnkiHub", href: "https://app.ankihub.net/decks/c517d221-5cf4-42fa-b9d3-0c261db54dfb", cls: "btn-green" }
+        ]
+      }
+    ]
+  },
+
+  // ── Communauté & Soutien ─────────────────────────────────────────────────
+  {
+    id: "community",
+    navLabel: "Communauté",
+    title: "👥 Communauté &amp; Soutien",
+    layout: "resource-grid",
+    items: [
+      {
+        icon: "🏥",
+        title: "ANKIMED — Groupe Facebook",
+        desc: "Groupe officiel ANKIMED pour étudiants en médecine",
+        href: "https://web.facebook.com/groups/1259604734553642"
+      },
+      {
+        icon: "📣",
+        title: "Anki × EDN — Facebook",
+        desc: "Post communautaire avec ressources partagées",
+        href: "https://web.facebook.com/groups/anki.ecni/posts/1892537847804743/"
+      },
+      {
+        icon: "☕",
+        title: "Soutenir AnkiR2C",
+        desc: "Contribuer au développement des decks ANKIMED / R2C",
+        href: "https://www.buymeacoffee.com/AnkiR2C"
+      },
+      {
+        icon: "☕",
+        title: "Soutenir Anki Externat",
+        desc: "Accéder aux decks Externat premium (Aymane Tfl)",
+        href: "https://buymeacoffee.com/ankiexternat"
+      },
+      {
+        icon: "🔗",
+        title: "AnKing — Linktree",
+        desc: "Toutes les ressources AnKing en un lien",
+        href: "https://linktr.ee/ankingmed"
+      },
+      {
+        icon: "🔗",
+        title: "medicalschoolanki - Reddit",
+        desc: "This subreddit is designed to aid medical students as they use Anki to further their education.",
+        href: "https://www.reddit.com/r/medicalschoolanki/wiki/index/"
+      },
+      {
+        icon: "🔗",
+        title: "Validaremos — Linktree",
+        desc: "From FMPR students to all med students",
+        href: "https://linktr.ee/validaremos"
+      },
+      {
+        icon: "🔗",
+        title: "CODEX | S-ECN.com",
+        desc: "Fiches de révision, organisée par module et par réforme R2C ou non",
+        href: "https://archive.org/download/s-ecn-collection/S-ECN%20Collection.zip"
+      },
+      {
+        icon: "🔗",
+        title: "thecollection22 — Linktree",
+        desc: "Documents de cours médicaux et collections selon FMPM",
+        href: "https://linktr.ee/thecollection22"
+      }
+    ]
+  }
+
+];
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// RENDERER — don't edit this unless the page layout needs to change
+// ═══════════════════════════════════════════════════════════════════════════════
+
+function renderBtn(b) {
+  return `<a class="btn ${b.cls}" href="${b.href}" target="_blank" rel="noopener">${b.label}</a>`;
+}
+
+function renderBadge(b) {
+  return `<span class="badge ${b.color || ''}">${b.label}</span>`;
+}
+
+function renderCard(item) {
+  const sm = item.compact;
+  return `
+    <div class="card">
+      <div class="card-banner${sm ? ' sm' : ''}" style="background:${item.bg}">${item.banner}</div>
+      <div class="card-body">
+        <div class="card-title${sm ? ' sm' : ''}">${item.title}${item.titleNote ? `<span style="font-size:11px;font-weight:400;color:#666;">${item.titleNote}</span>` : ''}</div>
+        <div class="card-desc${sm ? ' sm' : ''}">${item.desc}</div>
+        ${item.badges ? `<div class="card-meta">${item.badges.map(renderBadge).join('')}</div>` : ''}
+      </div>
+      <div class="card-footer">${item.buttons.map(renderBtn).join('')}</div>
+    </div>`;
+}
+
+function renderResourceItem(item) {
+  if (!item.buttons) {
+    return `
+    <a class="resource-item" href="${item.href}" target="_blank" rel="noopener">
+      <div class="resource-icon">${item.icon}</div>
+      <div class="resource-info"><h3>${item.title}</h3><p>${item.desc}</p></div>
+      <span class="resource-arrow">›</span>
+    </a>`;
+  }
+  return `
+    <div class="resource-item" style="cursor:default;">
+      <div class="resource-icon">${item.icon}</div>
+      <div class="resource-info"><h3>${item.title}</h3><p>${item.desc}</p></div>
+      <div style="margin-left:auto;display:flex;gap:8px;flex-shrink:0;">${item.buttons.map(renderBtn).join('')}</div>
+    </div>`;
+}
+
+function renderSection(sec) {
+  const titleHtml = sec.titleSub
+    ? `${sec.title} <span class="section-subtitle">${sec.titleSub}</span>`
+    : sec.title;
+
+  let contentHtml = '';
+
+  if (sec.layout === 'resource-grid') {
+    contentHtml = `<div class="resource-grid">${sec.items.map(renderResourceItem).join('')}</div>`;
+
+  } else if (sec.subsections) {
+    contentHtml = sec.subsections.map(sub => `
+      <div class="subsection-label">${sub.label}</div>
+      <div class="cards">${sub.items.map(renderCard).join('')}</div>`).join('');
+
+  } else {
+    const gridCls = sec.layout === 'cards-compact' ? 'cards-compact' : 'cards';
+    let topBannerHtml = '';
+    if (sec.topBanner) {
+      const b = sec.topBanner;
+      topBannerHtml = `
+      <div class="anking-banner">
+        <div class="anking-logo">${b.logo}</div>
+        <div class="anking-info"><h3>${b.title}</h3><p>${b.desc}</p></div>
+        <div class="anking-actions">${b.actions.map(renderBtn).join('')}</div>
+      </div>`;
+    }
+    contentHtml = topBannerHtml + `<div class="${gridCls}">${sec.items.map(renderCard).join('')}</div>`;
+  }
+
+  return `
+  <section id="${sec.id}">
+    <h2 class="section-title">${titleHtml}</h2>
+    ${contentHtml}
+  </section>`;
+}
+
+function init() {
+  document.getElementById('store-root').innerHTML = STORE.map(renderSection).join('');
+  document.getElementById('nav-links').innerHTML = STORE.map(s =>
+    `<a href="#${s.id}">${s.navLabel}</a>`
+  ).join('');
+}
+
+init();
+</script>
 </body>
 </html>
